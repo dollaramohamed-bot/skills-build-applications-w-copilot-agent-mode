@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "monafit-tracker"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
