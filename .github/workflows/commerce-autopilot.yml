@@ -20,6 +20,8 @@ jobs:
     timeout-minutes: 3
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 0
       - name: Fetch live supplier catalog and market attention
         id: source
         run: python3 commerce-autopilot/worker.py
@@ -32,6 +34,7 @@ jobs:
             git add commerce-autopilot/status/
             if ! git diff --cached --quiet; then
               git commit -m "Record live commerce sourcing results"
+              git pull --rebase origin main
               git push
             fi
             cat commerce-autopilot/status/latest.json >> "$GITHUB_STEP_SUMMARY"
