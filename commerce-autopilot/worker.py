@@ -12,6 +12,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 from economics import assess
+from screening import screen
 
 CATALOG = "https://royalcraftwood.com/collections/storage-organization"
 TRENDS = "https://trends.google.com/trending/rss?geo=US"
@@ -76,6 +77,18 @@ def main():
                                "funding before payout"]}
                   for source in (sources[2], sources[0])
                   for url in source.get("product_urls", [])]
+    previous_rows = {row["url"]: row for row in previous.get("candidates", [])}
+    for row in candidates:
+        prior = previous_rows.get(row["url"], {})
+        try:
+            observed = dt.datetime.fromisoformat(prior.get("source_observed_at", ""))
+            fresh = dt.timedelta(0) <= now - observed < dt.timedelta(hours=48)
+        except (ValueError, TypeError):
+            fresh = False
+        if fresh:
+            for field in ("public_product_data", "page_sha256", "source_observed_at"):
+                if field in prior:
+                    row[field] = prior[field]
     for source in sources:
         source.pop("_body", None)
     selected = []
@@ -84,12 +97,15 @@ def main():
         if urls:
             start = cursor % len(urls)
             rotated = urls[start:] + urls[:start]
-            selected.extend(row for url in rotated[:4] for row in candidates if row["url"] == url)
+            selected.extend(row for url in rotated[:8] for row in candidates if row["url"] == url)
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         details = list(pool.map(inspect, [row["url"] for row in selected]))
     for row, detail in zip(selected, details):
         text = detail.pop("_body", "")
         row["page_status"] = detail["status"]
+        if detail["status"] != "fetched":
+            continue
+        row["source_observed_at"] = now.isoformat()
         row["page_sha256"] = detail.get("sha256")
         row["public_product_data"] = []
         for block in re.findall(r'<script[^>]+type=["\x27]application/ld\+json["\x27][^>]*>(.*?)</script>', text, re.S | re.I):
@@ -108,14 +124,23 @@ def main():
                 continue
     for row in candidates:
         row["profit_gate"] = assess(row, now)
+        row["cost_screen"] = screen(row)
     result = {
         "objective": {"rolling_30_day_operating_profit_cents": 1_000_000,
                       "product_categories": "unrestricted", "available_spend_cents": 0},
         "observed_at": now.isoformat(), "run_id": os.getenv("GITHUB_RUN_ID"),
-        "mode": "live_public_research", "sources": sources, "scan_cursor": cursor + 4,
+        "mode": "live_public_research", "sources": sources, "scan_cursor": cursor + 8,
         "market_attention_queries": trends,
         "market_caveat": "Trending searches measure attention, not purchase intent or product demand.",
         "candidates": candidates,
+        "quote_priorities": sorted(
+            [{"url": row["url"],
+              "required_buyer_payment_for_25_contribution_floor_cents":
+                  row["cost_screen"]["offers"][0]["required_buyer_payment_for_contribution_cents"]["2500"],
+              "observed_at": row.get("source_observed_at")}
+             for row in candidates if row["cost_screen"]["status"] == "catalog_floor_only"],
+            key=lambda item: item["required_buyer_payment_for_25_contribution_floor_cents"]),
+        "quote_priority_caveat": "Cost screening only. Demand and exact quote still required.",
         "operating_status": "sourcing_only",
         "blockers": ["Shopify connected store rejects API access",
                      "No authenticated supplier fulfillment connection",
