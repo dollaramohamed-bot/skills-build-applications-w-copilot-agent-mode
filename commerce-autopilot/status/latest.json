@@ -1,21 +1,39 @@
 {
-  "observed_at": "2026-11-05T12:49:44.920617+00:00",
-  "run_id": "42030425614",
+  "observed_at": "2026-11-05T12:54:07.758287+00:00",
+  "run_id": "42031037455",
   "mode": "live_public_research",
   "sources": [
     {
-      "url": "https://cjdropshipping.com/list/wholesale-home-storage-l-ED8E61AA-2260-4E03-BA66-DEAE3DF02CDC.html",
-      "status": "failed",
-      "error_type": "ValueError"
+      "url": "https://royalcraftwood.com/collections/storage-organization",
+      "status": "fetched",
+      "sha256": "86947e8b6f3590607ae9a43cbfb2cb4acafe570d4d16a0c77f25ae8fc10d3816",
+      "product_urls": [
+        "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
+        "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
+        "https://royalcraftwood.com/products/bamboo-cheese-board-xxl-with-cutlery-set",
+        "https://royalcraftwood.com/products/bamboo-cutting-board-m-15x10",
+        "https://royalcraftwood.com/products/bamboo-cutting-board-s-12x8",
+        "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-3",
+        "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-4",
+        "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-5",
+        "https://royalcraftwood.com/products/bamboo-cutting-board-with-compartments-18x12",
+        "https://royalcraftwood.com/products/bamboo-cutting-board-xxl-20x14",
+        "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-black",
+        "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-gray"
+      ]
     },
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "fe1cbb17bc4a3df855ae573c5f8fda65ebcf017c11e0d844028aa5a277bbfe48",
+      "sha256": "f1354b6b86089c876210949625b165a023909f61c76fe31c441ce0fc60d19072",
       "product_urls": []
     }
   ],
   "market_attention_queries": [
+    {
+      "query": "hurricane season",
+      "published": "Thu, 5 Nov 2026 04:30:00 -0800"
+    },
     {
       "query": "charles porter",
       "published": "Thu, 5 Nov 2026 04:30:00 -0800"
@@ -26,6 +44,10 @@
     },
     {
       "query": "amc stock",
+      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+    },
+    {
+      "query": "birmingham mayor",
       "published": "Thu, 5 Nov 2026 04:20:00 -0800"
     },
     {
@@ -47,18 +69,179 @@
     {
       "query": "marlon",
       "published": "Thu, 5 Nov 2026 04:10:00 -0800"
-    },
-    {
-      "query": "philadelphia weather",
-      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
-    },
-    {
-      "query": "dc weather",
-      "published": "Thu, 5 Nov 2026 04:00:00 -0800"
     }
   ],
   "market_caveat": "Trending searches measure attention, not purchase intent or product demand.",
-  "candidates": [],
+  "candidates": [
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "5bb6588abc4e379eb0405c35d91005bb9e0ffc10a115fd1a39a413770290e2b9",
+      "public_product_data": []
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "873dd1c3ad70f3c2de82307c5243152a9b09ab0d5b9742e62f0eabfcd6be5606",
+      "public_product_data": []
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cheese-board-xxl-with-cutlery-set",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "4e1a551aed6a83cde2ff138e8f734b3639c86531809c0175746de5546b268040",
+      "public_product_data": []
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cutting-board-m-15x10",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "0416731948104e283db315cd5e44e2ff598e5599d18f240082abc05e3da814b0",
+      "public_product_data": []
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cutting-board-s-12x8",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-3",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-4",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-5",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cutting-board-with-compartments-18x12",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-cutting-board-xxl-20x14",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-black",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-gray",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ]
+    }
+  ],
   "operating_status": "sourcing_only",
   "blockers": [
     "Shopify connected store rejects API access",
