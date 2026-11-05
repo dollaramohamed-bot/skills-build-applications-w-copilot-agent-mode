@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-05T19:17:41.430999+00:00",
-  "run_id": "42092465517",
+  "observed_at": "2026-11-05T19:19:19.222082+00:00",
+  "run_id": "42092738902",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "c335277efaa87b0263d1fa32b1803f6d939b59936461b78ee2cb2e9aa727f958",
+      "sha256": "6ed4a903bddda3d669fa273a78d21b39707978e6be3af9b19e8cc6f9498f9331",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "fd217a5483e773677f081bbb701c80b29c55890af54ec0ba948bd1899fad6c6c",
+      "sha256": "78b36961857f0c5435c4bdb5ea76c84981274c20babd482e36bbc467a28d3966",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "0d17cf95babeacbdec1f533e49dbb51f4f1fa113d528a365230f67be2cada41a",
+      "sha256": "96d8e9f578fd26b45577f2d8a08b67bb161e29b830aa0048af5f017caba3da81",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -118,7 +118,7 @@
       ]
     }
   ],
-  "scan_cursor": 20,
+  "scan_cursor": 28,
   "market_attention_queries": [
     {
       "query": "aaron judge",
@@ -595,9 +595,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "94798ab6bee7f4b871c0b57fb3917c7acc6ca5c8360843763e4e97aeaa6ffc5b",
       "public_product_data": [
         {
           "name": "Black Glossy Mug",
@@ -1038,6 +1035,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "94798ab6bee7f4b871c0b57fb3917c7acc6ca5c8360843763e4e97aeaa6ffc5b",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1110,9 +1109,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "312ecdf53e978ac05d044cdf5750c2ad23a5515053e337dbcf1895d798ff51f8",
       "public_product_data": [
         {
           "name": "Canvas (in)",
@@ -1553,6 +1549,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "312ecdf53e978ac05d044cdf5750c2ad23a5515053e337dbcf1895d798ff51f8",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1625,9 +1623,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "5835bc1c4ed8e7d6cbe241515e98f62e4d491c1d6f36601ee1b6fe399a35b6d9",
       "public_product_data": [
         {
           "name": "Ceramic Mug with Color Inside",
@@ -2930,6 +2925,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "5835bc1c4ed8e7d6cbe241515e98f62e4d491c1d6f36601ee1b6fe399a35b6d9",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3048,9 +3045,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "7a42e08be6a1084562f9bc82c7304b2a504600e369061fcb8517b2f21c848ff9",
       "public_product_data": [
         {
           "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
@@ -4353,6 +4347,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "7a42e08be6a1084562f9bc82c7304b2a504600e369061fcb8517b2f21c848ff9",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4471,9 +4467,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "357bb76da614080d0b311c5886d8a20e5734d246bc0b84d5b99a66ad8a7a5093",
       "public_product_data": [
         {
           "name": "Cotton Heritage Men's Premium Heavyweight Tee",
@@ -5776,6 +5769,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "357bb76da614080d0b311c5886d8a20e5734d246bc0b84d5b99a66ad8a7a5093",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -5894,9 +5889,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "754a84b5ee2c20bf243df9cd4ad1054397fdf8b62caf836adf15b3271f41034c",
       "public_product_data": [
         {
           "name": "Cotton Heritage Unisex Premium Hoodie",
@@ -7199,6 +7191,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "754a84b5ee2c20bf243df9cd4ad1054397fdf8b62caf836adf15b3271f41034c",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7317,9 +7311,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "2754168aef0abce9d5559930ad925981b414377bb5cd7ec6f1a1b4bfab477a41",
       "public_product_data": [
         {
           "name": "Cotton Heritage Unisex Premium Hoodie",
@@ -8622,6 +8613,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "2754168aef0abce9d5559930ad925981b414377bb5cd7ec6f1a1b4bfab477a41",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8740,9 +8733,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "b2b595dbaff3a7cc33581c66d88c69f15aeeed0ae8bcc59ebc5c9f8be061d890",
       "public_product_data": [
         {
           "name": "Custom Plushie",
@@ -8761,6 +8751,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "b2b595dbaff3a7cc33581c66d88c69f15aeeed0ae8bcc59ebc5c9f8be061d890",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8796,6 +8788,449 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "a5797d642bd8c2624160c6525f4eee72e4a4dd52601fa58cb85aa3bd8aebe816",
+      "public_product_data": [
+        {
+          "name": "Enhanced Matte Paper Poster",
+          "sku": "pro_15bc29bc8a324d449d",
+          "catalog_offers": [
+            {
+              "name": "Enhanced Matte Paper Poster (White)",
+              "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed?selectedColor=White",
+              "priceCurrency": "USD",
+              "price": 5.5,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 20,
+                      "maxValue": 21,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.49,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.49,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 18,
+                      "maxValue": 21,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8816,7 +9251,44 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_15bc29bc8a324d449d",
+            "name": "Enhanced Matte Paper Poster",
+            "offer_name": "Enhanced Matte Paper Poster (White)",
+            "catalog_base_floor_cents": 550,
+            "us_shipping_floor_cents": 499,
+            "landed_floor_cents": 1049,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 2803,
+              "2500": 3889,
+              "4000": 5517
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -8831,40 +9303,1310 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      },
-      "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "5f09daa69f6dff521dea542bb2a001341c288d562ae718c2e9c550eb38a1ddf1",
+      "public_product_data": [
+        {
+          "name": "Framed High-Quality Matte Poster",
+          "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+          "catalog_offers": [
+            {
+              "name": "Framed High-Quality Matte Poster (Black)",
+              "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 20.35,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 11,
+                      "maxValue": 14,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 8,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 15,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 9.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 14,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 13,
+                      "maxValue": 18,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 9.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "Framed High-Quality Matte Poster (Red Oak)",
+              "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed?selectedColor=Red+Oak",
+              "priceCurrency": "USD",
+              "price": 20.35,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 11,
+                      "maxValue": 14,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 8,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 15,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 9.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 14,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 13,
+                      "maxValue": 18,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 9.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "Framed High-Quality Matte Poster (White)",
+              "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed?selectedColor=White",
+              "priceCurrency": "USD",
+              "price": 20.35,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 11,
+                      "maxValue": 14,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 8,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 15,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 9.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 14,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 13,
+                      "maxValue": 18,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 9.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -8886,7 +10628,1513 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+            "name": "Framed High-Quality Matte Poster",
+            "offer_name": "Framed High-Quality Matte Poster (Black)",
+            "catalog_base_floor_cents": 2035,
+            "us_shipping_floor_cents": 1089,
+            "landed_floor_cents": 3124,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5056,
+              "2500": 6142,
+              "4000": 7770
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 11,
+                "maxValue": 14,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+            "name": "Framed High-Quality Matte Poster",
+            "offer_name": "Framed High-Quality Matte Poster (Red Oak)",
+            "catalog_base_floor_cents": 2035,
+            "us_shipping_floor_cents": 1089,
+            "landed_floor_cents": 3124,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5056,
+              "2500": 6142,
+              "4000": 7770
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 11,
+                "maxValue": 14,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+            "name": "Framed High-Quality Matte Poster",
+            "offer_name": "Framed High-Quality Matte Poster (White)",
+            "catalog_base_floor_cents": 2035,
+            "us_shipping_floor_cents": 1089,
+            "landed_floor_cents": 3124,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5056,
+              "2500": 6142,
+              "4000": 7770
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 11,
+                "maxValue": 14,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "5c40e53d0c106d7627f3fccacef4ec9accf4ff0dfddff81cfe60e0472f6cd026",
+      "public_product_data": [
+        {
+          "name": "Gildan Heavyweight T-Shirt",
+          "sku": "pro_BedPJwZhRvaLnG0x2kfVzA",
+          "catalog_offers": [
+            {
+              "name": "Gildan Heavyweight T-Shirt (Black)",
+              "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 9.5,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 11,
+                      "maxValue": 15,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 20,
+                      "maxValue": 22,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 21,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "Gildan Heavyweight T-Shirt (Maroon)",
+              "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1?selectedColor=Maroon",
+              "priceCurrency": "USD",
+              "price": 9.5,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 11,
+                      "maxValue": 15,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 20,
+                      "maxValue": 22,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 21,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "Gildan Heavyweight T-Shirt (Navy)",
+              "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1?selectedColor=Navy",
+              "priceCurrency": "USD",
+              "price": 9.5,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 11,
+                      "maxValue": 15,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 20,
+                      "maxValue": 22,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 21,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.59,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      },
+      "cost_screen": {
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_BedPJwZhRvaLnG0x2kfVzA",
+            "name": "Gildan Heavyweight T-Shirt",
+            "offer_name": "Gildan Heavyweight T-Shirt (Black)",
+            "catalog_base_floor_cents": 950,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1379,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3161,
+              "2500": 4247,
+              "4000": 5876
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_BedPJwZhRvaLnG0x2kfVzA",
+            "name": "Gildan Heavyweight T-Shirt",
+            "offer_name": "Gildan Heavyweight T-Shirt (Maroon)",
+            "catalog_base_floor_cents": 950,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1379,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3161,
+              "2500": 4247,
+              "4000": 5876
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_BedPJwZhRvaLnG0x2kfVzA",
+            "name": "Gildan Heavyweight T-Shirt",
+            "offer_name": "Gildan Heavyweight T-Shirt (Navy)",
+            "catalog_base_floor_cents": 950,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1379,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3161,
+              "2500": 4247,
+              "4000": 5876
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -8900,6 +12148,45 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "3a94857e61338e70c7ea5247f9b77987897e62027877185d15c72486eb639312",
+      "public_product_data": [
+        {
+          "name": "Independent Trading Co. Pigment Dyed Hoodie",
+          "sku": "pro_gEgxEF1dS0W8OhK8hmgulw",
+          "catalog_offers": [
+            {
+              "name": "Independent Trading Co. Pigment Dyed Hoodie (Pigment Black)",
+              "url": "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2?selectedColor=Pigment+Black",
+              "priceCurrency": "USD",
+              "price": 45.45,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "Independent Trading Co. Pigment Dyed Hoodie (Pigment Alpine Green)",
+              "url": "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2?selectedColor=Pigment+Alpine+Green",
+              "priceCurrency": "USD",
+              "price": 45.45,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "Independent Trading Co. Pigment Dyed Hoodie (Pigment Clay)",
+              "url": "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2?selectedColor=Pigment+Clay",
+              "priceCurrency": "USD",
+              "price": 45.45,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -8936,6 +12223,449 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "f724aac5276aee8abb1b003aa5175484c3740655a686d8d03f0a5f8fc66614e9",
+      "public_product_data": [
+        {
+          "name": "Kiss Cut Stickers",
+          "sku": "pro_358",
+          "catalog_offers": [
+            {
+              "name": "Kiss Cut Stickers (White)",
+              "url": "https://products.fourthwall.com/kiss-cut-stickers-1?selectedColor=White",
+              "priceCurrency": "USD",
+              "price": 2.29,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.49,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.19,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 10,
+                      "maxValue": 15,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 5.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8956,7 +12686,44 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_358",
+            "name": "Kiss Cut Stickers",
+            "offer_name": "Kiss Cut Stickers (White)",
+            "catalog_base_floor_cents": 229,
+            "us_shipping_floor_cents": 449,
+            "landed_floor_cents": 678,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 2400,
+              "2500": 3486,
+              "4000": 5115
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -8970,6 +12737,27 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "5fdf1c1197d7f66cd259fee9c805f3154abb61b8bf6c5242ca9ccbbe45b844af",
+      "public_product_data": [
+        {
+          "name": "Knitted Cardigan Without Pocket",
+          "sku": "pro_jxzU4X9-SpuG6MnU0DDPIg",
+          "catalog_offers": [
+            {
+              "name": "Knitted Cardigan Without Pocket (Knitted)",
+              "url": "https://products.fourthwall.com/knitted-cardigan-without-pocket?selectedColor=Knitted",
+              "priceCurrency": "USD",
+              "price": 42,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -9006,6 +12794,27 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "e5975382377cb43ab4fa975c4430dfdefb5a3086b1f488395abde6fa7bcabb6e",
+      "public_product_data": [
+        {
+          "name": "Knitted Unisex Hoodie",
+          "sku": "pro_TiriSbcfRG6eFQcXiCTmkg",
+          "catalog_offers": [
+            {
+              "name": "Knitted Unisex Hoodie (Knitted)",
+              "url": "https://products.fourthwall.com/knitted-unisex-hoodie?selectedColor=Knitted",
+              "priceCurrency": "USD",
+              "price": 41,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9040,6 +12849,27 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "c4d17954f3ab9cfca62434385f02f17de0562e5e1da3a894115a8dafa30108c6",
+      "public_product_data": [
+        {
+          "name": "Knitted Unisex Plus Size Crewneck Sweater",
+          "sku": "pro_GeIZVqi6TjivHzrizM1KKQ",
+          "catalog_offers": [
+            {
+              "name": "Knitted Unisex Plus Size Crewneck Sweater (Knitted)",
+              "url": "https://products.fourthwall.com/knitted-unisex-plus-size-crewneck-sweater?selectedColor=Knitted",
+              "priceCurrency": "USD",
+              "price": 44,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -10161,9 +13991,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "a3454a6fbe4672ad756f1b943dd94abf57eba80f64bef6e2902c113feb6d8a9a",
       "public_product_data": [
         {
           "name": "Drawer Dividers 22\u201d, Natural",
@@ -10179,6 +14006,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "a3454a6fbe4672ad756f1b943dd94abf57eba80f64bef6e2902c113feb6d8a9a",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10214,9 +14043,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "cec11530dbce221566334a3e17440c4bc916e5b9055925d9e55cdbffee0ea9f5",
       "public_product_data": [
         {
           "name": "Drawer Dividers 22\u201d, White",
@@ -10232,6 +14058,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "cec11530dbce221566334a3e17440c4bc916e5b9055925d9e55cdbffee0ea9f5",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10267,9 +14095,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "f07a4352280fd3776ef5f9bc9e8f595995e359c52496b5906c5ecf4b8a97ca8a",
       "public_product_data": [
         {
           "name": "Storage Box Set of 8, Natural",
@@ -10285,6 +14110,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "f07a4352280fd3776ef5f9bc9e8f595995e359c52496b5906c5ecf4b8a97ca8a",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10320,9 +14147,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "727f0c25cbfff8e4e56dead47a2a367c83cde3c6767249b54e8c2913c271833d",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, Black",
@@ -10338,6 +14162,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "727f0c25cbfff8e4e56dead47a2a367c83cde3c6767249b54e8c2913c271833d",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10373,9 +14199,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "d5c429f947da67575771371512e65d835432765fa80ffe5d74bcdcb00338a699",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, Gray",
@@ -10391,6 +14214,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "d5c429f947da67575771371512e65d835432765fa80ffe5d74bcdcb00338a699",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10426,9 +14251,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "1b4889eaa11945642773ebeaf19498e9e2fcd43b4e26049ee6a3e383d7aed1f2",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, White",
@@ -10444,6 +14266,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "1b4889eaa11945642773ebeaf19498e9e2fcd43b4e26049ee6a3e383d7aed1f2",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10479,9 +14303,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "aacefebd1ff6f7b647e127fc583f1721f74a7dbd102d5f10477569c7c697b393",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, Black (9 Slots)",
@@ -10497,6 +14318,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "aacefebd1ff6f7b647e127fc583f1721f74a7dbd102d5f10477569c7c697b393",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10532,9 +14355,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
-      "page_sha256": "ac83ad3eedbfa85fb0ea628ff287df18934974f077837cdfa052017290d9b81a",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, Brown Bamboo (9 Slots)",
@@ -10550,6 +14370,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "ac83ad3eedbfa85fb0ea628ff287df18934974f077837cdfa052017290d9b81a",
+      "source_observed_at": "2026-11-05T19:17:41.430999+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10584,6 +14406,24 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "a5fda55e130067eb36ec9880186e49e6bb5c4ae66b7a07a43d06f71c4bfab5b4",
+      "public_product_data": [
+        {
+          "name": "Silverware Drawer Organizer, Gray (9 Slots)",
+          "sku": "RCWKITDRAW-GR",
+          "catalog_offers": {
+            "@id": "/products/bamboo-silverware-drawer-organizer-gray?variant=39646301290704#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "44.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-gray?variant=39646301290704"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -10620,6 +14460,24 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "4e66fba9147a19fdab26df0782fb6a5ee25dce62697f99230b5c01ae5c6c463e",
+      "public_product_data": [
+        {
+          "name": "Silverware Drawer Organizer, Natural (9 Slots)",
+          "sku": "RCW-KITDRAW",
+          "catalog_offers": {
+            "@id": "/products/bamboo-silverware-drawer-organizer-natural?variant=39646301257936#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "44.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-natural?variant=39646301257936"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10654,6 +14512,24 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "8c2f2aa0d9c9860ebe77ef61999359b3ca1a88fcae17c52abae75f9d52d7dd4b",
+      "public_product_data": [
+        {
+          "name": "Silverware Drawer Organizer, White (9 Slots)",
+          "sku": "RCWKITDRAW-WHT",
+          "catalog_offers": {
+            "@id": "/products/bamboo-silverware-drawer-organizer-white?variant=39646301487312#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "47.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-white?variant=39646301487312"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -10690,6 +14566,24 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "ba9fc1de6a6b6969210b3c2f7bab06710ce89466a37712c7d6cc86dd21fffc66",
+      "public_product_data": [
+        {
+          "name": "Utensil Drawer Organizer, Black (5 Slots)",
+          "sku": "RCW-KITDRAW-5-BLK",
+          "catalog_offers": {
+            "@id": "/products/bamboo-utensil-drawer-organizer-black?variant=39646301880528#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "34.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-black?variant=39646301880528"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10724,6 +14618,24 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "fa3fda1246b1fdda8399cff8addce50fa3ff3215286fe11a03fa37ab543414a7",
+      "public_product_data": [
+        {
+          "name": "Utensil Drawer Organizer, Gray (5 Slots)",
+          "sku": "RCW-KITDRAW-5-GRAY",
+          "catalog_offers": {
+            "@id": "/products/bamboo-utensil-drawer-organizer-gray?variant=39646301651152#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "36.96",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-gray?variant=39646301651152"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -10760,6 +14672,24 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "d75f370d7fa973db6299f9b16bdfdaa221c399c366872a7b632f69e0049d8f87",
+      "public_product_data": [
+        {
+          "name": "Utensil Drawer Organizer, Natural (5 Slots)",
+          "sku": "RCW-KITDRAW-5",
+          "catalog_offers": {
+            "@id": "/products/bamboo-utensil-drawer-organizer-natural?variant=39646301618384#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "40.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-natural?variant=39646301618384"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10795,6 +14725,24 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "00e0ffd787bab8b6ab03d7caac41cd012f46294c98b7968ca236b91fef7e6c9d",
+      "public_product_data": [
+        {
+          "name": "Utensil Drawer Organizer, White (5 Slots)",
+          "sku": "RCW-KITDRAW-5-WHT",
+          "catalog_offers": {
+            "@id": "/products/bamboo-utensil-drawer-organizer-white?variant=39646301847760#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "34.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-white?variant=39646301847760"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -10829,6 +14777,24 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-05T19:19:19.222082+00:00",
+      "page_sha256": "aa4b337884a727aa50b96a3ca6982336958edd4f897c7bccbc44a3d4c27f5f7e",
+      "public_product_data": [
+        {
+          "name": "Cheese Board Set with Slate Plate",
+          "sku": "RCW-CHBSLPL-ST",
+          "catalog_offers": {
+            "@id": "/products/cheese-and-cracker-tray?variant=43183037513936#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "58.99",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/cheese-and-cracker-tray?variant=43183037513936"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -11346,6 +15312,21 @@
   ],
   "quote_priorities": [
     {
+      "url": "https://products.fourthwall.com/kiss-cut-stickers-1",
+      "required_buyer_payment_for_25_contribution_floor_cents": 3486,
+      "observed_at": "2026-11-05T19:19:19.222082+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed",
+      "required_buyer_payment_for_25_contribution_floor_cents": 3889,
+      "observed_at": "2026-11-05T19:19:19.222082+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4247,
+      "observed_at": "2026-11-05T19:19:19.222082+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/black-glossy-mug",
       "required_buyer_payment_for_25_contribution_floor_cents": 4448,
       "observed_at": "2026-11-05T19:17:41.430999+00:00"
@@ -11369,6 +15350,11 @@
       "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg",
       "required_buyer_payment_for_25_contribution_floor_cents": 5045,
       "observed_at": "2026-11-05T19:17:41.430999+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed",
+      "required_buyer_payment_for_25_contribution_floor_cents": 6142,
+      "observed_at": "2026-11-05T19:19:19.222082+00:00"
     },
     {
       "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx",
