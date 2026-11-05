@@ -46,7 +46,7 @@ In this exercise, you will:
 
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
-   <a id="start-exercise" href="https://github.com/dollaramohamed-bot/skills-build-applications-w-copilot-agent-mode/issues/1">
+   <a id="start-exercise" href="https://github.com/dollaramohamed-bot/skills-build-applications-w-copilot-agent-mode/issues/1" href="https://github.com/dollaramohamed-bot/skills-build-applications-w-copilot-agent-mode/issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 
