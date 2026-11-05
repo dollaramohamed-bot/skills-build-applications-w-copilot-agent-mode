@@ -50,7 +50,7 @@ def screen(row):
                 denominator = Decimal(1) - PAYMENT_RATE - RESERVE_RATE
                 thresholds = {}
                 for target in (1500, 2500, 4000):
-                    price = int((Decimal(landed_floor + PAYMENT_FIXED_CENTS + target)
+                    price = int((Decimal(landed_floor + PAYMENT_FIXED_CENTS + target + 2)
                                  / denominator).to_integral_value(rounding=ROUND_CEILING))
                     thresholds[str(target)] = price
                 floors.append({
