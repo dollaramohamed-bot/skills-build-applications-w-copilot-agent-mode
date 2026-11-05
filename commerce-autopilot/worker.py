@@ -47,13 +47,18 @@ def inspect(url):
                          (urllib.parse.urlparse(link).hostname == "products.fourthwall.com"
                           and re.fullmatch(r"/[a-z0-9-]{8,}/?", urllib.parse.urlparse(link).path)))]
         return {"url": url, "status": "fetched", "sha256": hashlib.sha256(text.encode()).hexdigest(),
-                "product_urls": sorted(set(products))[:12], "_body": text}
+                "product_urls": sorted(set(products))[:96], "_body": text}
     except Exception as error:
         return {"url": url, "status": "failed", "error_type": type(error).__name__}
 
 
 def main():
     now = dt.datetime.now(dt.timezone.utc)
+    directory = pathlib.Path(__file__).parent / "status"
+    directory.mkdir(exist_ok=True)
+    previous_path = directory / "latest.json"
+    previous = json.loads(previous_path.read_text()) if previous_path.exists() else {}
+    cursor = previous.get("scan_cursor", 0)
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
         sources = list(pool.map(inspect, [CATALOG, TRENDS, FULFILLMENT_CATALOG]))
     trends = []
@@ -73,9 +78,16 @@ def main():
                   for url in source.get("product_urls", [])]
     for source in sources:
         source.pop("_body", None)
+    selected = []
+    for source in (sources[2], sources[0]):
+        urls = source.get("product_urls", [])
+        if urls:
+            start = cursor % len(urls)
+            rotated = urls[start:] + urls[:start]
+            selected.extend(row for url in rotated[:4] for row in candidates if row["url"] == url)
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-        details = list(pool.map(inspect, [row["url"] for row in candidates[:8]]))
-    for row, detail in zip(candidates, details):
+        details = list(pool.map(inspect, [row["url"] for row in selected]))
+    for row, detail in zip(selected, details):
         text = detail.pop("_body", "")
         row["page_status"] = detail["status"]
         row["page_sha256"] = detail.get("sha256")
@@ -88,8 +100,10 @@ def main():
                     if isinstance(node, dict) and node.get("@type") == "Product":
                         row["public_product_data"].append({
                             "name": node.get("name"), "sku": node.get("sku"),
-                            "retail_offers": node.get("offers"),
-                            "cost_basis": "retail page only; wholesale and freight unverified"})
+                            "catalog_offers": node.get("offers"),
+                            "cost_basis": ("Supplier catalog starting costs; exact variant quote unverified"
+                                           if "products.fourthwall.com" in row["url"] else
+                                           "Retail page only; wholesale and freight unverified")})
             except (ValueError, TypeError, AttributeError):
                 continue
     for row in candidates:
@@ -98,7 +112,7 @@ def main():
         "objective": {"rolling_30_day_operating_profit_cents": 1_000_000,
                       "product_categories": "unrestricted", "available_spend_cents": 0},
         "observed_at": now.isoformat(), "run_id": os.getenv("GITHUB_RUN_ID"),
-        "mode": "live_public_research", "sources": sources,
+        "mode": "live_public_research", "sources": sources, "scan_cursor": cursor + 4,
         "market_attention_queries": trends,
         "market_caveat": "Trending searches measure attention, not purchase intent or product demand.",
         "candidates": candidates,
