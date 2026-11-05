@@ -17,7 +17,7 @@ CATALOG = "https://royalcraftwood.com/collections/storage-organization"
 TRENDS = "https://trends.google.com/trending/rss?geo=US"
 ALLOWED = {"royalcraftwood.com", "www.royalcraftwood.com", "trends.google.com", "products.fourthwall.com"}
 FULFILLMENT_CATALOG = "https://products.fourthwall.com/"
-LIMIT = 2_000_000
+LIMIT = 4_000_000
 
 
 def fetch(url):
