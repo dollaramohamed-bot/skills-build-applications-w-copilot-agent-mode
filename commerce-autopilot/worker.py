@@ -74,7 +74,7 @@ def main():
         row["page_status"] = detail["status"]
         row["page_sha256"] = detail.get("sha256")
         row["public_product_data"] = []
-        for block in re.findall(r'<script[^>]+type=["\x27]application/ld\\+json["\x27][^>]*>(.*?)</script>', text, re.S | re.I):
+        for block in re.findall(r'<script[^>]+type=["\x27]application/ld\+json["\x27][^>]*>(.*?)</script>', text, re.S | re.I):
             try:
                 value = json.loads(block)
                 nodes = value if isinstance(value, list) else value.get("@graph", [value])
