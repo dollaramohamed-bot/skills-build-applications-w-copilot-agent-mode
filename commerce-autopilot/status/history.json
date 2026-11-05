@@ -4,5 +4,11 @@
     "observed_at": "2026-11-05T12:49:22.464011+00:00",
     "fetched_sources": 1,
     "candidate_count": 0
+  },
+  {
+    "id": "42030425614",
+    "observed_at": "2026-11-05T12:49:44.920617+00:00",
+    "fetched_sources": 1,
+    "candidate_count": 0
   }
 ]
