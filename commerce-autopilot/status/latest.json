@@ -1,12 +1,12 @@
 {
-  "observed_at": "2026-11-05T12:54:07.758287+00:00",
-  "run_id": "42031037455",
+  "observed_at": "2026-11-05T12:54:25.037584+00:00",
+  "run_id": "42031079146",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "86947e8b6f3590607ae9a43cbfb2cb4acafe570d4d16a0c77f25ae8fc10d3816",
+      "sha256": "cbcd263ddc5e51cee3a3158ce89edbd728092065623a45c343d56ab94020e067",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -86,8 +86,22 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "5bb6588abc4e379eb0405c35d91005bb9e0ffc10a115fd1a39a413770290e2b9",
-      "public_product_data": []
+      "page_sha256": "c4f3ac56e80ae2afe7a9b77b76aa5d2e42cb24c435c31801934f12045edcf933",
+      "public_product_data": [
+        {
+          "name": "Storage Box Set of 3, Natural",
+          "sku": "RCW-STBOX-DR-3",
+          "retail_offers": {
+            "@id": "/products/bamboo-bathroom-organizer?variant=40219154186448#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "33.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-bathroom-organizer?variant=40219154186448"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ]
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -102,8 +116,22 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "873dd1c3ad70f3c2de82307c5243152a9b09ab0d5b9742e62f0eabfcd6be5606",
-      "public_product_data": []
+      "page_sha256": "15eb5efd9c5fcc01eaa42cf2193a03a6ba1d86feff244bdac3d43f62c0df3fe4",
+      "public_product_data": [
+        {
+          "name": "Cheese Board, 15.5\u201d x 10\u201d",
+          "sku": "RCW-CHSBO-SM",
+          "retail_offers": {
+            "@id": "/products/bamboo-cheese-board-16x10?variant=39646303584464#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "25.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cheese-board-16x10?variant=39646303584464"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ]
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cheese-board-xxl-with-cutlery-set",
@@ -118,8 +146,22 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "4e1a551aed6a83cde2ff138e8f734b3639c86531809c0175746de5546b268040",
-      "public_product_data": []
+      "page_sha256": "1a05a981ddfc2124bc63dc78f3ab4365fc8ef8322ccfe1c3a81a6c047ad53307",
+      "public_product_data": [
+        {
+          "name": "Cheese Board XXL with Cutlery Set",
+          "sku": "RCW-CHBXXL-KNS",
+          "retail_offers": {
+            "@id": "/products/bamboo-cheese-board-xxl-with-cutlery-set?variant=39646303715536#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "43.37",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cheese-board-xxl-with-cutlery-set?variant=39646303715536"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ]
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-m-15x10",
@@ -134,8 +176,22 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "0416731948104e283db315cd5e44e2ff598e5599d18f240082abc05e3da814b0",
-      "public_product_data": []
+      "page_sha256": "4410910ef3fcd966314f6327f6edc1c37cb18e26d98a823d1c7bb99e4d2bacd3",
+      "public_product_data": [
+        {
+          "name": "Cutting Board L, 15\u201dx10\u201d",
+          "sku": "RCW-CUTBO-M",
+          "retail_offers": {
+            "@id": "/products/bamboo-cutting-board-m-15x10?variant=39831602102480#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "18.87",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-m-15x10?variant=39831602102480"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ]
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-s-12x8",
