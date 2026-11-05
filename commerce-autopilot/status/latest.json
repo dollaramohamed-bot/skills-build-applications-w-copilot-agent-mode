@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-05T13:00:31.984823+00:00",
-  "run_id": "42031925653",
+  "observed_at": "2026-11-05T18:25:05.732664+00:00",
+  "run_id": "42084002476",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "929cf07d020fdb82da5c54cb023f38a906e1075450df6b9416f22bb1a6c80b6e",
+      "sha256": "8a10a4952aa7e5666d8bffaf1962f6403d18e59965605b86f227fabf585936de",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "531af7f7ecccb4658e296b84d1e3a9885bc5f23ce9d395e9a682d910dfd7758d",
+      "sha256": "62cbb540f1db682ba812af036a7f26ac675319bfb41515ff467c484065c55c45",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "cb4dd0316031609d380c78d2374d06d5ebc5469c43f6cd4ecae62f65488fbcb1",
+      "sha256": "66975443702520b89ff00ff6ca8145bf946dfd81c2c9f486babec3f665b9afb8",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -118,47 +118,47 @@
       ]
     }
   ],
-  "scan_cursor": 4,
+  "scan_cursor": 8,
   "market_attention_queries": [
     {
-      "query": "hurricane season",
-      "published": "Thu, 5 Nov 2026 04:30:00 -0800"
+      "query": "erin napier",
+      "published": "Thu, 5 Nov 2026 10:10:00 -0800"
     },
     {
-      "query": "charles porter",
-      "published": "Thu, 5 Nov 2026 04:30:00 -0800"
+      "query": "brysen wright",
+      "published": "Thu, 5 Nov 2026 10:00:00 -0800"
     },
     {
-      "query": "amlodipine recall",
-      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+      "query": "jalayshia alford",
+      "published": "Thu, 5 Nov 2026 10:00:00 -0800"
     },
     {
-      "query": "amc stock",
-      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+      "query": "india",
+      "published": "Thu, 5 Nov 2026 09:50:00 -0800"
     },
     {
-      "query": "birmingham mayor",
-      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+      "query": "crystal palace",
+      "published": "Thu, 5 Nov 2026 09:50:00 -0800"
     },
     {
-      "query": "lotto",
-      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+      "query": "sylvester stallone",
+      "published": "Thu, 5 Nov 2026 09:50:00 -0800"
     },
     {
-      "query": "ben shelton",
-      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+      "query": "perez hilton",
+      "published": "Thu, 5 Nov 2026 09:50:00 -0800"
     },
     {
-      "query": "red cup day",
-      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+      "query": "naresh bhatt",
+      "published": "Thu, 5 Nov 2026 09:40:00 -0800"
     },
     {
-      "query": "weather philadelphia",
-      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+      "query": "justin jefferson",
+      "published": "Thu, 5 Nov 2026 09:30:00 -0800"
     },
     {
-      "query": "marlon",
-      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+      "query": "aldosivi vs river",
+      "published": "Thu, 5 Nov 2026 09:30:00 -0800"
     }
   ],
   "market_caveat": "Trending searches measure attention, not purchase intent or product demand.",
@@ -175,18 +175,690 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/all-over-print-mens-leggings",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/all-over-print-premium-pillow-case",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/all-over-print-skater-dress",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/all-over-print-unisex-cotton-hoodie-sublimation",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
       "page_status": "fetched",
-      "page_sha256": "462629bb9be21b1659e546fea00a1901523a42fd74f5d93f7b5d7ddd0e3982dc",
+      "page_sha256": "4153e8cf368f4e4bb736e8da13f5db5c1bf01fcf95e91d654cc0a11cb9f59f81",
       "public_product_data": [
         {
-          "name": "All-Over Print Basic Pillow Case",
-          "sku": "pro_1f46aeeb877742278c",
+          "name": "All-Over Print Unisex Cotton Hoodie",
+          "sku": "pro_2rm7OCxJTSmpw8keIxABOg",
           "catalog_offers": [
             {
-              "name": "All-Over Print Basic Pillow Case (All-Over Print)",
-              "url": "https://products.fourthwall.com/all-over-print-basic-pillow-case?selectedColor=All-Over+Print",
+              "name": "All-Over Print Unisex Cotton Hoodie (White)",
+              "url": "https://products.fourthwall.com/all-over-print-unisex-cotton-hoodie-sublimation?selectedColor=White",
               "priceCurrency": "USD",
-              "price": 13.21,
+              "price": 45.49,
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 10,
+                      "maxValue": 14,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "GB",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 14,
+                      "maxValue": 18,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CA",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 13,
+                      "maxValue": 17,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 9.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 15,
+                      "maxValue": 19,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AU",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 22,
+                      "maxValue": 24,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 12.49,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FR",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 32,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 14,
+                      "maxValue": 18,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "SE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 32,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "PL",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 32,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 20,
+                      "maxValue": 23,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "DK",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 32,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NO",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 22,
+                      "maxValue": 23,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "FI",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 18,
+                      "maxValue": 22,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "IT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 17,
+                      "maxValue": 21,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CH",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 15,
+                      "maxValue": 19,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 11.39,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "ES",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 17,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "BE",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 14,
+                      "maxValue": 18,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "NZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 21,
+                      "maxValue": 24,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 12.49,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "CZ",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 16,
+                      "maxValue": 32,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                },
+                {
+                  "shippingDestination": {
+                    "addressCountry": "AT",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 18,
+                      "maxValue": 22,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 7.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ],
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "8aa0b63de5984db8f9dd1d8637f0b96f65662fe9ea8a2964df0eca99a2355cd4",
+      "public_product_data": [
+        {
+          "name": "AS Colour Box Minus Hood",
+          "sku": "pro_8wqYK-NTSH2lZQQ1PuDODQ",
+          "catalog_offers": [
+            {
+              "name": "AS Colour Box Minus Hood (Black)",
+              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 39.95,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "AS Colour Box Minus Hood (Ink Blue)",
+              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Ink+Blue",
+              "priceCurrency": "USD",
+              "price": 39.95,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "AS Colour Box Minus Hood (Shadow)",
+              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Shadow",
+              "priceCurrency": "USD",
+              "price": 39.95,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "d718e672d44e109e23800be437ad00016ed4de326f10cfcf9904ca8207de61af",
+      "public_product_data": [
+        {
+          "name": "AS Colour Fisherman Beanie",
+          "sku": "pro_tLnrYVZ6T0mDGcUGFqe7Pg",
+          "catalog_offers": [
+            {
+              "name": "AS Colour Fisherman Beanie (Black)",
+              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 16.51,
               "shippingDetails": [
                 {
                   "shippingDestination": {
@@ -216,8 +888,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -258,8 +930,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -300,8 +972,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -321,8 +993,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -342,8 +1014,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -363,8 +1035,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -384,8 +1056,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -405,8 +1077,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -426,7 +1098,7 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 10,
+                      "minValue": 9,
                       "maxValue": 14,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
@@ -447,8 +1119,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -468,8 +1140,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -489,8 +1161,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -510,8 +1182,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -531,8 +1203,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -552,8 +1224,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 22,
+                      "minValue": 17,
+                      "maxValue": 21,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -573,8 +1245,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -594,8 +1266,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -612,55 +1284,12 @@
               "availability": "https://schema.org/InStock",
               "itemCondition": "https://schema.org/NewCondition",
               "@type": "Offer"
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/all-over-print-mens-leggings",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
-      ],
-      "page_status": "fetched",
-      "page_sha256": "0d0148d241545e7177c1bb3ce8d4b4f12855b7d85cf8353e1ffeae564d94db7b",
-      "public_product_data": [
-        {
-          "name": "All-Over Print Men's Leggings",
-          "sku": "pro_0b3ff6cb56e44d3d83",
-          "catalog_offers": [
+            },
             {
-              "name": "All-Over Print Men's Leggings (White)",
-              "url": "https://products.fourthwall.com/all-over-print-mens-leggings?selectedColor=White",
+              "name": "AS Colour Fisherman Beanie (Walnut)",
+              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Walnut",
               "priceCurrency": "USD",
-              "price": 30.55,
+              "price": 16.51,
               "shippingDetails": [
                 {
                   "shippingDestination": {
@@ -669,8 +1298,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 11,
+                      "minValue": 7,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -690,8 +1319,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -711,8 +1340,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 11,
-                      "maxValue": 15,
+                      "minValue": 10,
+                      "maxValue": 14,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -732,8 +1361,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -754,7 +1383,7 @@
                   "deliveryTime": {
                     "transitTime": {
                       "minValue": 20,
-                      "maxValue": 22,
+                      "maxValue": 21,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -774,8 +1403,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -795,8 +1424,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -816,8 +1445,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -837,8 +1466,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -858,8 +1487,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -879,8 +1508,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -900,7 +1529,7 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 10,
+                      "minValue": 9,
                       "maxValue": 14,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
@@ -921,8 +1550,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -942,8 +1571,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -963,8 +1592,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -984,8 +1613,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1005,8 +1634,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1026,8 +1655,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 22,
+                      "minValue": 17,
+                      "maxValue": 21,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1047,8 +1676,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1068,8 +1697,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1086,55 +1715,12 @@
               "availability": "https://schema.org/InStock",
               "itemCondition": "https://schema.org/NewCondition",
               "@type": "Offer"
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/all-over-print-premium-pillow-case",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
-      ],
-      "page_status": "fetched",
-      "page_sha256": "a11abc837ebe0d38c066081c6f60dd55f55e2fa963748da248b92d7e2c68fbb9",
-      "public_product_data": [
-        {
-          "name": "All-Over Print Premium Pillow Case",
-          "sku": "pro_31837649f7494d55a5",
-          "catalog_offers": [
+            },
             {
-              "name": "All-Over Print Premium Pillow Case (All-Over Print)",
-              "url": "https://products.fourthwall.com/all-over-print-premium-pillow-case?selectedColor=All-Over+Print",
+              "name": "AS Colour Fisherman Beanie (Petrol Blue)",
+              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Petrol+Blue",
               "priceCurrency": "USD",
-              "price": 13.57,
+              "price": 16.51,
               "shippingDetails": [
                 {
                   "shippingDestination": {
@@ -1143,8 +1729,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 11,
+                      "minValue": 7,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1164,8 +1750,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1185,8 +1771,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 11,
-                      "maxValue": 15,
+                      "minValue": 10,
+                      "maxValue": 14,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1206,8 +1792,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1228,7 +1814,7 @@
                   "deliveryTime": {
                     "transitTime": {
                       "minValue": 20,
-                      "maxValue": 22,
+                      "maxValue": 21,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1248,8 +1834,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1269,8 +1855,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1290,8 +1876,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1307,312 +1893,6 @@
                 {
                   "shippingDestination": {
                     "addressCountry": "PL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DK",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NO",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 10,
-                      "maxValue": 14,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FI",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CH",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "ES",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "BE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 22,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ],
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/all-over-print-skater-dress",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
-      ],
-      "page_status": "fetched",
-      "page_sha256": "eae27980c6f8f724c9e653afe1cbbf86e5f865e6e9b0357300bf729ad39a6115",
-      "public_product_data": [
-        {
-          "name": "All-Over Print Skater Dress",
-          "sku": "pro_386c05f635934cc893",
-          "catalog_offers": [
-            {
-              "name": "All-Over Print Skater Dress (White)",
-              "url": "https://products.fourthwall.com/all-over-print-skater-dress?selectedColor=White",
-              "priceCurrency": "USD",
-              "price": 35.5,
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
                     "@type": "DefinedRegion"
                   },
                   "deliveryTime": {
@@ -1625,174 +1905,6 @@
                     "@type": "ShippingDeliveryTime"
                   },
                   "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "GB",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.59,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CA",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 11,
-                      "maxValue": 15,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AU",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 20,
-                      "maxValue": 22,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FR",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "SE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "PL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
                     "value": 4.99,
                     "currency": "USD",
                     "@type": "MonetaryAmount"
@@ -1806,8 +1918,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1827,8 +1939,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1848,7 +1960,7 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 10,
+                      "minValue": 9,
                       "maxValue": 14,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
@@ -1869,8 +1981,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1890,8 +2002,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1911,8 +2023,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1932,8 +2044,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1953,8 +2065,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1974,8 +2086,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 22,
+                      "minValue": 17,
+                      "maxValue": 21,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1995,8 +2107,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -2016,8 +2128,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -2038,102 +2150,6 @@
           ],
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
-      ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/all-over-print-unisex-cotton-hoodie-sublimation",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
-      ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
-      ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
       ],
       "profit_gate": {
         "decision": "hold",
@@ -2166,6 +2182,44 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "1acdf726bef84b2d15456b887debea1eab8fc0586cf9e98fa399055e394082e2",
+      "public_product_data": [
+        {
+          "name": "AS Colour Heavy T-shirt",
+          "sku": "pro_05kHMsNpQZubKsMrnysvyQ",
+          "catalog_offers": [
+            {
+              "name": "AS Colour Heavy T-shirt (Black)",
+              "url": "https://products.fourthwall.com/as-colour-heavy-t-shirt-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 24.84,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "AS Colour Heavy T-shirt (Navy)",
+              "url": "https://products.fourthwall.com/as-colour-heavy-t-shirt-dtg?selectedColor=Navy",
+              "priceCurrency": "USD",
+              "price": 24.84,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            },
+            {
+              "name": "AS Colour Heavy T-shirt (Pine Green)",
+              "url": "https://products.fourthwall.com/as-colour-heavy-t-shirt-dtg?selectedColor=Pine+Green",
+              "priceCurrency": "USD",
+              "price": 24.84,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition",
+              "@type": "Offer"
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -3447,23 +3501,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "page_sha256": "5928508f2bd322a524f89928d2932c9db74b76ebad77b9f6354b2a869dc518e6",
-      "public_product_data": [
-        {
-          "name": "Storage Box Set of 3, Natural",
-          "sku": "RCW-STBOX-DR-3",
-          "catalog_offers": {
-            "@id": "/products/bamboo-bathroom-organizer?variant=40219154186448#offer",
-            "@type": "Offer",
-            "availability": "http://schema.org/InStock",
-            "price": "33.97",
-            "priceCurrency": "USD",
-            "url": "https://royalcraftwood.com/products/bamboo-bathroom-organizer?variant=40219154186448"
-          },
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
-      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3495,23 +3532,6 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ],
-      "page_status": "fetched",
-      "page_sha256": "694659b8d3075eabc593f68ce8895907453a13c9755417a60b3f11c5ad900610",
-      "public_product_data": [
-        {
-          "name": "Cheese Board, 15.5\u201d x 10\u201d",
-          "sku": "RCW-CHSBO-SM",
-          "catalog_offers": {
-            "@id": "/products/bamboo-cheese-board-16x10?variant=39646303584464#offer",
-            "@type": "Offer",
-            "availability": "http://schema.org/InStock",
-            "price": "25.97",
-            "priceCurrency": "USD",
-            "url": "https://royalcraftwood.com/products/bamboo-cheese-board-16x10?variant=39646303584464"
-          },
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -3545,23 +3565,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "page_sha256": "69834f84f075d3739fa132a02c5881806faf58f64280efd58b076896695c13a0",
-      "public_product_data": [
-        {
-          "name": "Cheese Board XXL with Cutlery Set",
-          "sku": "RCW-CHBXXL-KNS",
-          "catalog_offers": {
-            "@id": "/products/bamboo-cheese-board-xxl-with-cutlery-set?variant=39646303715536#offer",
-            "@type": "Offer",
-            "availability": "http://schema.org/InStock",
-            "price": "43.37",
-            "priceCurrency": "USD",
-            "url": "https://royalcraftwood.com/products/bamboo-cheese-board-xxl-with-cutlery-set?variant=39646303715536"
-          },
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
-      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3593,23 +3596,6 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ],
-      "page_status": "fetched",
-      "page_sha256": "5c50932b699e3c947c2a68e3792a83fa351a8d5a3ce0977a28ed83789020160f",
-      "public_product_data": [
-        {
-          "name": "Cutting Board L, 15\u201dx10\u201d",
-          "sku": "RCW-CUTBO-M",
-          "catalog_offers": {
-            "@id": "/products/bamboo-cutting-board-m-15x10?variant=39831602102480#offer",
-            "@type": "Offer",
-            "availability": "http://schema.org/InStock",
-            "price": "18.87",
-            "priceCurrency": "USD",
-            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-m-15x10?variant=39831602102480"
-          },
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -3643,6 +3629,23 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "page_sha256": "81ce71a50678e4716e961f3d694b4cc99d5b77311cf26b1ee5890f21b2854246",
+      "public_product_data": [
+        {
+          "name": "Cutting Board M, 12\u201dx8\u201d",
+          "sku": "RCW-CUTBO-S",
+          "catalog_offers": {
+            "@id": "/products/bamboo-cutting-board-s-12x8?variant=39646302503120#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "17.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-s-12x8?variant=39646302503120"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3674,6 +3677,23 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "c80b018341b95adbc635ff8774701a363b33cee8ea3574e246ae6ec4619e26f0",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Set of 3, Bamboo",
+          "sku": "RCW-CUTBO-SET",
+          "catalog_offers": {
+            "@id": "/products/bamboo-cutting-board-set-of-3?variant=39646302568656#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "40.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-3?variant=39646302568656"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -3707,6 +3727,23 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "page_sha256": "4da279e9ed729ef58a32f5f8d71c606ed35a4ff7b7e16aa7c97a9240d517f53e",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Set of 4, Bamboo",
+          "sku": "RCW-CUTBO-SET-4",
+          "catalog_offers": {
+            "@id": "/products/bamboo-cutting-board-set-of-4?variant=39646302634192#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "43.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-4?variant=39646302634192"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3738,6 +3775,23 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "6c3112c070482487617387f634f27fbee9e746f4196b673f9f5cea871bcc1cd6",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Set of 5, Bamboo",
+          "sku": "RCW-CUTBO-SET-5",
+          "catalog_offers": {
+            "@id": "/products/bamboo-cutting-board-set-of-5?variant=39646302601424#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "60.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-5?variant=39646302601424"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
