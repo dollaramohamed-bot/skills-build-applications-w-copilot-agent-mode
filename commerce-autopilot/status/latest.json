@@ -1,12 +1,17 @@
 {
-  "observed_at": "2026-11-05T12:54:25.037584+00:00",
-  "run_id": "42031079146",
+  "objective": {
+    "rolling_30_day_operating_profit_cents": 1000000,
+    "product_categories": "unrestricted",
+    "available_spend_cents": 0
+  },
+  "observed_at": "2026-11-05T12:57:29.333197+00:00",
+  "run_id": "42031507782",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "cbcd263ddc5e51cee3a3158ce89edbd728092065623a45c343d56ab94020e067",
+      "sha256": "5656745fb540e115d4808742a2ebabe2c471cc07266e05b25ae57111c894d5e6",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -25,8 +30,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "f1354b6b86089c876210949625b165a023909f61c76fe31c441ce0fc60d19072",
+      "sha256": "dfc67ff76843b21c2e2837003dcf8d679bba7f30a1dff4c01655973a5a0473e3",
       "product_urls": []
+    },
+    {
+      "url": "https://products.fourthwall.com/",
+      "status": "failed",
+      "error_type": "ValueError"
     }
   ],
   "market_attention_queries": [
@@ -86,7 +96,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "c4f3ac56e80ae2afe7a9b77b76aa5d2e42cb24c435c31801934f12045edcf933",
+      "page_sha256": "9899ae4a560441833413a85487e1f04fc901181a2b54acb5c0f15fe1509fa7cb",
       "public_product_data": [
         {
           "name": "Storage Box Set of 3, Natural",
@@ -101,7 +111,26 @@
           },
           "cost_basis": "retail page only; wholesale and freight unverified"
         }
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -116,7 +145,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "15eb5efd9c5fcc01eaa42cf2193a03a6ba1d86feff244bdac3d43f62c0df3fe4",
+      "page_sha256": "9dda0f7b9f67543124f1e4bc1b8e43ae7a49f9feb6ac7ccd6a672c87625470c1",
       "public_product_data": [
         {
           "name": "Cheese Board, 15.5\u201d x 10\u201d",
@@ -131,7 +160,26 @@
           },
           "cost_basis": "retail page only; wholesale and freight unverified"
         }
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cheese-board-xxl-with-cutlery-set",
@@ -146,7 +194,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "1a05a981ddfc2124bc63dc78f3ab4365fc8ef8322ccfe1c3a81a6c047ad53307",
+      "page_sha256": "2886e7b20c3553e4579236ca7bc65f960679f32a9717070d48263a60a9261a4d",
       "public_product_data": [
         {
           "name": "Cheese Board XXL with Cutlery Set",
@@ -161,7 +209,26 @@
           },
           "cost_basis": "retail page only; wholesale and freight unverified"
         }
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-m-15x10",
@@ -176,7 +243,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "4410910ef3fcd966314f6327f6edc1c37cb18e26d98a823d1c7bb99e4d2bacd3",
+      "page_sha256": "01232bd181ade18a8cec61142a4c947596ca132599aaf8d26bc2f56ea09991fe",
       "public_product_data": [
         {
           "name": "Cutting Board L, 15\u201dx10\u201d",
@@ -191,7 +258,26 @@
           },
           "cost_basis": "retail page only; wholesale and freight unverified"
         }
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-s-12x8",
@@ -204,7 +290,43 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "page_status": "fetched",
+      "page_sha256": "bb4c9dd919fe52b0031ec1202ad15f2fdef90334fe5e39f80362f8d142819316",
+      "public_product_data": [
+        {
+          "name": "Cutting Board M, 12\u201dx8\u201d",
+          "sku": "RCW-CUTBO-S",
+          "retail_offers": {
+            "@id": "/products/bamboo-cutting-board-s-12x8?variant=39646302503120#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "17.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-s-12x8?variant=39646302503120"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-3",
@@ -217,7 +339,43 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "page_status": "fetched",
+      "page_sha256": "d3a9b376e5fa96d4ea31fe4bc5ab6d1558240d1512bcbade9c0d68db85667c53",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Set of 3, Bamboo",
+          "sku": "RCW-CUTBO-SET",
+          "retail_offers": {
+            "@id": "/products/bamboo-cutting-board-set-of-3?variant=39646302568656#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "40.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-3?variant=39646302568656"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-4",
@@ -230,7 +388,43 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "page_status": "fetched",
+      "page_sha256": "56319678b7cd9470e250413a6345f2b8712f2c3ded9a5f40063b2426c8ba5458",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Set of 4, Bamboo",
+          "sku": "RCW-CUTBO-SET-4",
+          "retail_offers": {
+            "@id": "/products/bamboo-cutting-board-set-of-4?variant=39646302634192#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "43.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-4?variant=39646302634192"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-5",
@@ -243,7 +437,43 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "page_status": "fetched",
+      "page_sha256": "78481e6ad5d31ea1bc93db7615d6e7e875214f1a4dbb527221499f3a859a5739",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Set of 5, Bamboo",
+          "sku": "RCW-CUTBO-SET-5",
+          "retail_offers": {
+            "@id": "/products/bamboo-cutting-board-set-of-5?variant=39646302601424#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "60.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-set-of-5?variant=39646302601424"
+          },
+          "cost_basis": "retail page only; wholesale and freight unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-with-compartments-18x12",
@@ -256,7 +486,26 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-cutting-board-xxl-20x14",
@@ -269,7 +518,26 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-black",
@@ -282,7 +550,26 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-gray",
@@ -295,7 +582,26 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ]
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
     }
   ],
   "operating_status": "sourcing_only",
@@ -304,8 +610,9 @@
     "No authenticated supplier fulfillment connection",
     "No verified landed costs or funding available"
   ],
-  "spend_cents": 0,
-  "actual_orders": 0,
-  "actual_profit_cents": 0,
+  "worker_spend_cents": 0,
+  "actual_orders": null,
+  "actual_profit_cents": null,
+  "ledger_status": "No authenticated order ledger connected",
   "next_schedule_utc": "17 minutes past every sixth hour"
 }
