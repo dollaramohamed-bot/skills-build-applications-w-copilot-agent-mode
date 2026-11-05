@@ -1,0 +1,72 @@
+{
+  "observed_at": "2026-11-05T12:49:22.464011+00:00",
+  "run_id": "42030375000",
+  "mode": "live_public_research",
+  "sources": [
+    {
+      "url": "https://cjdropshipping.com/list/wholesale-home-storage-l-ED8E61AA-2260-4E03-BA66-DEAE3DF02CDC.html",
+      "status": "failed",
+      "error_type": "ValueError"
+    },
+    {
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "status": "fetched",
+      "sha256": "fe1cbb17bc4a3df855ae573c5f8fda65ebcf017c11e0d844028aa5a277bbfe48",
+      "product_urls": []
+    }
+  ],
+  "market_attention_queries": [
+    {
+      "query": "charles porter",
+      "published": "Thu, 5 Nov 2026 04:30:00 -0800"
+    },
+    {
+      "query": "amlodipine recall",
+      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+    },
+    {
+      "query": "amc stock",
+      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+    },
+    {
+      "query": "lotto",
+      "published": "Thu, 5 Nov 2026 04:20:00 -0800"
+    },
+    {
+      "query": "ben shelton",
+      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+    },
+    {
+      "query": "red cup day",
+      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+    },
+    {
+      "query": "weather philadelphia",
+      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+    },
+    {
+      "query": "marlon",
+      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+    },
+    {
+      "query": "philadelphia weather",
+      "published": "Thu, 5 Nov 2026 04:10:00 -0800"
+    },
+    {
+      "query": "dc weather",
+      "published": "Thu, 5 Nov 2026 04:00:00 -0800"
+    }
+  ],
+  "market_caveat": "Trending searches measure attention, not purchase intent or product demand.",
+  "candidates": [],
+  "operating_status": "sourcing_only",
+  "blockers": [
+    "Shopify connected store rejects API access",
+    "No authenticated supplier fulfillment connection",
+    "No verified landed costs or funding available"
+  ],
+  "spend_cents": 0,
+  "actual_orders": 0,
+  "actual_profit_cents": 0,
+  "next_schedule_utc": "17 minutes past every sixth hour"
+}
