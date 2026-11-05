@@ -32,7 +32,7 @@ def assess(candidate, now=None):
     if candidate["cash_required_cents"] > 0:
         return {"decision": "hold", "reason": "Requires cash before buyer payout",
                 "profit_per_order_cents": contribution}
-    if not candidate.get("checkout_verified") or not candidate.get("supplier_acceptance_verified"):
+    if candidate.get("checkout_verified") is not True or candidate.get("supplier_acceptance_verified") is not True:
         return {"decision": "hold", "reason": "Checkout or supplier acceptance unverified",
                 "profit_per_order_cents": contribution}
     return {"decision": "bounded_organic_test",
