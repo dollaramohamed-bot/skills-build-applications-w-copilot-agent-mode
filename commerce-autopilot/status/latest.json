@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-05T12:59:33.114040+00:00",
-  "run_id": "42031787274",
+  "observed_at": "2026-11-05T13:00:31.984823+00:00",
+  "run_id": "42031925653",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "cf7e250eeb7785fd6860bc0b5e434b59521999e15df8f162095d9c161bd665fb",
+      "sha256": "929cf07d020fdb82da5c54cb023f38a906e1075450df6b9416f22bb1a6c80b6e",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -24,7 +24,37 @@
         "https://royalcraftwood.com/products/bamboo-cutting-board-with-compartments-18x12",
         "https://royalcraftwood.com/products/bamboo-cutting-board-xxl-20x14",
         "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-black",
-        "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-gray"
+        "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-gray",
+        "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-natural",
+        "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-white",
+        "https://royalcraftwood.com/products/bamboo-makeup-organizer",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-basic-black",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-basic-gray",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-basic-white",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-black",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-brown",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-gray",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-natural",
+        "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-white",
+        "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-black",
+        "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-gray",
+        "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-natural",
+        "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-white",
+        "https://royalcraftwood.com/products/cheese-and-cracker-tray",
+        "https://royalcraftwood.com/products/cheese-board-set-with-slate-plate-copy",
+        "https://royalcraftwood.com/products/cheese-board-w-knives-16-5x11-draft",
+        "https://royalcraftwood.com/products/cutting-board-organizer",
+        "https://royalcraftwood.com/products/expandable-silverware-utensil-organizer",
+        "https://royalcraftwood.com/products/extra-large-cutting-board",
+        "https://royalcraftwood.com/products/jewelry-box-organizer",
+        "https://royalcraftwood.com/products/rotating-cheese-board-with-knives",
+        "https://royalcraftwood.com/products/round-cheese-board",
+        "https://royalcraftwood.com/products/silverware-tray",
+        "https://royalcraftwood.com/products/storage-box-set-of-5-natural-copy",
+        "https://royalcraftwood.com/products/wood-charcuterie-board",
+        "https://royalcraftwood.com/products/wood-cutting-board-set-of-2",
+        "https://royalcraftwood.com/products/wooden-cutting-boards-for-kitchen-meal-prep-serving-bamboo-wood-cutting-board-set-charcuterie-chopping-butcher-block-for-meat-kitchen-gadgets-gift-3pcs-natural-copy",
+        "https://royalcraftwood.com/products/ziplock-bag-organizer"
       ]
     },
     {
@@ -36,7 +66,7 @@
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "ba4d190d66ffe67082ae4e08e6f29a8cf221d0be0dd6e1f903da522791373b9a",
+      "sha256": "cb4dd0316031609d380c78d2374d06d5ebc5469c43f6cd4ecae62f65488fbcb1",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -49,10 +79,46 @@
         "https://products.fourthwall.com/as-colour-premium-oversized-faded-t-shirt-dtfx",
         "https://products.fourthwall.com/as-colour-unisex-premium-heavyweight-long-sleeve-shirt-dtg",
         "https://products.fourthwall.com/as-colour-unisex-premium-relaxed-hoodie-dtfx",
-        "https://products.fourthwall.com/bella-canvas-unisex-supersoft-t-shirt-dtg"
+        "https://products.fourthwall.com/bella-canvas-unisex-supersoft-t-shirt-dtg",
+        "https://products.fourthwall.com/black-glossy-mug",
+        "https://products.fourthwall.com/canvas-in-printed",
+        "https://products.fourthwall.com/ceramic-mug-with-color-inside-1",
+        "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg",
+        "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg",
+        "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx",
+        "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg",
+        "https://products.fourthwall.com/custom-plushie",
+        "https://products.fourthwall.com/enhanced-matte-paper-poster-printed",
+        "https://products.fourthwall.com/framed-high-quality-matte-poster-printed",
+        "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
+        "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2",
+        "https://products.fourthwall.com/kiss-cut-stickers-1",
+        "https://products.fourthwall.com/knitted-cardigan-without-pocket",
+        "https://products.fourthwall.com/knitted-unisex-hoodie",
+        "https://products.fourthwall.com/knitted-unisex-plus-size-crewneck-sweater",
+        "https://products.fourthwall.com/knitted-unisex-quarter-zip-sweater",
+        "https://products.fourthwall.com/knitted-v-neck-vest",
+        "https://products.fourthwall.com/la-apparel-womens-ribbed-baby-tee-crop-top-dtfx",
+        "https://products.fourthwall.com/matte-paper-framed-poster-with-mat-uv",
+        "https://products.fourthwall.com/otto-vintage-wash-dad-hat",
+        "https://products.fourthwall.com/pinnacle-vacuum-insulated-travel-tumbler-with-straw-laser-etched",
+        "https://products.fourthwall.com/richardson-trucker-hat-embroidery",
+        "https://products.fourthwall.com/stanley-stella-organic-cotton-t-shirt-dtg",
+        "https://products.fourthwall.com/stanley-stella-unisex-eco-sweatshirt-dtg",
+        "https://products.fourthwall.com/stanley-stella-unisex-garment-dyed-chaser-vintage-hoodie-dtfx",
+        "https://products.fourthwall.com/stanley-stella-unisex-organic-oversized-sweatshirt-dtg",
+        "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg",
+        "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg",
+        "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie",
+        "https://products.fourthwall.com/thin-canvas-in-printed",
+        "https://products.fourthwall.com/thor-copper-vacuum-insulated-bottle-22oz-uv-1",
+        "https://products.fourthwall.com/white-glossy-mug-sublimation",
+        "https://products.fourthwall.com/yupoong-classic-dad-hat",
+        "https://products.fourthwall.com/yupoong-cuffed-beanie"
       ]
     }
   ],
+  "scan_cursor": 4,
   "market_attention_queries": [
     {
       "query": "hurricane season",
@@ -110,12 +176,12 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "67ddd529b95892176fd7b17c85578f638f2932bcb1bba5fc23ad0c0c728f7976",
+      "page_sha256": "462629bb9be21b1659e546fea00a1901523a42fd74f5d93f7b5d7ddd0e3982dc",
       "public_product_data": [
         {
           "name": "All-Over Print Basic Pillow Case",
           "sku": "pro_1f46aeeb877742278c",
-          "retail_offers": [
+          "catalog_offers": [
             {
               "name": "All-Over Print Basic Pillow Case (All-Over Print)",
               "url": "https://products.fourthwall.com/all-over-print-basic-pillow-case?selectedColor=All-Over+Print",
@@ -548,7 +614,7 @@
               "@type": "Offer"
             }
           ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
       "profit_gate": {
@@ -584,12 +650,12 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "543151ca4d8723e5f62d9669db82e9612ce7510165e4ec5faf84f232da4d64a1",
+      "page_sha256": "0d0148d241545e7177c1bb3ce8d4b4f12855b7d85cf8353e1ffeae564d94db7b",
       "public_product_data": [
         {
           "name": "All-Over Print Men's Leggings",
           "sku": "pro_0b3ff6cb56e44d3d83",
-          "retail_offers": [
+          "catalog_offers": [
             {
               "name": "All-Over Print Men's Leggings (White)",
               "url": "https://products.fourthwall.com/all-over-print-mens-leggings?selectedColor=White",
@@ -1022,7 +1088,7 @@
               "@type": "Offer"
             }
           ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
       "profit_gate": {
@@ -1058,12 +1124,12 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "02e1fd7a751624b381672bdb069885e4da52b480eae4e48b1c038521c22840e6",
+      "page_sha256": "a11abc837ebe0d38c066081c6f60dd55f55e2fa963748da248b92d7e2c68fbb9",
       "public_product_data": [
         {
           "name": "All-Over Print Premium Pillow Case",
           "sku": "pro_31837649f7494d55a5",
-          "retail_offers": [
+          "catalog_offers": [
             {
               "name": "All-Over Print Premium Pillow Case (All-Over Print)",
               "url": "https://products.fourthwall.com/all-over-print-premium-pillow-case?selectedColor=All-Over+Print",
@@ -1496,7 +1562,7 @@
               "@type": "Offer"
             }
           ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
       "profit_gate": {
@@ -1532,12 +1598,12 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "f7cf2684e8783e53cdec2deb99139ec14d4e09b04ea3311f8cffed6b0a2fface",
+      "page_sha256": "eae27980c6f8f724c9e653afe1cbbf86e5f865e6e9b0357300bf729ad39a6115",
       "public_product_data": [
         {
           "name": "All-Over Print Skater Dress",
           "sku": "pro_386c05f635934cc893",
-          "retail_offers": [
+          "catalog_offers": [
             {
               "name": "All-Over Print Skater Dress (White)",
               "url": "https://products.fourthwall.com/all-over-print-skater-dress?selectedColor=White",
@@ -1970,7 +2036,7 @@
               "@type": "Offer"
             }
           ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
       "profit_gate": {
@@ -2005,448 +2071,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "page_sha256": "0d2ed19d2934974fef711b812ed86571dc345111587e8cb905b4de0867b986d0",
-      "public_product_data": [
-        {
-          "name": "All-Over Print Unisex Cotton Hoodie",
-          "sku": "pro_2rm7OCxJTSmpw8keIxABOg",
-          "retail_offers": [
-            {
-              "name": "All-Over Print Unisex Cotton Hoodie (White)",
-              "url": "https://products.fourthwall.com/all-over-print-unisex-cotton-hoodie-sublimation?selectedColor=White",
-              "priceCurrency": "USD",
-              "price": 45.49,
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 10,
-                      "maxValue": 14,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 8.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "GB",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 14,
-                      "maxValue": 18,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CA",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 13,
-                      "maxValue": 17,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 9.79,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 15,
-                      "maxValue": 19,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AU",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 22,
-                      "maxValue": 24,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 12.49,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FR",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 32,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 14,
-                      "maxValue": 18,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "SE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 32,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "PL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 32,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 20,
-                      "maxValue": 23,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DK",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 32,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NO",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 22,
-                      "maxValue": 23,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 11.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FI",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 22,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 17,
-                      "maxValue": 21,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CH",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 15,
-                      "maxValue": 19,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 11.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "ES",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 17,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "BE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 14,
-                      "maxValue": 18,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 21,
-                      "maxValue": 24,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 12.49,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 32,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 22,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ],
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            }
-          ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
-        }
-      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2478,44 +2102,6 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ],
-      "page_status": "fetched",
-      "page_sha256": "8686625716a543c51932c26b8d1626dd3e3924280fcd27471ff501b2468e7160",
-      "public_product_data": [
-        {
-          "name": "AS Colour Box Minus Hood",
-          "sku": "pro_8wqYK-NTSH2lZQQ1PuDODQ",
-          "retail_offers": [
-            {
-              "name": "AS Colour Box Minus Hood (Black)",
-              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Black",
-              "priceCurrency": "USD",
-              "price": 39.95,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            },
-            {
-              "name": "AS Colour Box Minus Hood (Ink Blue)",
-              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Ink+Blue",
-              "priceCurrency": "USD",
-              "price": 39.95,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            },
-            {
-              "name": "AS Colour Box Minus Hood (Shadow)",
-              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Shadow",
-              "priceCurrency": "USD",
-              "price": 39.95,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            }
-          ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
-        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -2549,1310 +2135,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "page_sha256": "bdd23ba747fba2c1f8e865521d7a3190d5460e9ca5f9f25c95accb3aba863f5b",
-      "public_product_data": [
-        {
-          "name": "AS Colour Fisherman Beanie",
-          "sku": "pro_tLnrYVZ6T0mDGcUGFqe7Pg",
-          "retail_offers": [
-            {
-              "name": "AS Colour Fisherman Beanie (Black)",
-              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Black",
-              "priceCurrency": "USD",
-              "price": 16.51,
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 9,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "GB",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.59,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CA",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 14,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AU",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 21,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FR",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "SE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "PL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DK",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NO",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FI",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CH",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "ES",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "BE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 21,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ],
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            },
-            {
-              "name": "AS Colour Fisherman Beanie (Walnut)",
-              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Walnut",
-              "priceCurrency": "USD",
-              "price": 16.51,
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 9,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "GB",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.59,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CA",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 14,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AU",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 21,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FR",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "SE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "PL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DK",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NO",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FI",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CH",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "ES",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "BE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 21,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ],
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            },
-            {
-              "name": "AS Colour Fisherman Beanie (Petrol Blue)",
-              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Petrol+Blue",
-              "priceCurrency": "USD",
-              "price": 16.51,
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 9,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "GB",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.59,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CA",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 14,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AU",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 18,
-                      "maxValue": 21,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FR",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "SE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "PL",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "DK",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NO",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 12,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "FI",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "IT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CH",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 10.39,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "ES",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "BE",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "NZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 16,
-                      "maxValue": 21,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 7.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "CZ",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                },
-                {
-                  "shippingDestination": {
-                    "addressCountry": "AT",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.99,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ],
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            }
-          ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
-        }
-      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3884,44 +2166,6 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
-      ],
-      "page_status": "fetched",
-      "page_sha256": "e35b805793306b3ab9e38ede77b6e12737650b56f28d0c06221b312a35ce4582",
-      "public_product_data": [
-        {
-          "name": "AS Colour Heavy T-shirt",
-          "sku": "pro_05kHMsNpQZubKsMrnysvyQ",
-          "retail_offers": [
-            {
-              "name": "AS Colour Heavy T-shirt (Black)",
-              "url": "https://products.fourthwall.com/as-colour-heavy-t-shirt-dtg?selectedColor=Black",
-              "priceCurrency": "USD",
-              "price": 24.84,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            },
-            {
-              "name": "AS Colour Heavy T-shirt (Navy)",
-              "url": "https://products.fourthwall.com/as-colour-heavy-t-shirt-dtg?selectedColor=Navy",
-              "priceCurrency": "USD",
-              "price": 24.84,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            },
-            {
-              "name": "AS Colour Heavy T-shirt (Pine Green)",
-              "url": "https://products.fourthwall.com/as-colour-heavy-t-shirt-dtg?selectedColor=Pine+Green",
-              "priceCurrency": "USD",
-              "price": 24.84,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition",
-              "@type": "Offer"
-            }
-          ],
-          "cost_basis": "retail page only; wholesale and freight unverified"
-        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -4072,6 +2316,1126 @@
       }
     },
     {
+      "url": "https://products.fourthwall.com/black-glossy-mug",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/canvas-in-printed",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/ceramic-mug-with-color-inside-1",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/custom-plushie",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/kiss-cut-stickers-1",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/knitted-cardigan-without-pocket",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/knitted-unisex-hoodie",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/knitted-unisex-plus-size-crewneck-sweater",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/knitted-unisex-quarter-zip-sweater",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/knitted-v-neck-vest",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/la-apparel-womens-ribbed-baby-tee-crop-top-dtfx",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/matte-paper-framed-poster-with-mat-uv",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/otto-vintage-wash-dad-hat",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/pinnacle-vacuum-insulated-travel-tumbler-with-straw-laser-etched",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/richardson-trucker-hat-embroidery",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanley-stella-organic-cotton-t-shirt-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanley-stella-unisex-eco-sweatshirt-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanley-stella-unisex-garment-dyed-chaser-vintage-hoodie-dtfx",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-oversized-sweatshirt-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/thin-canvas-in-printed",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/thor-copper-vacuum-insulated-bottle-22oz-uv-1",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/white-glossy-mug-sublimation",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/yupoong-classic-dad-hat",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/yupoong-cuffed-beanie",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
       "url": "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
       "decision": "hold",
       "missing": [
@@ -4082,6 +3446,23 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "5928508f2bd322a524f89928d2932c9db74b76ebad77b9f6354b2a869dc518e6",
+      "public_product_data": [
+        {
+          "name": "Storage Box Set of 3, Natural",
+          "sku": "RCW-STBOX-DR-3",
+          "catalog_offers": {
+            "@id": "/products/bamboo-bathroom-organizer?variant=40219154186448#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "33.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-bathroom-organizer?variant=40219154186448"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -4115,6 +3496,23 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "page_sha256": "694659b8d3075eabc593f68ce8895907453a13c9755417a60b3f11c5ad900610",
+      "public_product_data": [
+        {
+          "name": "Cheese Board, 15.5\u201d x 10\u201d",
+          "sku": "RCW-CHSBO-SM",
+          "catalog_offers": {
+            "@id": "/products/bamboo-cheese-board-16x10?variant=39646303584464#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "25.97",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cheese-board-16x10?variant=39646303584464"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4147,6 +3545,23 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "page_sha256": "69834f84f075d3739fa132a02c5881806faf58f64280efd58b076896695c13a0",
+      "public_product_data": [
+        {
+          "name": "Cheese Board XXL with Cutlery Set",
+          "sku": "RCW-CHBXXL-KNS",
+          "catalog_offers": {
+            "@id": "/products/bamboo-cheese-board-xxl-with-cutlery-set?variant=39646303715536#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "43.37",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cheese-board-xxl-with-cutlery-set?variant=39646303715536"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4178,6 +3593,23 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "page_sha256": "5c50932b699e3c947c2a68e3792a83fa351a8d5a3ce0977a28ed83789020160f",
+      "public_product_data": [
+        {
+          "name": "Cutting Board L, 15\u201dx10\u201d",
+          "sku": "RCW-CUTBO-M",
+          "catalog_offers": {
+            "@id": "/products/bamboo-cutting-board-m-15x10?variant=39831602102480#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "18.87",
+            "priceCurrency": "USD",
+            "url": "https://royalcraftwood.com/products/bamboo-cutting-board-m-15x10?variant=39831602102480"
+          },
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -4425,6 +3857,966 @@
     },
     {
       "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-gray",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-natural",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-white",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-makeup-organizer",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-basic-black",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-basic-gray",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-basic-white",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-black",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-brown",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-gray",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-natural",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-white",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-black",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-gray",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-natural",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/bamboo-utensil-drawer-organizer-white",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/cheese-and-cracker-tray",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/cheese-board-set-with-slate-plate-copy",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/cheese-board-w-knives-16-5x11-draft",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/cutting-board-organizer",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/expandable-silverware-utensil-organizer",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/extra-large-cutting-board",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/jewelry-box-organizer",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/rotating-cheese-board-with-knives",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/round-cheese-board",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/silverware-tray",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/storage-box-set-of-5-natural-copy",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/wood-charcuterie-board",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/wood-cutting-board-set-of-2",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/wooden-cutting-boards-for-kitchen-meal-prep-serving-bamboo-wood-cutting-board-set-charcuterie-chopping-butcher-block-for-meat-kitchen-gadgets-gift-3pcs-natural-copy",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      }
+    },
+    {
+      "url": "https://royalcraftwood.com/products/ziplock-bag-organizer",
       "decision": "hold",
       "missing": [
         "exact SKU quote",
