@@ -1,0 +1,105 @@
+"""Live public sourcing checks. Uses no mock events or customer information."""
+import concurrent.futures
+import datetime as dt
+import hashlib
+import json
+import os
+import pathlib
+import re
+import sys
+import urllib.parse
+import urllib.request
+import xml.etree.ElementTree as ET
+
+CATALOG = "https://cjdropshipping.com/list/wholesale-home-storage-l-ED8E61AA-2260-4E03-BA66-DEAE3DF02CDC.html"
+TRENDS = "https://trends.google.com/trending/rss?geo=US"
+ALLOWED = {"cjdropshipping.com", "www.cjdropshipping.com", "trends.google.com"}
+LIMIT = 2_000_000
+
+
+def fetch(url):
+    if urllib.parse.urlparse(url).hostname not in ALLOWED:
+        raise ValueError("Unapproved source")
+    request = urllib.request.Request(url, headers={"User-Agent": "CommerceAutopilot/1.0 (public catalog research)"})
+    with urllib.request.urlopen(request, timeout=15) as response:
+        if urllib.parse.urlparse(response.url).hostname not in ALLOWED:
+            raise ValueError("Unexpected redirect")
+        data = response.read(LIMIT + 1)
+        if len(data) > LIMIT:
+            raise ValueError("Source exceeds size limit")
+        return data.decode("utf-8", errors="replace")
+
+
+def inspect(url):
+    try:
+        text = fetch(url)
+        if re.search(r"verify you are human|checking your browser|automated traffic", text, re.I):
+            return {"url": url, "status": "blocked"}
+        # Only retain links and the digest. Never execute page scripts or instructions.
+        links = sorted(set(urllib.parse.urljoin(url, link) for link in
+            re.findall(r'href=["\x27]([^"\x27]+)', text)))
+        products = [link.split("?")[0] for link in links
+                    if urllib.parse.urlparse(link).hostname in ALLOWED
+                    and "/product/" in link]
+        return {"url": url, "status": "fetched", "sha256": hashlib.sha256(text.encode()).hexdigest(),
+                "product_urls": sorted(set(products))[:12], "_body": text}
+    except Exception as error:
+        return {"url": url, "status": "failed", "error_type": type(error).__name__}
+
+
+def main():
+    now = dt.datetime.now(dt.timezone.utc)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
+        sources = list(pool.map(inspect, [CATALOG, TRENDS]))
+    trends = []
+    trend_source = sources[1]
+    if trend_source["status"] == "fetched":
+        try:
+            root = ET.fromstring(trend_source["_body"])
+            trends = [{"query": item.findtext("title"), "published": item.findtext("pubDate")}
+                      for item in root.findall("./channel/item")[:20]]
+        except ET.ParseError:
+            trend_source["status"] = "invalid_feed"
+    candidates = [{"url": url, "decision": "hold",
+                   "missing": ["exact SKU quote", "US inventory", "delivery commitment",
+                               "returns terms", "authorized media", "purchase-intent evidence",
+                               "funding before payout"]}
+                  for url in sources[0].get("product_urls", [])]
+    for source in sources:
+        source.pop("_body", None)
+    result = {
+        "observed_at": now.isoformat(), "run_id": os.getenv("GITHUB_RUN_ID"),
+        "mode": "live_public_research", "sources": sources,
+        "market_attention_queries": trends,
+        "market_caveat": "Trending searches measure attention, not purchase intent or product demand.",
+        "candidates": candidates,
+        "operating_status": "sourcing_only",
+        "blockers": ["Shopify connected store rejects API access",
+                     "No authenticated supplier fulfillment connection",
+                     "No verified landed costs or funding available"],
+        "spend_cents": 0, "actual_orders": 0, "actual_profit_cents": 0,
+        "next_schedule_utc": "17 minutes past every sixth hour",
+    }
+    directory = pathlib.Path(__file__).parent / "status"
+    directory.mkdir(exist_ok=True)
+    target = directory / "latest.json"
+    temporary = directory / "latest.tmp"
+    temporary.write_text(json.dumps(result, indent=2) + "\n")
+    temporary.replace(target)
+    history = directory / "history.json"
+    prior = json.loads(history.read_text()) if history.exists() else []
+    identifier = result["run_id"] or now.isoformat()
+    prior = [row for row in prior if row["id"] != identifier]
+    prior.append({"id": identifier, "observed_at": result["observed_at"],
+                  "fetched_sources": sum(s["status"] == "fetched" for s in sources),
+                  "candidate_count": len(candidates)})
+    history.write_text(json.dumps(prior[-120:], indent=2) + "\n")
+    print(json.dumps({"sources": [{k: v for k, v in s.items() if k != "product_urls"} for s in sources],
+                      "candidate_count": len(candidates), "attention_queries": len(trends)}))
+    if not any(source["status"] == "fetched" for source in sources):
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
