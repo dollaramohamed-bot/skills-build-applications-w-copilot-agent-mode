@@ -11,9 +11,9 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-CATALOG = "https://cjdropshipping.com/list/wholesale-home-storage-l-ED8E61AA-2260-4E03-BA66-DEAE3DF02CDC.html"
+CATALOG = "https://royalcraftwood.com/collections/storage-organization"
 TRENDS = "https://trends.google.com/trending/rss?geo=US"
-ALLOWED = {"cjdropshipping.com", "www.cjdropshipping.com", "trends.google.com"}
+ALLOWED = {"royalcraftwood.com", "www.royalcraftwood.com", "trends.google.com"}
 LIMIT = 2_000_000
 
 
@@ -40,7 +40,7 @@ def inspect(url):
             re.findall(r'href=["\x27]([^"\x27]+)', text)))
         products = [link.split("?")[0] for link in links
                     if urllib.parse.urlparse(link).hostname in ALLOWED
-                    and "/product/" in link]
+                    and "/products/" in link]
         return {"url": url, "status": "fetched", "sha256": hashlib.sha256(text.encode()).hexdigest(),
                 "product_urls": sorted(set(products))[:12], "_body": text}
     except Exception as error:
@@ -67,6 +67,25 @@ def main():
                   for url in sources[0].get("product_urls", [])]
     for source in sources:
         source.pop("_body", None)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+        details = list(pool.map(inspect, [row["url"] for row in candidates[:4]]))
+    for row, detail in zip(candidates, details):
+        text = detail.pop("_body", "")
+        row["page_status"] = detail["status"]
+        row["page_sha256"] = detail.get("sha256")
+        row["public_product_data"] = []
+        for block in re.findall(r'<script[^>]+type=["\x27]application/ld\\+json["\x27][^>]*>(.*?)</script>', text, re.S | re.I):
+            try:
+                value = json.loads(block)
+                nodes = value if isinstance(value, list) else value.get("@graph", [value])
+                for node in nodes:
+                    if isinstance(node, dict) and node.get("@type") == "Product":
+                        row["public_product_data"].append({
+                            "name": node.get("name"), "sku": node.get("sku"),
+                            "retail_offers": node.get("offers"),
+                            "cost_basis": "retail page only; wholesale and freight unverified"})
+            except (ValueError, TypeError, AttributeError):
+                continue
     result = {
         "observed_at": now.isoformat(), "run_id": os.getenv("GITHUB_RUN_ID"),
         "mode": "live_public_research", "sources": sources,
