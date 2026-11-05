@@ -1,0 +1,38 @@
+name: Commerce Autopilot live sourcing
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'commerce-autopilot/worker.py'
+      - '.github/workflows/commerce-autopilot.yml'
+permissions:
+  contents: write
+concurrency:
+  group: commerce-autopilot
+  cancel-in-progress: false
+jobs:
+  source:
+    if: github.repository_visibility == 'public'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Fetch live supplier catalog and market attention
+        id: source
+        run: python3 commerce-autopilot/worker.py
+      - name: Save audit records
+        if: always()
+        run: |
+          if [ -f commerce-autopilot/status/latest.json ]; then
+            git config user.name "commerce-autopilot"
+            git config user.email "commerce-autopilot@users.noreply.github.com"
+            git add commerce-autopilot/status/
+            if ! git diff --cached --quiet; then
+              git commit -m "Record live commerce sourcing results"
+              git push
+            fi
+            cat commerce-autopilot/status/latest.json >> "$GITHUB_STEP_SUMMARY"
+          fi
