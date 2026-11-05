@@ -11,9 +11,12 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
+from economics import assess
+
 CATALOG = "https://royalcraftwood.com/collections/storage-organization"
 TRENDS = "https://trends.google.com/trending/rss?geo=US"
-ALLOWED = {"royalcraftwood.com", "www.royalcraftwood.com", "trends.google.com"}
+ALLOWED = {"royalcraftwood.com", "www.royalcraftwood.com", "trends.google.com", "products.fourthwall.com"}
+FULFILLMENT_CATALOG = "https://products.fourthwall.com/"
 LIMIT = 2_000_000
 
 
@@ -40,7 +43,9 @@ def inspect(url):
             re.findall(r'href=["\x27]([^"\x27]+)', text)))
         products = [link.split("?")[0] for link in links
                     if urllib.parse.urlparse(link).hostname in ALLOWED
-                    and "/products/" in link]
+                    and ("/products/" in link or
+                         (urllib.parse.urlparse(link).hostname == "products.fourthwall.com"
+                          and re.fullmatch(r"/[a-z0-9-]{8,}/?", urllib.parse.urlparse(link).path)))]
         return {"url": url, "status": "fetched", "sha256": hashlib.sha256(text.encode()).hexdigest(),
                 "product_urls": sorted(set(products))[:12], "_body": text}
     except Exception as error:
@@ -50,7 +55,7 @@ def inspect(url):
 def main():
     now = dt.datetime.now(dt.timezone.utc)
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
-        sources = list(pool.map(inspect, [CATALOG, TRENDS]))
+        sources = list(pool.map(inspect, [CATALOG, TRENDS, FULFILLMENT_CATALOG]))
     trends = []
     trend_source = sources[1]
     if trend_source["status"] == "fetched":
@@ -64,11 +69,12 @@ def main():
                    "missing": ["exact SKU quote", "US inventory", "delivery commitment",
                                "returns terms", "authorized media", "purchase-intent evidence",
                                "funding before payout"]}
-                  for url in sources[0].get("product_urls", [])]
+                  for source in (sources[2], sources[0])
+                  for url in source.get("product_urls", [])]
     for source in sources:
         source.pop("_body", None)
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-        details = list(pool.map(inspect, [row["url"] for row in candidates[:4]]))
+        details = list(pool.map(inspect, [row["url"] for row in candidates[:8]]))
     for row, detail in zip(candidates, details):
         text = detail.pop("_body", "")
         row["page_status"] = detail["status"]
@@ -86,7 +92,11 @@ def main():
                             "cost_basis": "retail page only; wholesale and freight unverified"})
             except (ValueError, TypeError, AttributeError):
                 continue
+    for row in candidates:
+        row["profit_gate"] = assess(row, now)
     result = {
+        "objective": {"rolling_30_day_operating_profit_cents": 1_000_000,
+                      "product_categories": "unrestricted", "available_spend_cents": 0},
         "observed_at": now.isoformat(), "run_id": os.getenv("GITHUB_RUN_ID"),
         "mode": "live_public_research", "sources": sources,
         "market_attention_queries": trends,
@@ -96,7 +106,8 @@ def main():
         "blockers": ["Shopify connected store rejects API access",
                      "No authenticated supplier fulfillment connection",
                      "No verified landed costs or funding available"],
-        "spend_cents": 0, "actual_orders": 0, "actual_profit_cents": 0,
+        "worker_spend_cents": 0, "actual_orders": None, "actual_profit_cents": None,
+        "ledger_status": "No authenticated order ledger connected",
         "next_schedule_utc": "17 minutes past every sixth hour",
     }
     directory = pathlib.Path(__file__).parent / "status"
