@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-05T12:57:29.333197+00:00",
-  "run_id": "42031507782",
+  "observed_at": "2026-11-05T12:58:52.683020+00:00",
+  "run_id": "42031692471",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "5656745fb540e115d4808742a2ebabe2c471cc07266e05b25ae57111c894d5e6",
+      "sha256": "2aa096d70f0a6860577d2638aad556e77f03f2f92ca1dc4672956451f6782585",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -30,7 +30,7 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "dfc67ff76843b21c2e2837003dcf8d679bba7f30a1dff4c01655973a5a0473e3",
+      "sha256": "531af7f7ecccb4658e296b84d1e3a9885bc5f23ce9d395e9a682d910dfd7758d",
       "product_urls": []
     },
     {
@@ -96,7 +96,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "9899ae4a560441833413a85487e1f04fc901181a2b54acb5c0f15fe1509fa7cb",
+      "page_sha256": "635240ca2c0682265aaf67c852e97af34928eb2e524abd47f360e712339809b2",
       "public_product_data": [
         {
           "name": "Storage Box Set of 3, Natural",
@@ -145,7 +145,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "9dda0f7b9f67543124f1e4bc1b8e43ae7a49f9feb6ac7ccd6a672c87625470c1",
+      "page_sha256": "90f1a679440a57416e48c6848c9ae63db1e80d3240ade88df719019c3e43306c",
       "public_product_data": [
         {
           "name": "Cheese Board, 15.5\u201d x 10\u201d",
@@ -194,7 +194,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "2886e7b20c3553e4579236ca7bc65f960679f32a9717070d48263a60a9261a4d",
+      "page_sha256": "4177733979cb11f369886773ae12faa7639ced60199da07a61b8398299cd87e5",
       "public_product_data": [
         {
           "name": "Cheese Board XXL with Cutlery Set",
@@ -243,7 +243,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "01232bd181ade18a8cec61142a4c947596ca132599aaf8d26bc2f56ea09991fe",
+      "page_sha256": "0511b1a718010b0779a12cec34681fe6878e66dd01ee73bcc6466c122b35c36a",
       "public_product_data": [
         {
           "name": "Cutting Board L, 15\u201dx10\u201d",
@@ -292,7 +292,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "bb4c9dd919fe52b0031ec1202ad15f2fdef90334fe5e39f80362f8d142819316",
+      "page_sha256": "eae59a3ddd380c13ab8d5a67b9448342dc093b6ea5690726f9b8e1624c689bb0",
       "public_product_data": [
         {
           "name": "Cutting Board M, 12\u201dx8\u201d",
@@ -341,7 +341,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "d3a9b376e5fa96d4ea31fe4bc5ab6d1558240d1512bcbade9c0d68db85667c53",
+      "page_sha256": "e3ff81ba2f7ad831a8a34e02fd42c0cf48cebfe3ed3247e68e827248fa6dc212",
       "public_product_data": [
         {
           "name": "Cutting Board Set of 3, Bamboo",
@@ -390,7 +390,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "56319678b7cd9470e250413a6345f2b8712f2c3ded9a5f40063b2426c8ba5458",
+      "page_sha256": "b1a8489200245e9ac3201b390e4022c0155f4077085d1871fb949990608b9394",
       "public_product_data": [
         {
           "name": "Cutting Board Set of 4, Bamboo",
@@ -439,7 +439,7 @@
         "funding before payout"
       ],
       "page_status": "fetched",
-      "page_sha256": "78481e6ad5d31ea1bc93db7615d6e7e875214f1a4dbb527221499f3a859a5739",
+      "page_sha256": "d82cb47fb4cbe060681003660595345d64768852d055e3ad1413473c712bb0ef",
       "public_product_data": [
         {
           "name": "Cutting Board Set of 5, Bamboo",
