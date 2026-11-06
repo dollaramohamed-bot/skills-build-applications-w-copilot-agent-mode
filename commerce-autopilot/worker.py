@@ -54,6 +54,25 @@ def inspect(url):
         return {"url": url, "status": "failed", "error_type": type(error).__name__}
 
 
+def normalize_offers(value):
+    offers = value if isinstance(value, list) else [value]
+    normalized = []
+    for offer in offers:
+        if not isinstance(offer, dict):
+            continue
+        record = {key: offer[key] for key in
+                  ("name", "url", "priceCurrency", "price", "availability") if key in offer}
+        shipping = offer.get("shippingDetails", [])
+        shipping = shipping if isinstance(shipping, list) else [shipping]
+        record["shippingDetails"] = [
+            detail for detail in shipping
+            if isinstance(detail, dict)
+            and isinstance(detail.get("shippingDestination"), dict)
+            and detail["shippingDestination"].get("addressCountry") == "US"]
+        normalized.append(record)
+    return normalized
+
+
 def extract_products(text, url):
     products = []
     for block in re.findall(r'<script[^>]+type=["\x27]application/ld\+json["\x27][^>]*>(.*?)</script>', text, re.S | re.I):
@@ -64,7 +83,7 @@ def extract_products(text, url):
                 if isinstance(node, dict) and node.get("@type") == "Product":
                     products.append({
                         "name": node.get("name"), "sku": node.get("sku"),
-                        "catalog_offers": node.get("offers"),
+                        "catalog_offers": normalize_offers(node.get("offers")),
                         "cost_basis": ("Supplier catalog starting costs; exact variant quote unverified"
                                        if "products.fourthwall.com" in url else
                                        "Retail page only; wholesale and freight unverified")})
@@ -136,6 +155,8 @@ def main():
         row["public_product_data"] = []
         row["public_product_data"] = extract_products(text, row["url"])
     for row in candidates:
+        for product in row.get("public_product_data", []):
+            product["catalog_offers"] = normalize_offers(product.get("catalog_offers"))
         row["profit_gate"] = assess(row, now)
         row["cost_screen"] = screen(row)
         if row["url"] == "https://products.fourthwall.com/black-glossy-mug":
