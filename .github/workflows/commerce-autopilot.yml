@@ -35,8 +35,15 @@ jobs:
             git add commerce-autopilot/status/
             if ! git diff --cached --quiet; then
               git commit -m "Record live commerce sourcing results"
-              git pull --rebase origin main
-              git push
+              saved=false
+              for attempt in 1 2 3; do
+                git pull --rebase origin main
+                if git push; then
+                  saved=true
+                  break
+                fi
+              done
+              test "$saved" = true
             fi
             cat commerce-autopilot/status/latest.json >> "$GITHUB_STEP_SUMMARY"
           fi
