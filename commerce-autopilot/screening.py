@@ -1,5 +1,6 @@
 """Normalize observed supplier catalog floors without inventing a sellable quote."""
 from decimal import Decimal, InvalidOperation, ROUND_CEILING
+import math
 
 PAYMENT_RATE = Decimal("0.029")
 PAYMENT_FIXED_CENTS = 30
@@ -73,3 +74,41 @@ def screen(row):
                        "Required selling price has no validated conversion evidence",
                        "Taxes, fixed overhead and exceptional returns may change contribution"],
             "eligible_for_checkout": False}
+
+
+def compare_posted_price(cost_screen, reference):
+    prices = []
+    for product in reference.get("products", []):
+        offers = product.get("catalog_offers")
+        offers = offers if isinstance(offers, list) else [offers]
+        for offer in offers:
+            if isinstance(offer, dict) and offer.get("priceCurrency") == "USD":
+                price = cents(offer.get("price"))
+                if price is not None and offer.get("availability", "").endswith("/InStock"):
+                    prices.append(price)
+    if not prices or cost_screen.get("status") != "catalog_floor_only":
+        return {"status": "insufficient_current_evidence"}
+    price = min(prices)
+    supplier = cost_screen["offers"][0]
+    processing = int((Decimal(price) * PAYMENT_RATE).to_integral_value(rounding=ROUND_CEILING)) + PAYMENT_FIXED_CENTS
+    reserve = int((Decimal(price) * RESERVE_RATE).to_integral_value(rounding=ROUND_CEILING))
+    buyer_shipping_ceiling = price - supplier["catalog_base_floor_cents"] - processing - reserve
+    seller_shipping_ceiling = price - supplier["landed_floor_cents"] - processing - reserve
+    return {
+        "status": "posted_price_comparison_only",
+        "reference_url": reference["url"], "observed_at": reference["observed_at"],
+        "reference_minimum_price_cents": price,
+        "contribution_ceiling_if_buyer_pays_shipping_cents": buyer_shipping_ceiling,
+        "contribution_ceiling_if_seller_pays_shipping_cents": seller_shipping_ceiling,
+        "minimum_orders_for_10000_before_overhead_if_buyer_pays_shipping":
+            math.ceil(1_000_000 / buyer_shipping_ceiling) if buyer_shipping_ceiling > 0 else None,
+        "free_shipping_at_reference_price": "nonpositive_even_at_catalog_floor"
+            if seller_shipping_ceiling <= 0 else "requires_exact_quote",
+        "limits": [
+            "Independent seller art and audience differ",
+            "Reference minimum price and supplier minimum cost may represent different variants",
+            "Buyer-paid shipping case excludes processing charged on freight and tax",
+            "Catalog cost is a floor, so contribution is an upper bound",
+            "No demand, conversion rate or realized profit is established"],
+        "eligible_for_checkout": False,
+    }
