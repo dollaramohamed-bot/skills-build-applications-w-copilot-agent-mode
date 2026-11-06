@@ -84,7 +84,7 @@ def compare_posted_price(cost_screen, reference):
         for offer in offers:
             if isinstance(offer, dict) and offer.get("priceCurrency") == "USD":
                 price = cents(offer.get("price"))
-                if price is not None and offer.get("availability", "").endswith("/InStock"):
+                if price is not None and offer.get("availability") in ("https://schema.org/InStock", "http://schema.org/InStock"):
                     prices.append(price)
     if not prices or cost_screen.get("status") != "catalog_floor_only":
         return {"status": "insufficient_current_evidence"}
