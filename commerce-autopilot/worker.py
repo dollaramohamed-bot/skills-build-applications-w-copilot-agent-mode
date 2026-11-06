@@ -12,12 +12,13 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 from economics import assess
-from screening import screen
+from screening import screen, compare_posted_price
 
 CATALOG = "https://royalcraftwood.com/collections/storage-organization"
 TRENDS = "https://trends.google.com/trending/rss?geo=US"
-ALLOWED = {"royalcraftwood.com", "www.royalcraftwood.com", "trends.google.com", "products.fourthwall.com"}
+ALLOWED = {"royalcraftwood.com", "www.royalcraftwood.com", "trends.google.com", "products.fourthwall.com", "deverror101-shop.fourthwall.com"}
 FULFILLMENT_CATALOG = "https://products.fourthwall.com/"
+MARKET_REFERENCE = "https://deverror101-shop.fourthwall.com/products/black-glossy-mug"
 LIMIT = 4_000_000
 
 
@@ -53,6 +54,25 @@ def inspect(url):
         return {"url": url, "status": "failed", "error_type": type(error).__name__}
 
 
+def extract_products(text, url):
+    products = []
+    for block in re.findall(r'<script[^>]+type=["\x27]application/ld\+json["\x27][^>]*>(.*?)</script>', text, re.S | re.I):
+        try:
+            value = json.loads(block)
+            nodes = value if isinstance(value, list) else value.get("@graph", [value])
+            for node in nodes:
+                if isinstance(node, dict) and node.get("@type") == "Product":
+                    products.append({
+                        "name": node.get("name"), "sku": node.get("sku"),
+                        "catalog_offers": node.get("offers"),
+                        "cost_basis": ("Supplier catalog starting costs; exact variant quote unverified"
+                                       if "products.fourthwall.com" in url else
+                                       "Retail page only; wholesale and freight unverified")})
+        except (ValueError, TypeError, AttributeError):
+            continue
+    return products
+
+
 def main():
     now = dt.datetime.now(dt.timezone.utc)
     directory = pathlib.Path(__file__).parent / "status"
@@ -61,7 +81,7 @@ def main():
     previous = json.loads(previous_path.read_text()) if previous_path.exists() else {}
     cursor = previous.get("scan_cursor", 0)
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
-        sources = list(pool.map(inspect, [CATALOG, TRENDS, FULFILLMENT_CATALOG]))
+        sources = list(pool.map(inspect, [CATALOG, TRENDS, FULFILLMENT_CATALOG, MARKET_REFERENCE]))
     trends = []
     trend_source = sources[1]
     if trend_source["status"] == "fetched":
@@ -77,6 +97,12 @@ def main():
                                "funding before payout"]}
                   for source in (sources[2], sources[0])
                   for url in source.get("product_urls", [])]
+    market_reference = {
+        "url": MARKET_REFERENCE, "observed_at": now.isoformat(),
+        "page_status": sources[3]["status"],
+        "products": extract_products(sources[3].get("_body", ""), MARKET_REFERENCE),
+        "comparability": "Same blank mug format; artwork and exact supplier variant quote unverified",
+        "demand_status": "Posted prices only; realized sales and conversion unknown"}
     previous_rows = {row["url"]: row for row in previous.get("candidates", [])}
     for row in candidates:
         prior = previous_rows.get(row["url"], {})
@@ -108,29 +134,19 @@ def main():
         row["source_observed_at"] = now.isoformat()
         row["page_sha256"] = detail.get("sha256")
         row["public_product_data"] = []
-        for block in re.findall(r'<script[^>]+type=["\x27]application/ld\+json["\x27][^>]*>(.*?)</script>', text, re.S | re.I):
-            try:
-                value = json.loads(block)
-                nodes = value if isinstance(value, list) else value.get("@graph", [value])
-                for node in nodes:
-                    if isinstance(node, dict) and node.get("@type") == "Product":
-                        row["public_product_data"].append({
-                            "name": node.get("name"), "sku": node.get("sku"),
-                            "catalog_offers": node.get("offers"),
-                            "cost_basis": ("Supplier catalog starting costs; exact variant quote unverified"
-                                           if "products.fourthwall.com" in row["url"] else
-                                           "Retail page only; wholesale and freight unverified")})
-            except (ValueError, TypeError, AttributeError):
-                continue
+        row["public_product_data"] = extract_products(text, row["url"])
     for row in candidates:
         row["profit_gate"] = assess(row, now)
         row["cost_screen"] = screen(row)
+        if row["url"] == "https://products.fourthwall.com/black-glossy-mug":
+            row["market_price_comparison"] = compare_posted_price(row["cost_screen"], market_reference)
     result = {
         "objective": {"rolling_30_day_operating_profit_cents": 1_000_000,
                       "product_categories": "unrestricted", "available_spend_cents": 0},
         "observed_at": now.isoformat(), "run_id": os.getenv("GITHUB_RUN_ID"),
         "mode": "live_public_research", "sources": sources, "scan_cursor": cursor + 8,
         "market_attention_queries": trends,
+        "market_references": [market_reference],
         "market_caveat": "Trending searches measure attention, not purchase intent or product demand.",
         "candidates": candidates,
         "quote_priorities": sorted(
@@ -140,7 +156,7 @@ def main():
               "observed_at": row.get("source_observed_at")}
              for row in candidates if row["cost_screen"]["status"] == "catalog_floor_only"],
             key=lambda item: item["required_buyer_payment_for_25_contribution_floor_cents"]),
-        "quote_priority_caveat": "Cost screening only. Demand and exact quote still required.",
+        "quote_priority_caveat": "Research cost thresholds only. Fixed $25 per-order contribution is a planning case, not a product selection target. Market price, achievable order volume, cash and demand must be evaluated together.",
         "operating_status": "sourcing_only",
         "blockers": ["Shopify connected store rejects API access",
                      "No authenticated supplier fulfillment connection",
