@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-07T21:55:13.141541+00:00",
-  "run_id": "42418120299",
+  "observed_at": "2026-11-08T06:09:16.116433+00:00",
+  "run_id": "42453560218",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "f70b571d70953443163a01f3a2bd0c48f1d044dd01d524fa7caf530b65673879",
+      "sha256": "21cf43ecf89231a898524da25d7667d90d67099775818ab15d053b37709dd47f",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "226be05b613745fcd54816432cf35820a401922012f19605449b858e4c70e6a5",
+      "sha256": "721ec4b88da35c44a2b72ce6ec1035d0efb8b6328603fe7dbc9500cee68a20b3",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "142fe27b7fb6b4304d2a4647867b0920f9ff8c88faea6f1ffb91652d9ad2f95e",
+      "sha256": "92121fbadbcd31375f68d2aa6d390412de0267800b3462430011d9a843c062db",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -120,7 +120,7 @@
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
       "status": "fetched",
-      "sha256": "8775fe61a264fc99356de18c40b1137dbe4520db6c61036e12654ba847fdbe5b",
+      "sha256": "5d11e9fdfbd014f24cf9554f6f3ff5f0ad836b502ccfbeeaf0f59fc1c45cc4b5",
       "product_urls": [
         "https://deverror101-shop.fourthwall.com/admin/dashboard/products/all/38f7c748-9e87-4782-9697-324ae52d9f53",
         "https://deverror101-shop.fourthwall.com/en-aud/products/black-glossy-mug",
@@ -149,53 +149,53 @@
       ]
     }
   ],
-  "scan_cursor": 108,
+  "scan_cursor": 116,
   "market_attention_queries": [
     {
-      "query": "ryan hopkins",
-      "published": "Sat, 7 Nov 2026 13:40:00 -0800"
+      "query": "i play rocky",
+      "published": "Sat, 7 Nov 2026 21:50:00 -0800"
     },
     {
-      "query": "n7 day",
-      "published": "Sat, 7 Nov 2026 13:40:00 -0800"
+      "query": "connor mcdavid",
+      "published": "Sat, 7 Nov 2026 21:50:00 -0800"
     },
     {
-      "query": "kelsey mitchell",
-      "published": "Sat, 7 Nov 2026 13:30:00 -0800"
+      "query": "de'aaron fox",
+      "published": "Sat, 7 Nov 2026 21:40:00 -0800"
     },
     {
-      "query": "southern university football",
-      "published": "Sat, 7 Nov 2026 13:30:00 -0800"
+      "query": "dave chappelle",
+      "published": "Sat, 7 Nov 2026 21:40:00 -0800"
     },
     {
-      "query": "eastern wa vs idaho",
-      "published": "Sat, 7 Nov 2026 13:20:00 -0800"
+      "query": "rey mysterio",
+      "published": "Sat, 7 Nov 2026 21:40:00 -0800"
     },
     {
-      "query": "atl\u00e9tico mineiro vs gr\u00eamio",
-      "published": "Sat, 7 Nov 2026 13:20:00 -0800"
+      "query": "portland weather",
+      "published": "Sat, 7 Nov 2026 21:40:00 -0800"
     },
     {
-      "query": "northern az vs cal poly",
-      "published": "Sat, 7 Nov 2026 13:20:00 -0800"
+      "query": "mississippi senate race election results",
+      "published": "Sat, 7 Nov 2026 21:30:00 -0800"
     },
     {
-      "query": "dakorien moore",
-      "published": "Sat, 7 Nov 2026 13:20:00 -0800"
+      "query": "violent night 2",
+      "published": "Sat, 7 Nov 2026 21:30:00 -0800"
     },
     {
-      "query": "california great america closing 2027",
-      "published": "Sat, 7 Nov 2026 13:20:00 -0800"
+      "query": "sherrod brown",
+      "published": "Sat, 7 Nov 2026 21:30:00 -0800"
     },
     {
-      "query": "gio lopez",
-      "published": "Sat, 7 Nov 2026 13:20:00 -0800"
+      "query": "cody campbell",
+      "published": "Sat, 7 Nov 2026 21:30:00 -0800"
     }
   ],
   "market_references": [
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-      "observed_at": "2026-11-07T21:55:13.141541+00:00",
+      "observed_at": "2026-11-08T06:09:16.116433+00:00",
       "page_status": "fetched",
       "products": [
         {
@@ -976,7 +976,6 @@
       ],
       "page_sha256": "830b86f0f9684fd65168edc32169b45829dec2c06efe74daa69023918989dbf4",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1130,7 +1129,6 @@
       ],
       "page_sha256": "43a6eace3a498af9f7eeca8edbc1bc1fa283117c5ef3f12a624f6748b554821b",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1267,7 +1265,6 @@
       ],
       "page_sha256": "5cc76148e659e7313ba86519da4b4fa25f75cd5c8dc767e0f38245e4933fa90a",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1487,7 +1484,6 @@
       ],
       "page_sha256": "898a0c39516a1723b5864dd81983def9dc3ffe269d0f6f5606f2fe3ca37700d3",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1707,7 +1703,6 @@
       ],
       "page_sha256": "5f14355e04ce3687dd676137c003b118ebc8cb9daaf98115fdbeb8d4b2690cdf",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1927,7 +1922,6 @@
       ],
       "page_sha256": "ee008c7013ce9068c119ec07f745ac53fc1f68d1ead0f04248cd5331157008f1",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2087,7 +2081,6 @@
       ],
       "page_sha256": "2c98c99202e68e1d421adb431e021fcb3994438a658d076f5d13e2b9c5782e07",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2150,7 +2143,7 @@
       "market_price_comparison": {
         "status": "posted_price_comparison_only",
         "reference_url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-        "observed_at": "2026-11-07T21:55:13.141541+00:00",
+        "observed_at": "2026-11-08T06:09:16.116433+00:00",
         "reference_minimum_price_cents": 1400,
         "contribution_ceiling_if_buyer_pays_shipping_cents": 364,
         "contribution_ceiling_if_seller_pays_shipping_cents": -305,
@@ -2219,7 +2212,6 @@
       ],
       "page_sha256": "ca73d615e70069788559564af06ddb1d46b75c105825fdb44f8944a2a587fa25",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2292,6 +2284,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "e68c936a67bfb34e0d19458edefea331311fb407b59b144c0616ed8185813583",
       "public_product_data": [
         {
           "name": "Ceramic Mug with Color Inside",
@@ -2311,8 +2306,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 9,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -2341,8 +2336,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 9,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -2371,8 +2366,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 9,
+                      "minValue": 7,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -2391,8 +2386,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "013ebe46be929cb60e85218968bba2f4aeff787ca25e3fee4e2a154322c30da9",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2429,8 +2422,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 6,
-                "maxValue": 9,
+                "minValue": 7,
+                "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -2452,8 +2445,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 6,
-                "maxValue": 9,
+                "minValue": 7,
+                "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -2475,8 +2468,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 6,
-                "maxValue": 9,
+                "minValue": 7,
+                "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -2511,6 +2504,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "f30ab329b5a51e0bd029bd6eb12496297bff1d545b6f2232d40b171a19ce8024",
       "public_product_data": [
         {
           "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
@@ -2610,8 +2606,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "e526071abddc4bd4a6f70241a668d67b1f9048e50d03e46c21fcf3ac26d5285b",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2730,6 +2724,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "82fd8653be067c5ce35ee6fe02cc2419c5327fd77596c65f5bb23dbe673ec505",
       "public_product_data": [
         {
           "name": "Cotton Heritage Men's Premium Heavyweight Tee",
@@ -2829,8 +2826,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "da04645ec8e72da84227fdd2a399dbdfae76049b07df2a168b44523bb1de0d92",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2949,6 +2944,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "84479bda8eab31461b08ef74a62410834c9a9846c2c1aa044691e46394f777c1",
       "public_product_data": [
         {
           "name": "Cotton Heritage Unisex Premium Hoodie",
@@ -2969,7 +2967,7 @@
                   "deliveryTime": {
                     "transitTime": {
                       "minValue": 7,
-                      "maxValue": 10,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -2999,7 +2997,7 @@
                   "deliveryTime": {
                     "transitTime": {
                       "minValue": 7,
-                      "maxValue": 10,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -3029,7 +3027,7 @@
                   "deliveryTime": {
                     "transitTime": {
                       "minValue": 7,
-                      "maxValue": 10,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -3048,8 +3046,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "fdd403b1315ef983345df3b7504ceb609f9f0ebd49453e536fd8e68bead9c4ef",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3087,7 +3083,7 @@
             "transit_time": {
               "transitTime": {
                 "minValue": 7,
-                "maxValue": 10,
+                "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -3110,7 +3106,7 @@
             "transit_time": {
               "transitTime": {
                 "minValue": 7,
-                "maxValue": 10,
+                "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -3133,7 +3129,7 @@
             "transit_time": {
               "transitTime": {
                 "minValue": 7,
-                "maxValue": 10,
+                "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -3168,6 +3164,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "f21e68851b4363184007aff83a1cb9d608fbc9daacc779e94b5fd32f01b6771e",
       "public_product_data": [
         {
           "name": "Cotton Heritage Unisex Premium Hoodie",
@@ -3267,8 +3266,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "52591913a5e53535befabfd8077e44bce821b86d0ca32661a9697f443aad0545",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3387,6 +3384,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "ae2107fdb91c3558c3e49e4ab4a41edd1b07a9726844a1b974b516f86bc4cd59",
       "public_product_data": [
         {
           "name": "Custom Plushie",
@@ -3404,8 +3404,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "6e784108e1dab2b3464106351cf360ea0fdd7755fab85b3e7cece61c933d7552",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3441,6 +3439,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "160c75f368a428d8415ce1b0daf4b02273462c1678d66a3d25f9a467ec4b5a2c",
       "public_product_data": [
         {
           "name": "Enhanced Matte Paper Poster",
@@ -3480,8 +3481,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "2eef6e254fe5772ff1b84f89572fcfb0e9a0d934bf91a046445d6a1d4960659f",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3653,8 +3652,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "01999bdc672e7f31badf79b57f0c85acd6ba65b4cb066ae081a76245b2a83062",
-      "source_observed_at": "2026-11-06T14:21:45.508823+00:00",
+      "page_sha256": "e0576c5c4d8ff0c48ab37f4cce2586c22d3108a6c26961a450ca2bba465493aa",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8316,7 +8316,6 @@
       ],
       "page_sha256": "a773d53f2c981af129c6358ee25ee1718ce51fea70aeedc2e776ab49700e975f",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8370,7 +8369,6 @@
       ],
       "page_sha256": "b6845b69b1d56db5a1c4896a51a7b1846985b15ad7bffd5d069e7625ada555cb",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8424,7 +8422,6 @@
       ],
       "page_sha256": "6b31a820b9bd583c31e9aefbb113d17ef4a24c2b9604085c995a8f1476122baa",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8478,7 +8475,6 @@
       ],
       "page_sha256": "350b039449695b2351e465498e3f6a752bb5456ecd5b4da24375939e78247928",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8532,7 +8528,6 @@
       ],
       "page_sha256": "e59ba018a5be1f246d8df321c98df1941e9e91d9a9256d1e6ce0f42eef12fdc7",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8586,7 +8581,6 @@
       ],
       "page_sha256": "42048256ed48ec23abba27e65f680900f81a3c3717beae34521540f0b1d0547a",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8640,7 +8634,6 @@
       ],
       "page_sha256": "01461370c4d2ec0d5478f973b9366d41741d57bee45db48646ca426b93abc265",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8694,7 +8687,6 @@
       ],
       "page_sha256": "1b535c2d9126107d7ea97bc06fa9ce203730ca908a73a8746eb1b9511009c141",
       "source_observed_at": "2026-11-07T21:55:13.141541+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8730,6 +8722,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "14bd6fd5d71dca75941e3eefb8f7c89ddaf5739c8cca24546da80a6b974b9ed9",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Gray (5 Slots)",
@@ -8746,8 +8741,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "e640dbd82e3857f834a3dbe4af002d311923880a66cf62486a29df3a48b1543d",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8783,6 +8776,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_sha256": "d43bec8f1eceb1b7d0cb483a629c9b56a02cecf15196d4de0656e1dbdc7f8964",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Natural (5 Slots)",
@@ -8799,8 +8795,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "791e6fa3145999dc034e9f0792e68e599b3d0be144590e55d672d4a26de15091",
-      "source_observed_at": "2026-11-06T00:48:33.479976+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8852,8 +8846,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "908771ea36c80377013f12a8c93cce734d51967e7a0f770b1879539e5f92e76f",
-      "source_observed_at": "2026-11-06T14:21:45.508823+00:00",
+      "page_sha256": "c262eb6dd401d620983ceb8c68723a30bbd9bf525d00928fcddbe991b9a8405b",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8905,8 +8900,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "98aca06c6b90c0885794cc4c2a55db77e98195a727872b09e925879aa4554496",
-      "source_observed_at": "2026-11-06T14:21:45.508823+00:00",
+      "page_sha256": "cdf387da4f0cc28bf9097423c73b65a9ba4031c9ed77a00bc5f5280560895950",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8958,8 +8954,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "dbf7a162ec2a79a3cf766ae9cd7965567e0900d7c5aa065234415ec224fef171",
-      "source_observed_at": "2026-11-06T14:21:45.508823+00:00",
+      "page_sha256": "4fb610dfcaa26d3db52490a4eb44e7f25c32d7055a50491a04d3a0e5aabb2a35",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9011,8 +9008,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "c4094f4e370bf1187db000f9f682e8c0c48a7808bae097c127045bac50f4156e",
-      "source_observed_at": "2026-11-06T14:21:45.508823+00:00",
+      "page_sha256": "498ba8cf41e0cf9af919022c52162f4c36fd895573433e418b1bedd5df8dbf44",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9064,8 +9062,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "8559db0f1ea4eecd83dfa22d08a216e375265ba75d4ed22d98b6aecc522d6803",
-      "source_observed_at": "2026-11-06T14:21:45.508823+00:00",
+      "page_sha256": "98a703f64c3044e67a95a3e9bc7a0f32b0d4431e16e883e03fe7d4987d60ec57",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9117,8 +9116,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "4bb0883796cefcfd80cd3241182e533e0acc734602ca98eb8338d09469d14c84",
-      "source_observed_at": "2026-11-06T14:21:45.508823+00:00",
+      "page_sha256": "acaec614cbb99bb994a29bda6243001bac4da952ad807f3965de4734458bf2cd",
+      "source_observed_at": "2026-11-08T06:09:16.116433+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9682,7 +9682,7 @@
     {
       "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed",
       "required_buyer_payment_for_25_contribution_floor_cents": 3889,
-      "observed_at": "2026-11-06T00:48:33.479976+00:00"
+      "observed_at": "2026-11-08T06:09:16.116433+00:00"
     },
     {
       "url": "https://products.fourthwall.com/white-glossy-mug-sublimation",
@@ -9702,7 +9702,7 @@
     {
       "url": "https://products.fourthwall.com/ceramic-mug-with-color-inside-1",
       "required_buyer_payment_for_25_contribution_floor_cents": 4448,
-      "observed_at": "2026-11-06T00:48:33.479976+00:00"
+      "observed_at": "2026-11-08T06:09:16.116433+00:00"
     },
     {
       "url": "https://products.fourthwall.com/bella-canvas-unisex-supersoft-t-shirt-dtg",
@@ -9732,7 +9732,7 @@
     {
       "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg",
       "required_buyer_payment_for_25_contribution_floor_cents": 4893,
-      "observed_at": "2026-11-06T00:48:33.479976+00:00"
+      "observed_at": "2026-11-08T06:09:16.116433+00:00"
     },
     {
       "url": "https://products.fourthwall.com/yupoong-classic-dad-hat",
@@ -9747,7 +9747,7 @@
     {
       "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg",
       "required_buyer_payment_for_25_contribution_floor_cents": 5045,
-      "observed_at": "2026-11-06T00:48:33.479976+00:00"
+      "observed_at": "2026-11-08T06:09:16.116433+00:00"
     },
     {
       "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery",
@@ -9777,7 +9777,7 @@
     {
       "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed",
       "required_buyer_payment_for_25_contribution_floor_cents": 6142,
-      "observed_at": "2026-11-06T14:21:45.508823+00:00"
+      "observed_at": "2026-11-08T06:09:16.116433+00:00"
     },
     {
       "url": "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -9787,12 +9787,12 @@
     {
       "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx",
       "required_buyer_payment_for_25_contribution_floor_cents": 6613,
-      "observed_at": "2026-11-06T00:48:33.479976+00:00"
+      "observed_at": "2026-11-08T06:09:16.116433+00:00"
     },
     {
       "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg",
       "required_buyer_payment_for_25_contribution_floor_cents": 6613,
-      "observed_at": "2026-11-06T00:48:33.479976+00:00"
+      "observed_at": "2026-11-08T06:09:16.116433+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg",
