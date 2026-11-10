@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-10T07:25:26.603304+00:00",
-  "run_id": "42775176854",
+  "observed_at": "2026-11-10T19:48:01.952203+00:00",
+  "run_id": "42888853904",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "0bdbd943ef36b35aef94c3beeea0ca96ebbcbcd04838887516a5f9b7592f3b85",
+      "sha256": "dcd019cd6d781aa633a2ce46449d2db35d621ef85a1573384cab50128505447c",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "f0683d104abd62ca378ed3574c5b2740867747b56b42a96f217cad0cde1f3099",
+      "sha256": "9e5010a915e2ebadac14a133ec52c874ac19bcdf09e8b5f40fe180fb597ef25f",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "36bb16997497ef5205816250d7a32b9e702e31950816602a036635bd41671b26",
+      "sha256": "7b67abc3285912d41c0a2bfdafeb9c5faf042505c44f15536750d82c56895db9",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -120,7 +120,7 @@
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
       "status": "fetched",
-      "sha256": "5d11e9fdfbd014f24cf9554f6f3ff5f0ad836b502ccfbeeaf0f59fc1c45cc4b5",
+      "sha256": "105f1227c97610640bb9dfbbec2ed58fcd1792833b646fca43d2a6ed4972f526",
       "product_urls": [
         "https://deverror101-shop.fourthwall.com/admin/dashboard/products/all/38f7c748-9e87-4782-9697-324ae52d9f53",
         "https://deverror101-shop.fourthwall.com/en-aud/products/black-glossy-mug",
@@ -149,58 +149,58 @@
       ]
     }
   ],
-  "scan_cursor": 156,
+  "scan_cursor": 164,
   "market_attention_queries": [
     {
-      "query": "jamie dornan",
-      "published": "Mon, 9 Nov 2026 23:10:00 -0800"
+      "query": "jonathan taylor",
+      "published": "Tue, 10 Nov 2026 11:30:00 -0800"
     },
     {
-      "query": "leonardo dicaprio",
-      "published": "Mon, 9 Nov 2026 23:10:00 -0800"
+      "query": "riq woolen",
+      "published": "Tue, 10 Nov 2026 11:30:00 -0800"
     },
     {
-      "query": "kayla harrison",
-      "published": "Mon, 9 Nov 2026 23:10:00 -0800"
+      "query": "jim jordan",
+      "published": "Tue, 10 Nov 2026 11:20:00 -0800"
     },
     {
-      "query": "pluto",
-      "published": "Mon, 9 Nov 2026 23:10:00 -0800"
+      "query": "mark robinson",
+      "published": "Tue, 10 Nov 2026 11:20:00 -0800"
     },
     {
-      "query": "gabourey sidibe",
-      "published": "Mon, 9 Nov 2026 23:00:00 -0800"
+      "query": "lorenzo musetti",
+      "published": "Tue, 10 Nov 2026 11:20:00 -0800"
     },
     {
-      "query": "disability",
-      "published": "Mon, 9 Nov 2026 22:50:00 -0800"
+      "query": "leicester city vs walsall",
+      "published": "Tue, 10 Nov 2026 11:10:00 -0800"
     },
     {
-      "query": "adria arjona",
-      "published": "Mon, 9 Nov 2026 22:30:00 -0800"
+      "query": "matthew farwell",
+      "published": "Tue, 10 Nov 2026 10:50:00 -0800"
     },
     {
-      "query": "olivia cooke",
-      "published": "Mon, 9 Nov 2026 22:30:00 -0800"
+      "query": "mac jones",
+      "published": "Tue, 10 Nov 2026 10:50:00 -0800"
     },
     {
-      "query": "new zealand vs india",
-      "published": "Mon, 9 Nov 2026 22:20:00 -0800"
+      "query": "chiefs trade",
+      "published": "Tue, 10 Nov 2026 10:50:00 -0800"
     },
     {
-      "query": "henry cavill",
-      "published": "Mon, 9 Nov 2026 22:20:00 -0800"
+      "query": "starlink mini 2",
+      "published": "Tue, 10 Nov 2026 10:50:00 -0800"
     }
   ],
   "market_references": [
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-      "observed_at": "2026-11-10T07:25:26.603304+00:00",
+      "observed_at": "2026-11-10T19:48:01.952203+00:00",
       "page_status": "fetched",
       "products": [
         {
           "name": "Black Glossy Mug",
-          "sku": "black-glossy-mug",
+          "sku": null,
           "catalog_offers": [
             {
               "name": "Black, 11oz",
@@ -1094,9 +1094,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "b36982e6b8898c1755d8ca3af1aaf8917b795c911dc55b45a2d7f5d248e6f753",
       "public_product_data": [
         {
           "name": "AS Colour Heavy T-shirt",
@@ -1130,6 +1127,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "b36982e6b8898c1755d8ca3af1aaf8917b795c911dc55b45a2d7f5d248e6f753",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1165,9 +1164,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "b560f9d3fbed4f473a80d0b812886899c2e84c9ae885f70947088989f673d167",
       "public_product_data": [
         {
           "name": "AS Colour Premium Oversized Faded T-Shirt",
@@ -1267,6 +1263,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "b560f9d3fbed4f473a80d0b812886899c2e84c9ae885f70947088989f673d167",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1385,9 +1383,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "de7b5182342a0f5d7343a8621d91e7be3fdda184badb8ffde90832a6f6bf8c12",
       "public_product_data": [
         {
           "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt",
@@ -1487,6 +1482,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "de7b5182342a0f5d7343a8621d91e7be3fdda184badb8ffde90832a6f6bf8c12",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1605,9 +1602,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "52d51ba6c771c00322a16c552045a8ec1c630245b6233960f08313e3d3785fb1",
       "public_product_data": [
         {
           "name": "AS Colour Unisex Premium Relaxed Hoodie",
@@ -1707,6 +1701,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "52d51ba6c771c00322a16c552045a8ec1c630245b6233960f08313e3d3785fb1",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1825,9 +1821,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "8dc615c8ea8baa5f81dd65659a402011c98c72b6518f1c092b12f015b45151b6",
       "public_product_data": [
         {
           "name": "Bella+Canvas Unisex Supersoft T-Shirt",
@@ -1927,6 +1920,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "8dc615c8ea8baa5f81dd65659a402011c98c72b6518f1c092b12f015b45151b6",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2045,9 +2040,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "5dc475f62024747338150964fa1d29d83b7dcf47809e02f348a586d5785a5670",
       "public_product_data": [
         {
           "name": "Black Glossy Mug",
@@ -2087,6 +2079,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "5dc475f62024747338150964fa1d29d83b7dcf47809e02f348a586d5785a5670",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2149,7 +2143,7 @@
       "market_price_comparison": {
         "status": "posted_price_comparison_only",
         "reference_url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-        "observed_at": "2026-11-10T07:25:26.603304+00:00",
+        "observed_at": "2026-11-10T19:48:01.952203+00:00",
         "reference_minimum_price_cents": 1400,
         "contribution_ceiling_if_buyer_pays_shipping_cents": 364,
         "contribution_ceiling_if_seller_pays_shipping_cents": -305,
@@ -2177,9 +2171,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "b35e826155fa4a3d4a9128b614c0cd6ca2f2aa3a28a7c74ba19c14186679b8b1",
       "public_product_data": [
         {
           "name": "Canvas (in)",
@@ -2219,6 +2210,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "b35e826155fa4a3d4a9128b614c0cd6ca2f2aa3a28a7c74ba19c14186679b8b1",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2291,9 +2284,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "6f3952ad1fec854d81c4a357bd62d7d837e9f6aff634971dd781096dadffdfbc",
       "public_product_data": [
         {
           "name": "Ceramic Mug with Color Inside",
@@ -2393,6 +2383,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "6f3952ad1fec854d81c4a357bd62d7d837e9f6aff634971dd781096dadffdfbc",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2511,6 +2503,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "a4116c36a1b53a0d35851e1547a7a7cb50fccbf858fdf057db2df3f489cb0805",
+      "public_product_data": [
+        {
+          "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+          "sku": "pro_8be1acca2fe7403f89",
+          "catalog_offers": [
+            {
+              "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Black)",
+              "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 15.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (True Navy)",
+              "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg?selectedColor=True+Navy",
+              "priceCurrency": "USD",
+              "price": 15.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Graphite)",
+              "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg?selectedColor=Graphite",
+              "priceCurrency": "USD",
+              "price": 15.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2531,7 +2625,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_8be1acca2fe7403f89",
+            "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+            "offer_name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Black)",
+            "catalog_base_floor_cents": 1545,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1974,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3807,
+              "2500": 4893,
+              "4000": 6522
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_8be1acca2fe7403f89",
+            "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+            "offer_name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (True Navy)",
+            "catalog_base_floor_cents": 1545,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1974,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3807,
+              "2500": 4893,
+              "4000": 6522
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_8be1acca2fe7403f89",
+            "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+            "offer_name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Graphite)",
+            "catalog_base_floor_cents": 1545,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1974,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3807,
+              "2500": 4893,
+              "4000": 6522
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -2546,6 +2723,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "6f56627b4258c7ca39148b04ce25f0bdd8245da60aa35c34c7f2a4b362b1e8d9",
+      "public_product_data": [
+        {
+          "name": "Cotton Heritage Men's Premium Heavyweight Tee",
+          "sku": "pro_573566ef15794bf3ac",
+          "catalog_offers": [
+            {
+              "name": "Cotton Heritage Men's Premium Heavyweight Tee (Black)",
+              "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 16.85,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Cotton Heritage Men's Premium Heavyweight Tee (Charcoal Heather)",
+              "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg?selectedColor=Charcoal+Heather",
+              "priceCurrency": "USD",
+              "price": 16.85,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Cotton Heritage Men's Premium Heavyweight Tee (Brick Red)",
+              "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg?selectedColor=Brick+Red",
+              "priceCurrency": "USD",
+              "price": 16.85,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2566,7 +2845,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_573566ef15794bf3ac",
+            "name": "Cotton Heritage Men's Premium Heavyweight Tee",
+            "offer_name": "Cotton Heritage Men's Premium Heavyweight Tee (Black)",
+            "catalog_base_floor_cents": 1685,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2114,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3959,
+              "2500": 5045,
+              "4000": 6674
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_573566ef15794bf3ac",
+            "name": "Cotton Heritage Men's Premium Heavyweight Tee",
+            "offer_name": "Cotton Heritage Men's Premium Heavyweight Tee (Charcoal Heather)",
+            "catalog_base_floor_cents": 1685,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2114,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3959,
+              "2500": 5045,
+              "4000": 6674
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_573566ef15794bf3ac",
+            "name": "Cotton Heritage Men's Premium Heavyweight Tee",
+            "offer_name": "Cotton Heritage Men's Premium Heavyweight Tee (Brick Red)",
+            "catalog_base_floor_cents": 1685,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2114,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3959,
+              "2500": 5045,
+              "4000": 6674
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -2581,40 +2943,107 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      },
-      "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "22b23c7afecb195fa7214a1874a148d814ec90ad9cf820d66eaa8c50bb5fed2d",
+      "public_product_data": [
+        {
+          "name": "Cotton Heritage Unisex Premium Hoodie",
+          "sku": "pro_Ve53HhSHT565G7Uw5H1_EA",
+          "catalog_offers": [
+            {
+              "name": "Cotton Heritage Unisex Premium Hoodie (Black)",
+              "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 27.29,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Cotton Heritage Unisex Premium Hoodie (Navy Blazer)",
+              "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx?selectedColor=Navy+Blazer",
+              "priceCurrency": "USD",
+              "price": 27.29,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Cotton Heritage Unisex Premium Hoodie (Charcoal Heather)",
+              "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx?selectedColor=Charcoal+Heather",
+              "priceCurrency": "USD",
+              "price": 27.29,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -2636,7 +3065,310 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_Ve53HhSHT565G7Uw5H1_EA",
+            "name": "Cotton Heritage Unisex Premium Hoodie",
+            "offer_name": "Cotton Heritage Unisex Premium Hoodie (Black)",
+            "catalog_base_floor_cents": 2729,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3558,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5527,
+              "2500": 6613,
+              "4000": 8242
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_Ve53HhSHT565G7Uw5H1_EA",
+            "name": "Cotton Heritage Unisex Premium Hoodie",
+            "offer_name": "Cotton Heritage Unisex Premium Hoodie (Navy Blazer)",
+            "catalog_base_floor_cents": 2729,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3558,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5527,
+              "2500": 6613,
+              "4000": 8242
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_Ve53HhSHT565G7Uw5H1_EA",
+            "name": "Cotton Heritage Unisex Premium Hoodie",
+            "offer_name": "Cotton Heritage Unisex Premium Hoodie (Charcoal Heather)",
+            "catalog_base_floor_cents": 2729,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3558,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5527,
+              "2500": 6613,
+              "4000": 8242
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "35e518e50c3a0635347fae7fe55bb1ef8877a43293cdf5160f54e11f5abee79d",
+      "public_product_data": [
+        {
+          "name": "Cotton Heritage Unisex Premium Hoodie",
+          "sku": "pro_380",
+          "catalog_offers": [
+            {
+              "name": "Cotton Heritage Unisex Premium Hoodie (Black)",
+              "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 27.29,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Cotton Heritage Unisex Premium Hoodie (Navy Blazer)",
+              "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg?selectedColor=Navy+Blazer",
+              "priceCurrency": "USD",
+              "price": 27.29,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Cotton Heritage Unisex Premium Hoodie (Charcoal Heather)",
+              "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg?selectedColor=Charcoal+Heather",
+              "priceCurrency": "USD",
+              "price": 27.29,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      },
+      "cost_screen": {
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_380",
+            "name": "Cotton Heritage Unisex Premium Hoodie",
+            "offer_name": "Cotton Heritage Unisex Premium Hoodie (Black)",
+            "catalog_base_floor_cents": 2729,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3558,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5527,
+              "2500": 6613,
+              "4000": 8242
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_380",
+            "name": "Cotton Heritage Unisex Premium Hoodie",
+            "offer_name": "Cotton Heritage Unisex Premium Hoodie (Navy Blazer)",
+            "catalog_base_floor_cents": 2729,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3558,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5527,
+              "2500": 6613,
+              "4000": 8242
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_380",
+            "name": "Cotton Heritage Unisex Premium Hoodie",
+            "offer_name": "Cotton Heritage Unisex Premium Hoodie (Charcoal Heather)",
+            "catalog_base_floor_cents": 2729,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3558,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5527,
+              "2500": 6613,
+              "4000": 8242
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -2650,6 +3382,26 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "d353f94dfaece4179902d5ae5a20c4874b34a8edca28645b475777fdea6db7ee",
+      "public_product_data": [
+        {
+          "name": "Custom Plushie",
+          "sku": "pro_QDz2n1iQRraZYS6P5YnN_Q",
+          "catalog_offers": [
+            {
+              "name": "Custom Plushie (White)",
+              "url": "https://products.fourthwall.com/custom-plushie?selectedColor=White",
+              "priceCurrency": "USD",
+              "price": 12.99,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -2686,6 +3438,48 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "bc07fb93db65e454f5ee44d9211a850a9d3ab557ea09bd92e6a085a38f39217a",
+      "public_product_data": [
+        {
+          "name": "Enhanced Matte Paper Poster",
+          "sku": "pro_15bc29bc8a324d449d",
+          "catalog_offers": [
+            {
+              "name": "Enhanced Matte Paper Poster (White)",
+              "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed?selectedColor=White",
+              "priceCurrency": "USD",
+              "price": 5.5,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 8,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.99,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2706,7 +3500,44 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_15bc29bc8a324d449d",
+            "name": "Enhanced Matte Paper Poster",
+            "offer_name": "Enhanced Matte Paper Poster (White)",
+            "catalog_base_floor_cents": 550,
+            "us_shipping_floor_cents": 499,
+            "landed_floor_cents": 1049,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 2803,
+              "2500": 3889,
+              "4000": 5517
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 8,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -2721,6 +3552,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "0dc135754c1d6f96e8a66f4f67085ab227ae7cead29bfc0bde1d9ee78e414ac1",
+      "public_product_data": [
+        {
+          "name": "Framed High-Quality Matte Poster",
+          "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+          "catalog_offers": [
+            {
+              "name": "Framed High-Quality Matte Poster (Black)",
+              "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 20.35,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Framed High-Quality Matte Poster (Red Oak)",
+              "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed?selectedColor=Red+Oak",
+              "priceCurrency": "USD",
+              "price": 20.35,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Framed High-Quality Matte Poster (White)",
+              "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed?selectedColor=White",
+              "priceCurrency": "USD",
+              "price": 20.35,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 9,
+                      "maxValue": 12,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 10.89,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2741,7 +3674,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+            "name": "Framed High-Quality Matte Poster",
+            "offer_name": "Framed High-Quality Matte Poster (Black)",
+            "catalog_base_floor_cents": 2035,
+            "us_shipping_floor_cents": 1089,
+            "landed_floor_cents": 3124,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5056,
+              "2500": 6142,
+              "4000": 7770
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 9,
+                "maxValue": 12,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+            "name": "Framed High-Quality Matte Poster",
+            "offer_name": "Framed High-Quality Matte Poster (Red Oak)",
+            "catalog_base_floor_cents": 2035,
+            "us_shipping_floor_cents": 1089,
+            "landed_floor_cents": 3124,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5056,
+              "2500": 6142,
+              "4000": 7770
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 9,
+                "maxValue": 12,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_kRSsoYjwSoyyTEmWko5o0A",
+            "name": "Framed High-Quality Matte Poster",
+            "offer_name": "Framed High-Quality Matte Poster (White)",
+            "catalog_base_floor_cents": 2035,
+            "us_shipping_floor_cents": 1089,
+            "landed_floor_cents": 3124,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5056,
+              "2500": 6142,
+              "4000": 7770
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 9,
+                "maxValue": 12,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -2756,6 +3772,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "6e55a1c0b477fa3d0b202f35397f6deebdfd681ffe956abe4f95064735b25f10",
       "public_product_data": [
         {
           "name": "Gildan Heavyweight T-Shirt",
@@ -2775,7 +3794,7 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
+                      "minValue": 8,
                       "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
@@ -2805,7 +3824,7 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
+                      "minValue": 8,
                       "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
@@ -2835,7 +3854,7 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
+                      "minValue": 8,
                       "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
@@ -2855,8 +3874,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "9f8e2641a6b51826ae9a17ba5c08c30f1e4f11f058eaa10b44c0d17fe81fcef4",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2893,7 +3910,7 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
+                "minValue": 8,
                 "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
@@ -2916,7 +3933,7 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
+                "minValue": 8,
                 "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
@@ -2939,7 +3956,7 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
+                "minValue": 8,
                 "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
@@ -2975,41 +3992,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Independent Trading Co. Pigment Dyed Hoodie",
-          "sku": "pro_gEgxEF1dS0W8OhK8hmgulw",
-          "catalog_offers": [
-            {
-              "name": "Independent Trading Co. Pigment Dyed Hoodie (Pigment Black)",
-              "url": "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2?selectedColor=Pigment+Black",
-              "priceCurrency": "USD",
-              "price": 45.45,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            },
-            {
-              "name": "Independent Trading Co. Pigment Dyed Hoodie (Pigment Alpine Green)",
-              "url": "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2?selectedColor=Pigment+Alpine+Green",
-              "priceCurrency": "USD",
-              "price": 45.45,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            },
-            {
-              "name": "Independent Trading Co. Pigment Dyed Hoodie (Pigment Clay)",
-              "url": "https://products.fourthwall.com/independent-trading-co-pigment-dyed-hoodie-dtfx-2?selectedColor=Pigment+Clay",
-              "priceCurrency": "USD",
-              "price": 45.45,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "1c778454f3cd99c5a07d138b06390190aed7c5e58e1296586502dec2cba0e739",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3045,47 +4027,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Kiss Cut Stickers",
-          "sku": "pro_358",
-          "catalog_offers": [
-            {
-              "name": "Kiss Cut Stickers (White)",
-              "url": "https://products.fourthwall.com/kiss-cut-stickers-1?selectedColor=White",
-              "priceCurrency": "USD",
-              "price": 2.29,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 9,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.49,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "613a2da6ff41452b9e967f9d0182c2bc815087389cde9f8d17310d51c9272a3c",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3106,44 +4047,7 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "catalog_floor_only",
-        "offers": [
-          {
-            "sku": "pro_358",
-            "name": "Kiss Cut Stickers",
-            "offer_name": "Kiss Cut Stickers (White)",
-            "catalog_base_floor_cents": 229,
-            "us_shipping_floor_cents": 449,
-            "landed_floor_cents": 678,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 2400,
-              "2500": 3486,
-              "4000": 5115
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 6,
-                "maxValue": 9,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          }
-        ],
-        "assumptions": {
-          "us_card_rate": "0.029",
-          "fixed_fee_cents": 30,
-          "planning_reserve_rate": "0.05",
-          "ads_cents": 0
-        },
-        "limits": [
-          "Not an exact size, decoration or address quote",
-          "Required selling price has no validated conversion evidence",
-          "Taxes, fixed overhead and exceptional returns may change contribution"
-        ],
-        "eligible_for_checkout": false
+        "status": "missing_us_cost_or_shipping"
       }
     },
     {
@@ -3158,25 +4062,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Knitted Cardigan Without Pocket",
-          "sku": "pro_jxzU4X9-SpuG6MnU0DDPIg",
-          "catalog_offers": [
-            {
-              "name": "Knitted Cardigan Without Pocket (Knitted)",
-              "url": "https://products.fourthwall.com/knitted-cardigan-without-pocket?selectedColor=Knitted",
-              "priceCurrency": "USD",
-              "price": 42,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "afc7b4f4d440a6e14b5b63801a01143d9e63076243964ceb8cfeb052989ed484",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3212,25 +4097,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Knitted Unisex Hoodie",
-          "sku": "pro_TiriSbcfRG6eFQcXiCTmkg",
-          "catalog_offers": [
-            {
-              "name": "Knitted Unisex Hoodie (Knitted)",
-              "url": "https://products.fourthwall.com/knitted-unisex-hoodie?selectedColor=Knitted",
-              "priceCurrency": "USD",
-              "price": 41,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "517e9af84580869bd3d17d3e6fce7c06360d43cc9b58e8dc4e130aabaaf23c5d",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3266,25 +4132,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Knitted Unisex Plus Size Crewneck Sweater",
-          "sku": "pro_GeIZVqi6TjivHzrizM1KKQ",
-          "catalog_offers": [
-            {
-              "name": "Knitted Unisex Plus Size Crewneck Sweater (Knitted)",
-              "url": "https://products.fourthwall.com/knitted-unisex-plus-size-crewneck-sweater?selectedColor=Knitted",
-              "priceCurrency": "USD",
-              "price": 44,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "833b587ea3841d04efca71fa07616c042de495bc10255955a17fc430ba959cec",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3320,25 +4167,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Knitted Unisex Quarter Zip Sweater",
-          "sku": "pro_9IEPqxSWRWm_pCsJTuFTbQ",
-          "catalog_offers": [
-            {
-              "name": "Knitted Unisex Quarter Zip Sweater (Knitted)",
-              "url": "https://products.fourthwall.com/knitted-unisex-quarter-zip-sweater?selectedColor=Knitted",
-              "priceCurrency": "USD",
-              "price": 42,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "9a3fd2842c610f1b8c393b1594eb0a3b996e6651fe7ed58eb5879063e0534fa2",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3374,25 +4202,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Knitted V-Neck Vest",
-          "sku": "pro_FZD2mAbLTLaGckQjmYi-6Q",
-          "catalog_offers": [
-            {
-              "name": "Knitted V-Neck Vest (Knitted)",
-              "url": "https://products.fourthwall.com/knitted-v-neck-vest?selectedColor=Knitted",
-              "priceCurrency": "USD",
-              "price": 34,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "dabe3670d2d5e806cbc3d6b28d42666d8aadb55d8006690248196db6bfe4a240",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7599,9 +8408,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "dc3a542915c292829a3eb1eb871d9320fce95b340897295a64f83ff7798de9bf",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, White (9 Slots)",
@@ -7618,6 +8424,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "dc3a542915c292829a3eb1eb871d9320fce95b340897295a64f83ff7798de9bf",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7653,9 +8461,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "4aead0d1d6e8c4f6f7b8209910be1e0488bf0dd2dd33c92547320132b181c672",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Black (5 Slots)",
@@ -7672,6 +8477,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "4aead0d1d6e8c4f6f7b8209910be1e0488bf0dd2dd33c92547320132b181c672",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7707,9 +8514,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "d001200aa1cba7f2bcdfaee623c2d452e1135e243dd4d31db8844e4dd4db44e1",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Gray (5 Slots)",
@@ -7726,6 +8530,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "d001200aa1cba7f2bcdfaee623c2d452e1135e243dd4d31db8844e4dd4db44e1",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7761,9 +8567,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "18ee3ccce36a5032ac3dd2ad7caf43a75ee73d6da40464d94412b48b696b1bb0",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Natural (5 Slots)",
@@ -7780,6 +8583,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "18ee3ccce36a5032ac3dd2ad7caf43a75ee73d6da40464d94412b48b696b1bb0",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7815,9 +8620,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "76123354f84248aaf3671b3a3df8b2ec54791883dd46defa664a1578d673d101",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, White (5 Slots)",
@@ -7834,6 +8636,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "76123354f84248aaf3671b3a3df8b2ec54791883dd46defa664a1578d673d101",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7869,9 +8673,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "2ec2c448c04a7e19d7ed03a9e669e64f69c1d33687c501be270d5ec6987b4e6b",
       "public_product_data": [
         {
           "name": "Cheese Board Set with Slate Plate",
@@ -7888,6 +8689,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "2ec2c448c04a7e19d7ed03a9e669e64f69c1d33687c501be270d5ec6987b4e6b",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7923,9 +8726,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "dece6aa8406c70c911e8f429cc27d73df594e24920c4339f4395bfe5329570e9",
       "public_product_data": [
         {
           "name": "Cheese Board with Slate Plate",
@@ -7942,6 +8742,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "dece6aa8406c70c911e8f429cc27d73df594e24920c4339f4395bfe5329570e9",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7977,9 +8779,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
-      "page_sha256": "6db51cec014952f81aae0aa22c14e7269bba63f3685d602b8587008937b79c46",
       "public_product_data": [
         {
           "name": "Cheese Board w/knives, 16.5\"x11\"",
@@ -7996,6 +8795,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "6db51cec014952f81aae0aa22c14e7269bba63f3685d602b8587008937b79c46",
+      "source_observed_at": "2026-11-10T07:25:26.603304+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8030,6 +8831,25 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "8a76d35064addb2f12013877455ca4664def3cf5b33cf86a19b98f0910292401",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Stand with 3 Slots, Natural",
+          "sku": "RCW-CBST-3-BMB",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/cutting-board-organizer?variant=40132522016976",
+              "priceCurrency": "USD",
+              "price": "16.97",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -8066,6 +8886,25 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "88ab61b42b1f990f60837cbdb52e92aaf6d98ed15794d415f3f50d16f8be7805",
+      "public_product_data": [
+        {
+          "name": "Expandable Silverware Organizer (8 Slots)",
+          "sku": "RCW-EXSW-ORG-8",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/expandable-silverware-utensil-organizer?variant=44476571582672",
+              "priceCurrency": "USD",
+              "price": "30.97",
+              "availability": "http://schema.org/OutOfStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8101,6 +8940,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "fee328fbfbd10c0e89cb53e8438da3aaeb539074a383a88e707dd2b79a16b045",
       "public_product_data": [
         {
           "name": "Cutting Board 3XL, 24\u201d x 18\u201d",
@@ -8117,8 +8959,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "7b4c3a8730ff6bdf88e7568824b8efe8e6cfa2fe4d582c3dc6484e7fbc229b11",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8154,6 +8994,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "16e8776b9d2403168ca4501db7f054d556354ba06e594e7d6133ceea01da7ea6",
       "public_product_data": [
         {
           "name": "Storage Box Set of 5, Natural",
@@ -8170,8 +9013,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "6e50112ecea590ef03ac00fc4ec1ff8f0cd4401585be0837b7becccf98d5b34f",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8207,6 +9048,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "bf499b061ce102309cfac3eac9291f49f7e6424af073a9dbf1950a0a942b6f79",
       "public_product_data": [
         {
           "name": "Cheese Board Set, Round",
@@ -8223,8 +9067,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "d905c1d1f5a24c1dd0c08cdf09959fba5ad7d39f86938fdb6e657b1ac2607278",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8260,6 +9102,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "9982d62cf05cd5bad0d4a225ce5e3d1fac3902a33c78aab138bff58abb976d89",
       "public_product_data": [
         {
           "name": "Cheese Board, Round",
@@ -8276,8 +9121,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "5e1c195f8b86c0221775eb66af990bf54db505b44f650e90d7f326b203efcaab",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8313,6 +9156,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "9d2789369273c078a9b391a816e268e01dbd9d68e30b9b4cd1d4c23036a6fd60",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, Natural",
@@ -8329,8 +9175,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "00eee62cc88e5e02a584f7e33dc0a82889cebb67da52e8bc107ef4a54ae4d475",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8366,6 +9210,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-10T19:48:01.952203+00:00",
+      "page_sha256": "c44a38a9731a45f719854cbb327319e63743e31b85814e6afc11bef268a2bc48",
       "public_product_data": [
         {
           "name": "Storage Box Set of 5, Brown",
@@ -8382,8 +9229,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "b53cc9dca33d428ca5f8acedbc1fbe9c6636e73b820d396409e52a3457b43be9",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8419,24 +9264,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Cheese Board Set with Side Trays",
-          "sku": "RCW-CHBXXL-ST",
-          "catalog_offers": [
-            {
-              "url": "https://royalcraftwood.com/products/wood-charcuterie-board?variant=40486477136080",
-              "priceCurrency": "USD",
-              "price": "55.99",
-              "availability": "http://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
-      ],
-      "page_sha256": "b9803fc63800a15fcf35375094e295878d530fe4222b2831e74281f568827e20",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8472,24 +9299,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Cutting Board Set of 2, Bamboo",
-          "sku": "RCW-CUTBO-SET-2",
-          "catalog_offers": [
-            {
-              "url": "https://royalcraftwood.com/products/wood-cutting-board-set-of-2?variant=40376391598288",
-              "priceCurrency": "USD",
-              "price": "29.97",
-              "availability": "http://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
-      ],
-      "page_sha256": "8d1c3034c996fa6f8a6a8a4a6d099cf0df5ef926b19df7bdc0ef67209ce21ac6",
-      "source_observed_at": "2026-11-08T13:31:32.503084+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8622,9 +9431,9 @@
   ],
   "quote_priorities": [
     {
-      "url": "https://products.fourthwall.com/kiss-cut-stickers-1",
-      "required_buyer_payment_for_25_contribution_floor_cents": 3486,
-      "observed_at": "2026-11-08T13:31:32.503084+00:00"
+      "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed",
+      "required_buyer_payment_for_25_contribution_floor_cents": 3889,
+      "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
       "url": "https://products.fourthwall.com/white-glossy-mug-sublimation",
@@ -8634,7 +9443,7 @@
     {
       "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
       "required_buyer_payment_for_25_contribution_floor_cents": 4247,
-      "observed_at": "2026-11-08T13:31:32.503084+00:00"
+      "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
       "url": "https://products.fourthwall.com/black-glossy-mug",
@@ -8672,6 +9481,11 @@
       "observed_at": "2026-11-08T22:11:38.136178+00:00"
     },
     {
+      "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4893,
+      "observed_at": "2026-11-10T19:48:01.952203+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/yupoong-classic-dad-hat",
       "required_buyer_payment_for_25_contribution_floor_cents": 4958,
       "observed_at": "2026-11-09T06:43:15.625211+00:00"
@@ -8680,6 +9494,11 @@
       "url": "https://products.fourthwall.com/canvas-in-printed",
       "required_buyer_payment_for_25_contribution_floor_cents": 4977,
       "observed_at": "2026-11-10T07:25:26.603304+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 5045,
+      "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
       "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery",
@@ -8707,9 +9526,24 @@
       "observed_at": "2026-11-10T07:25:26.603304+00:00"
     },
     {
+      "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed",
+      "required_buyer_payment_for_25_contribution_floor_cents": 6142,
+      "observed_at": "2026-11-10T19:48:01.952203+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/all-over-print-mens-leggings",
       "required_buyer_payment_for_25_contribution_floor_cents": 6576,
       "observed_at": "2026-11-09T22:26:38.058068+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx",
+      "required_buyer_payment_for_25_contribution_floor_cents": 6613,
+      "observed_at": "2026-11-10T19:48:01.952203+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 6613,
+      "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg",
