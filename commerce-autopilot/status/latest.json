@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-11T19:39:30.287621+00:00",
-  "run_id": "43089220068",
+  "observed_at": "2026-11-12T07:18:27.220852+00:00",
+  "run_id": "43174276920",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "a30b2233aa5242a342f690584e5a56261b720aef7c151db76446c2c44baac2ad",
+      "sha256": "1e57a73bfd7ec170abc4c70f0077ea5a2c0aa6f999a795ca68cfc73eb55cf3be",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "a745f0d1cdba6fa985b301d0952270d10215975e87a7cbe34974a1af744aec8c",
+      "sha256": "28eea2c9b5e78b2d06e225e4770710a60afdcfe8e1b92145631df8c0d87a92dd",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "d30ea56446744262ea45bf45369e93af21508661ade08c3ce2f0ed93b5cf370a",
+      "sha256": "416807ef8658181200867658dcfdcd0ce23d220f3ffabb61e922ceedf5f15341",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -149,53 +149,53 @@
       ]
     }
   ],
-  "scan_cursor": 180,
+  "scan_cursor": 188,
   "market_attention_queries": [
     {
-      "query": "adults season 3",
-      "published": "Wed, 11 Nov 2026 11:20:00 -0800"
+      "query": "gta 6 ultimate edition",
+      "published": "Wed, 11 Nov 2026 23:00:00 -0800"
     },
     {
-      "query": "pep guardiola",
-      "published": "Wed, 11 Nov 2026 11:10:00 -0800"
+      "query": "aspyn ovard 10 year secret",
+      "published": "Wed, 11 Nov 2026 23:00:00 -0800"
     },
     {
-      "query": "uc davis basketball",
-      "published": "Wed, 11 Nov 2026 11:10:00 -0800"
+      "query": "hltv",
+      "published": "Wed, 11 Nov 2026 22:50:00 -0800"
     },
     {
-      "query": "michael jackson estate value $2 billion",
-      "published": "Wed, 11 Nov 2026 11:00:00 -0800"
+      "query": "slomw oc",
+      "published": "Wed, 11 Nov 2026 22:50:00 -0800"
     },
     {
-      "query": "confession movie",
-      "published": "Wed, 11 Nov 2026 10:50:00 -0800"
+      "query": "france vs italy",
+      "published": "Wed, 11 Nov 2026 22:40:00 -0800"
     },
     {
-      "query": "dartmouth basketball",
-      "published": "Wed, 11 Nov 2026 10:50:00 -0800"
+      "query": "dustin hoffman",
+      "published": "Wed, 11 Nov 2026 22:40:00 -0800"
     },
     {
-      "query": "lauri markkanen",
-      "published": "Wed, 11 Nov 2026 10:30:00 -0800"
+      "query": "measles outbreak pennsylvania",
+      "published": "Wed, 11 Nov 2026 22:30:00 -0800"
     },
     {
-      "query": "nfl football trade deadline",
-      "published": "Wed, 11 Nov 2026 10:10:00 -0800"
+      "query": "winter storm watch",
+      "published": "Wed, 11 Nov 2026 22:20:00 -0800"
     },
     {
-      "query": "los angeles lakers bronny james",
-      "published": "Wed, 11 Nov 2026 10:00:00 -0800"
+      "query": "aspyn ovard kids",
+      "published": "Wed, 11 Nov 2026 22:20:00 -0800"
     },
     {
-      "query": "landfill",
-      "published": "Wed, 11 Nov 2026 09:40:00 -0800"
+      "query": "james acaster",
+      "published": "Wed, 11 Nov 2026 22:10:00 -0800"
     }
   ],
   "market_references": [
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-      "observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "observed_at": "2026-11-12T07:18:27.220852+00:00",
       "page_status": "fetched",
       "products": [
         {
@@ -240,47 +240,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "All-Over Print Basic Pillow Case",
-          "sku": "pro_1f46aeeb877742278c",
-          "catalog_offers": [
-            {
-              "name": "All-Over Print Basic Pillow Case (All-Over Print)",
-              "url": "https://products.fourthwall.com/all-over-print-basic-pillow-case?selectedColor=All-Over+Print",
-              "priceCurrency": "USD",
-              "price": 13.21,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 11,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "9140bb60ae5375bcc5fa4ed0a2b5fc36bd5c713ae60d148496b03daaee1eafe3",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -301,44 +260,7 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "catalog_floor_only",
-        "offers": [
-          {
-            "sku": "pro_1f46aeeb877742278c",
-            "name": "All-Over Print Basic Pillow Case",
-            "offer_name": "All-Over Print Basic Pillow Case (All-Over Print)",
-            "catalog_base_floor_cents": 1321,
-            "us_shipping_floor_cents": 469,
-            "landed_floor_cents": 1790,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 3607,
-              "2500": 4693,
-              "4000": 6322
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 9,
-                "maxValue": 11,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          }
-        ],
-        "assumptions": {
-          "us_card_rate": "0.029",
-          "fixed_fee_cents": 30,
-          "planning_reserve_rate": "0.05",
-          "ads_cents": 0
-        },
-        "limits": [
-          "Not an exact size, decoration or address quote",
-          "Required selling price has no validated conversion evidence",
-          "Taxes, fixed overhead and exceptional returns may change contribution"
-        ],
-        "eligible_for_checkout": false
+        "status": "missing_us_cost_or_shipping"
       }
     },
     {
@@ -353,47 +275,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "All-Over Print Men's Leggings",
-          "sku": "pro_0b3ff6cb56e44d3d83",
-          "catalog_offers": [
-            {
-              "name": "All-Over Print Men's Leggings (All-Over Print)",
-              "url": "https://products.fourthwall.com/all-over-print-mens-leggings?selectedColor=All-Over+Print",
-              "priceCurrency": "USD",
-              "price": 30.55,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 11,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "81333219596d7c04f95e41aa629fa8031742f12d2196102f136144d5c4c4a5e1",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -414,44 +295,7 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "catalog_floor_only",
-        "offers": [
-          {
-            "sku": "pro_0b3ff6cb56e44d3d83",
-            "name": "All-Over Print Men's Leggings",
-            "offer_name": "All-Over Print Men's Leggings (All-Over Print)",
-            "catalog_base_floor_cents": 3055,
-            "us_shipping_floor_cents": 469,
-            "landed_floor_cents": 3524,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 5490,
-              "2500": 6576,
-              "4000": 8205
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 9,
-                "maxValue": 11,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          }
-        ],
-        "assumptions": {
-          "us_card_rate": "0.029",
-          "fixed_fee_cents": 30,
-          "planning_reserve_rate": "0.05",
-          "ads_cents": 0
-        },
-        "limits": [
-          "Not an exact size, decoration or address quote",
-          "Required selling price has no validated conversion evidence",
-          "Taxes, fixed overhead and exceptional returns may change contribution"
-        ],
-        "eligible_for_checkout": false
+        "status": "missing_us_cost_or_shipping"
       }
     },
     {
@@ -466,47 +310,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "All-Over Print Premium Pillow Case",
-          "sku": "pro_31837649f7494d55a5",
-          "catalog_offers": [
-            {
-              "name": "All-Over Print Premium Pillow Case (All-Over Print)",
-              "url": "https://products.fourthwall.com/all-over-print-premium-pillow-case?selectedColor=All-Over+Print",
-              "priceCurrency": "USD",
-              "price": 13.57,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 11,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "4b705dd388939a223f63741d87d6c6c128f1ef6272e186f8c7be5dfe4db99b19",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -527,44 +330,7 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "catalog_floor_only",
-        "offers": [
-          {
-            "sku": "pro_31837649f7494d55a5",
-            "name": "All-Over Print Premium Pillow Case",
-            "offer_name": "All-Over Print Premium Pillow Case (All-Over Print)",
-            "catalog_base_floor_cents": 1357,
-            "us_shipping_floor_cents": 469,
-            "landed_floor_cents": 1826,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 3647,
-              "2500": 4732,
-              "4000": 6361
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 9,
-                "maxValue": 11,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          }
-        ],
-        "assumptions": {
-          "us_card_rate": "0.029",
-          "fixed_fee_cents": 30,
-          "planning_reserve_rate": "0.05",
-          "ads_cents": 0
-        },
-        "limits": [
-          "Not an exact size, decoration or address quote",
-          "Required selling price has no validated conversion evidence",
-          "Taxes, fixed overhead and exceptional returns may change contribution"
-        ],
-        "eligible_for_checkout": false
+        "status": "missing_us_cost_or_shipping"
       }
     },
     {
@@ -579,47 +345,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "All-Over Print Skater Dress",
-          "sku": "pro_386c05f635934cc893",
-          "catalog_offers": [
-            {
-              "name": "All-Over Print Skater Dress (All-Over Print)",
-              "url": "https://products.fourthwall.com/all-over-print-skater-dress?selectedColor=All-Over+Print",
-              "priceCurrency": "USD",
-              "price": 35.5,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 9,
-                      "maxValue": 11,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "cb540ce65cfc355929b08375b54bc030658198cb773815d5616881859ae12118",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -640,44 +365,7 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "catalog_floor_only",
-        "offers": [
-          {
-            "sku": "pro_386c05f635934cc893",
-            "name": "All-Over Print Skater Dress",
-            "offer_name": "All-Over Print Skater Dress (All-Over Print)",
-            "catalog_base_floor_cents": 3550,
-            "us_shipping_floor_cents": 469,
-            "landed_floor_cents": 4019,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 6028,
-              "2500": 7113,
-              "4000": 8742
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 9,
-                "maxValue": 11,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          }
-        ],
-        "assumptions": {
-          "us_card_rate": "0.029",
-          "fixed_fee_cents": 30,
-          "planning_reserve_rate": "0.05",
-          "ads_cents": 0
-        },
-        "limits": [
-          "Not an exact size, decoration or address quote",
-          "Required selling price has no validated conversion evidence",
-          "Taxes, fixed overhead and exceptional returns may change contribution"
-        ],
-        "eligible_for_checkout": false
+        "status": "missing_us_cost_or_shipping"
       }
     },
     {
@@ -692,47 +380,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "All-Over Print Unisex Cotton Hoodie",
-          "sku": "pro_2rm7OCxJTSmpw8keIxABOg",
-          "catalog_offers": [
-            {
-              "name": "All-Over Print Unisex Cotton Hoodie (All-Over Print)",
-              "url": "https://products.fourthwall.com/all-over-print-unisex-cotton-hoodie-sublimation?selectedColor=All-Over+Print",
-              "priceCurrency": "USD",
-              "price": 45.49,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 10,
-                      "maxValue": 13,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 8.29,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "dadcdd30a99b4647ce66631aa12a82f725cf6484c7971b5aa6e3fc2215430b6b",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -753,44 +400,7 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "catalog_floor_only",
-        "offers": [
-          {
-            "sku": "pro_2rm7OCxJTSmpw8keIxABOg",
-            "name": "All-Over Print Unisex Cotton Hoodie",
-            "offer_name": "All-Over Print Unisex Cotton Hoodie (All-Over Print)",
-            "catalog_base_floor_cents": 4549,
-            "us_shipping_floor_cents": 829,
-            "landed_floor_cents": 5378,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 7503,
-              "2500": 8589,
-              "4000": 10218
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 10,
-                "maxValue": 13,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          }
-        ],
-        "assumptions": {
-          "us_card_rate": "0.029",
-          "fixed_fee_cents": 30,
-          "planning_reserve_rate": "0.05",
-          "ads_cents": 0
-        },
-        "limits": [
-          "Not an exact size, decoration or address quote",
-          "Required selling price has no validated conversion evidence",
-          "Taxes, fixed overhead and exceptional returns may change contribution"
-        ],
-        "eligible_for_checkout": false
+        "status": "missing_us_cost_or_shipping"
       }
     },
     {
@@ -805,41 +415,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "AS Colour Box Minus Hood",
-          "sku": "pro_8wqYK-NTSH2lZQQ1PuDODQ",
-          "catalog_offers": [
-            {
-              "name": "AS Colour Box Minus Hood (Black)",
-              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Black",
-              "priceCurrency": "USD",
-              "price": 39.95,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            },
-            {
-              "name": "AS Colour Box Minus Hood (Ink Blue)",
-              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Ink+Blue",
-              "priceCurrency": "USD",
-              "price": 39.95,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            },
-            {
-              "name": "AS Colour Box Minus Hood (Shadow)",
-              "url": "https://products.fourthwall.com/as-colour-box-minus-hood-dtfx?selectedColor=Shadow",
-              "priceCurrency": "USD",
-              "price": 39.95,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "380cc0c22e1c3d4417f99c1633a5f9d38dca438f2313bb57faf0127698beaec1",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -875,107 +450,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "AS Colour Fisherman Beanie",
-          "sku": "pro_tLnrYVZ6T0mDGcUGFqe7Pg",
-          "catalog_offers": [
-            {
-              "name": "AS Colour Fisherman Beanie (Black)",
-              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Black",
-              "priceCurrency": "USD",
-              "price": 16.51,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            },
-            {
-              "name": "AS Colour Fisherman Beanie (Walnut)",
-              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Walnut",
-              "priceCurrency": "USD",
-              "price": 16.51,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            },
-            {
-              "name": "AS Colour Fisherman Beanie (Petrol Blue)",
-              "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery?selectedColor=Petrol+Blue",
-              "priceCurrency": "USD",
-              "price": 16.51,
-              "availability": "https://schema.org/InStock",
-              "shippingDetails": [
-                {
-                  "shippingDestination": {
-                    "addressCountry": "US",
-                    "@type": "DefinedRegion"
-                  },
-                  "deliveryTime": {
-                    "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
-                      "unitCode": "d",
-                      "@type": "QuantitativeValue"
-                    },
-                    "@type": "ShippingDeliveryTime"
-                  },
-                  "shippingRate": {
-                    "value": 4.69,
-                    "currency": "USD",
-                    "@type": "MonetaryAmount"
-                  },
-                  "@type": "OfferShippingDetails"
-                }
-              ]
-            }
-          ],
-          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
-        }
-      ],
-      "page_sha256": "8889ea47853df341ced9a55e657b8ab68a5ce68ad8561faf825eb2f30ce990ea",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -996,90 +470,7 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "catalog_floor_only",
-        "offers": [
-          {
-            "sku": "pro_tLnrYVZ6T0mDGcUGFqe7Pg",
-            "name": "AS Colour Fisherman Beanie",
-            "offer_name": "AS Colour Fisherman Beanie (Black)",
-            "catalog_base_floor_cents": 1651,
-            "us_shipping_floor_cents": 469,
-            "landed_floor_cents": 2120,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 3966,
-              "2500": 5052,
-              "4000": 6680
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          },
-          {
-            "sku": "pro_tLnrYVZ6T0mDGcUGFqe7Pg",
-            "name": "AS Colour Fisherman Beanie",
-            "offer_name": "AS Colour Fisherman Beanie (Walnut)",
-            "catalog_base_floor_cents": 1651,
-            "us_shipping_floor_cents": 469,
-            "landed_floor_cents": 2120,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 3966,
-              "2500": 5052,
-              "4000": 6680
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          },
-          {
-            "sku": "pro_tLnrYVZ6T0mDGcUGFqe7Pg",
-            "name": "AS Colour Fisherman Beanie",
-            "offer_name": "AS Colour Fisherman Beanie (Petrol Blue)",
-            "catalog_base_floor_cents": 1651,
-            "us_shipping_floor_cents": 469,
-            "landed_floor_cents": 2120,
-            "required_buyer_payment_for_contribution_cents": {
-              "1500": 3966,
-              "2500": 5052,
-              "4000": 6680
-            },
-            "transit_time": {
-              "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
-                "unitCode": "d",
-                "@type": "QuantitativeValue"
-              },
-              "@type": "ShippingDeliveryTime"
-            },
-            "availability": "https://schema.org/InStock"
-          }
-        ],
-        "assumptions": {
-          "us_card_rate": "0.029",
-          "fixed_fee_cents": 30,
-          "planning_reserve_rate": "0.05",
-          "ads_cents": 0
-        },
-        "limits": [
-          "Not an exact size, decoration or address quote",
-          "Required selling price has no validated conversion evidence",
-          "Taxes, fixed overhead and exceptional returns may change contribution"
-        ],
-        "eligible_for_checkout": false
+        "status": "missing_us_cost_or_shipping"
       }
     },
     {
@@ -2143,7 +1534,7 @@
       "market_price_comparison": {
         "status": "posted_price_comparison_only",
         "reference_url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-        "observed_at": "2026-11-11T19:39:30.287621+00:00",
+        "observed_at": "2026-11-12T07:18:27.220852+00:00",
         "reference_minimum_price_cents": 1400,
         "contribution_ceiling_if_buyer_pays_shipping_cents": 364,
         "contribution_ceiling_if_seller_pays_shipping_cents": -305,
@@ -4507,9 +3898,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "f57954cd3433cbad500e8852924fb4c98a35306dbd012cb370c950b6d218bbab",
       "public_product_data": [
         {
           "name": "Matte Paper Framed Poster With Mat",
@@ -4609,6 +3997,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "f57954cd3433cbad500e8852924fb4c98a35306dbd012cb370c950b6d218bbab",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4727,9 +4117,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "dda92e5f3311d940bab78961d858cfd3695928d987a200fa83b621a4e55a63ae",
       "public_product_data": [
         {
           "name": "Otto Vintage Wash Dad Hat",
@@ -4829,6 +4216,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "dda92e5f3311d940bab78961d858cfd3695928d987a200fa83b621a4e55a63ae",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4947,9 +4336,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "9953c02af1b1d94ba16a14bddbc6b19841334b6d58fbfb09f5317d5f162e20d1",
       "public_product_data": [
         {
           "name": "Pinnacle Vacuum Insulated Travel Tumbler With Straw",
@@ -4983,6 +4369,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "9953c02af1b1d94ba16a14bddbc6b19841334b6d58fbfb09f5317d5f162e20d1",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -5018,9 +4406,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "9a5015c4a3fc91f1f33aa22e9bcb5f89e82cd89db7b253c4927f9a17b3b1a5da",
       "public_product_data": [
         {
           "name": "Richardson Trucker Hat",
@@ -5120,6 +4505,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "9a5015c4a3fc91f1f33aa22e9bcb5f89e82cd89db7b253c4927f9a17b3b1a5da",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -5238,9 +4625,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "6867713333a51d5439e131ac2f8ac6c000609d30933e4b21e932449aa4e3b609",
       "public_product_data": [
         {
           "name": "Stanley/Stella Organic Cotton T-Shirt",
@@ -5340,6 +4724,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "6867713333a51d5439e131ac2f8ac6c000609d30933e4b21e932449aa4e3b609",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -5458,9 +4844,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "68a9364deedf2302e014d202bd7baaf3790709b8ac57ea42bc6b9a301bcc7a56",
       "public_product_data": [
         {
           "name": "Stanley/Stella Unisex Eco Sweatshirt",
@@ -5560,6 +4943,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "68a9364deedf2302e014d202bd7baaf3790709b8ac57ea42bc6b9a301bcc7a56",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -5678,9 +5063,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "5c277f886fe56c4820cba9ca792bf0af559255b0040eed1336c47e5f20091ff0",
       "public_product_data": [
         {
           "name": "Stanley/Stella Unisex Garment-Dyed Chaser Vintage Hoodie",
@@ -5780,6 +5162,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "5c277f886fe56c4820cba9ca792bf0af559255b0040eed1336c47e5f20091ff0",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -5898,9 +5282,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "1bf898222362266136db699e7097f8cad6a21e7b7e04e28241e977251c4e6c76",
       "public_product_data": [
         {
           "name": "Stanley/Stella Unisex Organic Oversized Sweatshirt",
@@ -6000,6 +5381,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "1bf898222362266136db699e7097f8cad6a21e7b7e04e28241e977251c4e6c76",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6118,6 +5501,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "3f619ed8ee66db88cf4752e8e5b420ea26c810278a14d12ba385f541b8cc7c3b",
+      "public_product_data": [
+        {
+          "name": "Stanley/Stella Unisex Organic Side Pocket Hoodie",
+          "sku": "pro_MM5b96z_SmuzWjmL8hmSOw",
+          "catalog_offers": [
+            {
+              "name": "Stanley/Stella Unisex Organic Side Pocket Hoodie (Black)",
+              "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 39,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Stanley/Stella Unisex Organic Side Pocket Hoodie (French Navy)",
+              "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg?selectedColor=French+Navy",
+              "priceCurrency": "USD",
+              "price": 39,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Stanley/Stella Unisex Organic Side Pocket Hoodie (Heather Grey)",
+              "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg?selectedColor=Heather+Grey",
+              "priceCurrency": "USD",
+              "price": 39,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6138,7 +5623,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_MM5b96z_SmuzWjmL8hmSOw",
+            "name": "Stanley/Stella Unisex Organic Side Pocket Hoodie",
+            "offer_name": "Stanley/Stella Unisex Organic Side Pocket Hoodie (Black)",
+            "catalog_base_floor_cents": 3900,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4729,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6799,
+              "2500": 7884,
+              "4000": 9513
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_MM5b96z_SmuzWjmL8hmSOw",
+            "name": "Stanley/Stella Unisex Organic Side Pocket Hoodie",
+            "offer_name": "Stanley/Stella Unisex Organic Side Pocket Hoodie (French Navy)",
+            "catalog_base_floor_cents": 3900,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4729,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6799,
+              "2500": 7884,
+              "4000": 9513
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_MM5b96z_SmuzWjmL8hmSOw",
+            "name": "Stanley/Stella Unisex Organic Side Pocket Hoodie",
+            "offer_name": "Stanley/Stella Unisex Organic Side Pocket Hoodie (Heather Grey)",
+            "catalog_base_floor_cents": 3900,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4729,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6799,
+              "2500": 7884,
+              "4000": 9513
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -6153,40 +5721,107 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      },
-      "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "aadaa4413561bda657922239ab7d3a881c752d1510cc8ba624be48381c5ec228",
+      "public_product_data": [
+        {
+          "name": "Stanley/Stella Unisex Organic Sweatshirt",
+          "sku": "pro_dfj8YGtrTWKCUTkb6YUbLg",
+          "catalog_offers": [
+            {
+              "name": "Stanley/Stella Unisex Organic Sweatshirt (Black)",
+              "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 29.82,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Stanley/Stella Unisex Organic Sweatshirt (French Navy)",
+              "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg?selectedColor=French+Navy",
+              "priceCurrency": "USD",
+              "price": 29.82,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Stanley/Stella Unisex Organic Sweatshirt (Desert Dust)",
+              "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg?selectedColor=Desert+Dust",
+              "priceCurrency": "USD",
+              "price": 29.82,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -6208,7 +5843,310 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_dfj8YGtrTWKCUTkb6YUbLg",
+            "name": "Stanley/Stella Unisex Organic Sweatshirt",
+            "offer_name": "Stanley/Stella Unisex Organic Sweatshirt (Black)",
+            "catalog_base_floor_cents": 2982,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3811,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5802,
+              "2500": 6888,
+              "4000": 8516
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_dfj8YGtrTWKCUTkb6YUbLg",
+            "name": "Stanley/Stella Unisex Organic Sweatshirt",
+            "offer_name": "Stanley/Stella Unisex Organic Sweatshirt (French Navy)",
+            "catalog_base_floor_cents": 2982,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3811,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5802,
+              "2500": 6888,
+              "4000": 8516
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_dfj8YGtrTWKCUTkb6YUbLg",
+            "name": "Stanley/Stella Unisex Organic Sweatshirt",
+            "offer_name": "Stanley/Stella Unisex Organic Sweatshirt (Desert Dust)",
+            "catalog_base_floor_cents": 2982,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 3811,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 5802,
+              "2500": 6888,
+              "4000": 8516
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "047ecd580f71ce236a379ca9df01fa40ddbc6c4a522b8c810c701ca7d96b9517",
+      "public_product_data": [
+        {
+          "name": "Stanley/Stella Unisex Essential Eco Hoodie",
+          "sku": "pro_ace97e7bf0c64e98ba",
+          "catalog_offers": [
+            {
+              "name": "Stanley/Stella Unisex Essential Eco Hoodie (Black)",
+              "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 33.2,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Stanley/Stella Unisex Essential Eco Hoodie (French Navy)",
+              "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie?selectedColor=French+Navy",
+              "priceCurrency": "USD",
+              "price": 33.2,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Stanley/Stella Unisex Essential Eco Hoodie (Desert Dust)",
+              "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie?selectedColor=Desert+Dust",
+              "priceCurrency": "USD",
+              "price": 33.2,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 11,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      },
+      "cost_screen": {
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_ace97e7bf0c64e98ba",
+            "name": "Stanley/Stella Unisex Essential Eco Hoodie",
+            "offer_name": "Stanley/Stella Unisex Essential Eco Hoodie (Black)",
+            "catalog_base_floor_cents": 3320,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4149,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6169,
+              "2500": 7255,
+              "4000": 8883
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_ace97e7bf0c64e98ba",
+            "name": "Stanley/Stella Unisex Essential Eco Hoodie",
+            "offer_name": "Stanley/Stella Unisex Essential Eco Hoodie (French Navy)",
+            "catalog_base_floor_cents": 3320,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4149,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6169,
+              "2500": 7255,
+              "4000": 8883
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_ace97e7bf0c64e98ba",
+            "name": "Stanley/Stella Unisex Essential Eco Hoodie",
+            "offer_name": "Stanley/Stella Unisex Essential Eco Hoodie (Desert Dust)",
+            "catalog_base_floor_cents": 3320,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4149,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6169,
+              "2500": 7255,
+              "4000": 8883
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 11,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -6222,6 +6160,26 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "07ed8f7349cdae6a1ad57193be7aa23b7c971ffdd274561152eb4a19bd385025",
+      "public_product_data": [
+        {
+          "name": "Thin Canvas (in)",
+          "sku": "pro__bw1lug-S9qtAWjykD6lmQ",
+          "catalog_offers": [
+            {
+              "name": "Thin Canvas (in) (All-Over Print)",
+              "url": "https://products.fourthwall.com/thin-canvas-in-printed?selectedColor=All-Over+Print",
+              "priceCurrency": "USD",
+              "price": 14.54,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -6258,6 +6216,42 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "a2f820a90d6c3628acc3bb9ff3e88e9a0da101ca8f53ae14a441ab605b5cb434",
+      "public_product_data": [
+        {
+          "name": "Thor Copper Vacuum Insulated Bottle 22oz",
+          "sku": "pro_6ZGxApdMR9qmkO-yiIowNQ",
+          "catalog_offers": [
+            {
+              "name": "Thor Copper Vacuum Insulated Bottle 22oz (Black)",
+              "url": "https://products.fourthwall.com/thor-copper-vacuum-insulated-bottle-22oz-uv-1?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 22.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": []
+            },
+            {
+              "name": "Thor Copper Vacuum Insulated Bottle 22oz (Navy)",
+              "url": "https://products.fourthwall.com/thor-copper-vacuum-insulated-bottle-22oz-uv-1?selectedColor=Navy",
+              "priceCurrency": "USD",
+              "price": 22.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": []
+            },
+            {
+              "name": "Thor Copper Vacuum Insulated Bottle 22oz (Red)",
+              "url": "https://products.fourthwall.com/thor-copper-vacuum-insulated-bottle-22oz-uv-1?selectedColor=Red",
+              "priceCurrency": "USD",
+              "price": 22.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6293,6 +6287,48 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "1f23af6db412436f8c2f232c822cb4ec6ddfd7e3975a7fc7855096c329d53a47",
+      "public_product_data": [
+        {
+          "name": "White Glossy Mug",
+          "sku": "pro_4v5OfYhyRx62KW5b7Oj6Uw",
+          "catalog_offers": [
+            {
+              "name": "White Glossy Mug (White)",
+              "url": "https://products.fourthwall.com/white-glossy-mug-sublimation?selectedColor=White",
+              "priceCurrency": "USD",
+              "price": 5.95,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6313,7 +6349,44 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_4v5OfYhyRx62KW5b7Oj6Uw",
+            "name": "White Glossy Mug",
+            "offer_name": "White Glossy Mug (White)",
+            "catalog_base_floor_cents": 595,
+            "us_shipping_floor_cents": 669,
+            "landed_floor_cents": 1264,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3036,
+              "2500": 4122,
+              "4000": 5751
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -6328,6 +6401,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "5f9b55c7ae03099951589c2de22364f1b4899ad9d7f98835bf5f1c78f59da08a",
+      "public_product_data": [
+        {
+          "name": "Yupoong Classic Dad Hat",
+          "sku": "pro_9qrmiEUEQ9-fq-zYZOr4ww",
+          "catalog_offers": [
+            {
+              "name": "Yupoong Classic Dad Hat (Black)",
+              "url": "https://products.fourthwall.com/yupoong-classic-dad-hat?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 15.65,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Yupoong Classic Dad Hat (Navy)",
+              "url": "https://products.fourthwall.com/yupoong-classic-dad-hat?selectedColor=Navy",
+              "priceCurrency": "USD",
+              "price": 15.65,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Yupoong Classic Dad Hat (Dark Grey)",
+              "url": "https://products.fourthwall.com/yupoong-classic-dad-hat?selectedColor=Dark+Grey",
+              "priceCurrency": "USD",
+              "price": 15.65,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6348,7 +6523,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_9qrmiEUEQ9-fq-zYZOr4ww",
+            "name": "Yupoong Classic Dad Hat",
+            "offer_name": "Yupoong Classic Dad Hat (Black)",
+            "catalog_base_floor_cents": 1565,
+            "us_shipping_floor_cents": 469,
+            "landed_floor_cents": 2034,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3872,
+              "2500": 4958,
+              "4000": 6587
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_9qrmiEUEQ9-fq-zYZOr4ww",
+            "name": "Yupoong Classic Dad Hat",
+            "offer_name": "Yupoong Classic Dad Hat (Navy)",
+            "catalog_base_floor_cents": 1565,
+            "us_shipping_floor_cents": 469,
+            "landed_floor_cents": 2034,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3872,
+              "2500": 4958,
+              "4000": 6587
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_9qrmiEUEQ9-fq-zYZOr4ww",
+            "name": "Yupoong Classic Dad Hat",
+            "offer_name": "Yupoong Classic Dad Hat (Dark Grey)",
+            "catalog_base_floor_cents": 1565,
+            "us_shipping_floor_cents": 469,
+            "landed_floor_cents": 2034,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3872,
+              "2500": 4958,
+              "4000": 6587
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -6363,6 +6621,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "be3fb49301b8ab3488710cc5d484c25f7a8f4ff241e215327f6d3db203510944",
       "public_product_data": [
         {
           "name": "Yupoong Cuffed Beanie",
@@ -6382,8 +6643,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -6412,8 +6673,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -6442,8 +6703,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -6462,8 +6723,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "f94017200be7411b671664ee55dc9a4da86948468a7218c2cd6b09caad4b1c80",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6500,8 +6759,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -6523,8 +6782,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -6546,8 +6805,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -6794,9 +7053,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "801456875abf94deb0d78602f5a96e59430a1003b750ca8857ab19596cdea8c9",
       "public_product_data": [
         {
           "name": "Cutting Board M, 12\u201dx8\u201d",
@@ -6813,6 +7069,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "801456875abf94deb0d78602f5a96e59430a1003b750ca8857ab19596cdea8c9",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6848,9 +7106,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "d2cdba47e8f5f208f0f06c585195722489f592f6681b7bd6fc9d3efed5f35150",
       "public_product_data": [
         {
           "name": "Cutting Board Set of 3, Bamboo",
@@ -6867,6 +7122,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "d2cdba47e8f5f208f0f06c585195722489f592f6681b7bd6fc9d3efed5f35150",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6902,9 +7159,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "c8b75c0bc4eaafeaae53d4d1aa602e60d85fd8796995457d725f267ee24f0f0b",
       "public_product_data": [
         {
           "name": "Cutting Board Set of 4, Bamboo",
@@ -6921,6 +7175,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "c8b75c0bc4eaafeaae53d4d1aa602e60d85fd8796995457d725f267ee24f0f0b",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6956,9 +7212,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "5282f799f5db67cf6f91bc231a64f027837f48550784efd191dfe35e68c1f0c3",
       "public_product_data": [
         {
           "name": "Cutting Board Set of 5, Bamboo",
@@ -6975,6 +7228,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "5282f799f5db67cf6f91bc231a64f027837f48550784efd191dfe35e68c1f0c3",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7010,9 +7265,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "7977455aa22ddfc926b12b5ffe544e2bc076063765df50f13a6199638b0581a2",
       "public_product_data": [
         {
           "name": "Cutting Board with Compartments, 18\u201d x 12\u201d",
@@ -7029,6 +7281,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "7977455aa22ddfc926b12b5ffe544e2bc076063765df50f13a6199638b0581a2",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7064,9 +7318,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "81400b29fe7d6ae72484e6c6cb7233861c6eec80b99f96e71ace28709f3456a5",
       "public_product_data": [
         {
           "name": "Cutting Board XXL, 20\u201dx14\u201d",
@@ -7083,6 +7334,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "81400b29fe7d6ae72484e6c6cb7233861c6eec80b99f96e71ace28709f3456a5",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7118,9 +7371,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "ff7dcd21769cdf2c7371164564fba7a7bc1fef24610b240cc25692bb005bfb46",
       "public_product_data": [
         {
           "name": "Drawer Dividers 22\u201d, Black",
@@ -7137,6 +7387,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "ff7dcd21769cdf2c7371164564fba7a7bc1fef24610b240cc25692bb005bfb46",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7172,9 +7424,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
-      "page_sha256": "a7e26d6c9e872beb3739d3f47e5e878585c0f9431d5c8e3a08ecdefe42362d5e",
       "public_product_data": [
         {
           "name": "Drawer Dividers 22\u201d, Gray",
@@ -7191,6 +7440,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "a7e26d6c9e872beb3739d3f47e5e878585c0f9431d5c8e3a08ecdefe42362d5e",
+      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7225,6 +7476,25 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "6cf481eca9be4574ec8c1f225c29d893d2a54a31e3f2c644a21f46b84beb452d",
+      "public_product_data": [
+        {
+          "name": "Drawer Dividers 22\u201d, Natural",
+          "sku": "RCW-DVDRS2",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-natural?variant=39646303879376",
+              "priceCurrency": "USD",
+              "price": "26.99",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -7261,6 +7531,25 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "64aaecb19a0454ceb9a74bfa80faf8493c15ea86b0be75e165672b66ea755d8e",
+      "public_product_data": [
+        {
+          "name": "Drawer Dividers 22\u201d, White",
+          "sku": "RCW-DVDRS2-WHT",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/bamboo-drawer-dividers-22-white?variant=39646304239824",
+              "priceCurrency": "USD",
+              "price": "33.97",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7296,6 +7585,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "b2a8b45b324e5be74037a3e1901ca7dd295fc4c8e6b6e331384e39119fc335fa",
       "public_product_data": [
         {
           "name": "Storage Box Set of 8, Natural",
@@ -7312,8 +7604,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "238ecdf89c3317af0f7c1ae4f30bbb08ff38f73afd9bda1719cdc2888c8b33fd",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7349,6 +7639,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "5457e4c6a4379957dce076e6370bd60ea85abec76fe169521d03cbb8eb6dbe1f",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, Black",
@@ -7365,8 +7658,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "aa31f1fe8ee229cca41d2012ef1f199d234d35de39321c70e84fc4ee3c5438e3",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7402,6 +7693,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "2d766235c5abe99915a6e9e06049bd85fb9704d3a6e3eeb6dceb326bd64b15c0",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, Gray",
@@ -7418,8 +7712,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "f11a041385fdeaab8befb878a4f3a82cf9048289ed54ca5995b76912011673e2",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7455,6 +7747,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "2cdc6c2cdfff25bd16143d82d60c18fc4d05737aa44672e85aa0aeda1395cf11",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, White",
@@ -7471,8 +7766,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "78b36a3b7f716d0a335aa1fea122b9df94cc1e4e88bb6b20264773207c3e9035",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7508,6 +7801,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "b490749f45c8ea11fa133745841d86fa0dce999a1caf507eea84888c2c71e0b7",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, Black (9 Slots)",
@@ -7524,8 +7820,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "830b3768b770d8944435f9101bcd96559ffe952683bc92139386db7bc082930d",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7561,6 +7855,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-12T07:18:27.220852+00:00",
+      "page_sha256": "96da0d16a6e9ed7f7fb618238da2bd16ac7615639be0d0982b6912472e69eeb2",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, Brown Bamboo (9 Slots)",
@@ -7577,8 +7874,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "6998715d87f1cab01ad1724cf5f3994ea8e4ae6b66ccf2d435355bec24e9d98b",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7614,24 +7909,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Silverware Drawer Organizer, Gray (9 Slots)",
-          "sku": "RCWKITDRAW-GR",
-          "catalog_offers": [
-            {
-              "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-gray?variant=39646301290704",
-              "priceCurrency": "USD",
-              "price": "44.97",
-              "availability": "http://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
-      ],
-      "page_sha256": "e9dae4bdf63db994c4d98b204d31cc1ccb5e41aa4323c0b2082c8496cc5a43cc",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7667,24 +7944,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "public_product_data": [
-        {
-          "name": "Silverware Drawer Organizer, Natural (9 Slots)",
-          "sku": "RCW-KITDRAW",
-          "catalog_offers": [
-            {
-              "url": "https://royalcraftwood.com/products/bamboo-silverware-drawer-organizer-natural?variant=39646301257936",
-              "priceCurrency": "USD",
-              "price": "44.97",
-              "availability": "http://schema.org/InStock",
-              "shippingDetails": []
-            }
-          ],
-          "cost_basis": "Retail page only; wholesale and freight unverified"
-        }
-      ],
-      "page_sha256": "a24ccbbe162d246ca32cc1013f87efc3d48e2c4872eff731df1e42a8f1a1948f",
-      "source_observed_at": "2026-11-09T22:26:38.058068+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8781,6 +9040,11 @@
       "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
+      "url": "https://products.fourthwall.com/white-glossy-mug-sublimation",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4122,
+      "observed_at": "2026-11-12T07:18:27.220852+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
       "required_buyer_payment_for_25_contribution_floor_cents": 4247,
       "observed_at": "2026-11-10T19:48:01.952203+00:00"
@@ -8801,19 +9065,9 @@
       "observed_at": "2026-11-10T07:25:26.603304+00:00"
     },
     {
-      "url": "https://products.fourthwall.com/all-over-print-basic-pillow-case",
-      "required_buyer_payment_for_25_contribution_floor_cents": 4693,
-      "observed_at": "2026-11-09T22:26:38.058068+00:00"
-    },
-    {
-      "url": "https://products.fourthwall.com/all-over-print-premium-pillow-case",
-      "required_buyer_payment_for_25_contribution_floor_cents": 4732,
-      "observed_at": "2026-11-09T22:26:38.058068+00:00"
-    },
-    {
       "url": "https://products.fourthwall.com/yupoong-cuffed-beanie",
       "required_buyer_payment_for_25_contribution_floor_cents": 4756,
-      "observed_at": "2026-11-09T22:26:38.058068+00:00"
+      "observed_at": "2026-11-12T07:18:27.220852+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-organic-cotton-t-shirt-dtg",
@@ -8826,6 +9080,11 @@
       "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
+      "url": "https://products.fourthwall.com/yupoong-classic-dad-hat",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4958,
+      "observed_at": "2026-11-12T07:18:27.220852+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/canvas-in-printed",
       "required_buyer_payment_for_25_contribution_floor_cents": 4977,
       "observed_at": "2026-11-10T07:25:26.603304+00:00"
@@ -8834,11 +9093,6 @@
       "url": "https://products.fourthwall.com/cotton-heritage-mens-premium-heavyweight-tee-dtg",
       "required_buyer_payment_for_25_contribution_floor_cents": 5045,
       "observed_at": "2026-11-10T19:48:01.952203+00:00"
-    },
-    {
-      "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery",
-      "required_buyer_payment_for_25_contribution_floor_cents": 5052,
-      "observed_at": "2026-11-09T22:26:38.058068+00:00"
     },
     {
       "url": "https://products.fourthwall.com/otto-vintage-wash-dad-hat",
@@ -8866,11 +9120,6 @@
       "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
-      "url": "https://products.fourthwall.com/all-over-print-mens-leggings",
-      "required_buyer_payment_for_25_contribution_floor_cents": 6576,
-      "observed_at": "2026-11-09T22:26:38.058068+00:00"
-    },
-    {
       "url": "https://products.fourthwall.com/cotton-heritage-unisex-premium-hoodie-dtfx",
       "required_buyer_payment_for_25_contribution_floor_cents": 6613,
       "observed_at": "2026-11-10T19:48:01.952203+00:00"
@@ -8881,9 +9130,14 @@
       "observed_at": "2026-11-10T19:48:01.952203+00:00"
     },
     {
-      "url": "https://products.fourthwall.com/all-over-print-skater-dress",
-      "required_buyer_payment_for_25_contribution_floor_cents": 7113,
-      "observed_at": "2026-11-09T22:26:38.058068+00:00"
+      "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-sweatshirt-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 6888,
+      "observed_at": "2026-11-12T07:18:27.220852+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie",
+      "required_buyer_payment_for_25_contribution_floor_cents": 7255,
+      "observed_at": "2026-11-12T07:18:27.220852+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-eco-sweatshirt-dtg",
@@ -8901,14 +9155,14 @@
       "observed_at": "2026-11-10T07:25:26.603304+00:00"
     },
     {
+      "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 7884,
+      "observed_at": "2026-11-12T07:18:27.220852+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-oversized-sweatshirt-dtg",
       "required_buyer_payment_for_25_contribution_floor_cents": 7995,
       "observed_at": "2026-11-11T19:39:30.287621+00:00"
-    },
-    {
-      "url": "https://products.fourthwall.com/all-over-print-unisex-cotton-hoodie-sublimation",
-      "required_buyer_payment_for_25_contribution_floor_cents": 8589,
-      "observed_at": "2026-11-09T22:26:38.058068+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-garment-dyed-chaser-vintage-hoodie-dtfx",
