@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-13T06:30:43.312339+00:00",
-  "run_id": "43379197951",
+  "observed_at": "2026-11-13T12:27:20.652076+00:00",
+  "run_id": "43425278147",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "b594ad8903a2f267b84bea83a5f7e65b1768293aebe021f22fa91a2b82e219fb",
+      "sha256": "695bb103dee82d0eed077e5174dfc46eda6b2133ac11cf5bfa3405a8f1a7b288",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "3adc0173fbe3267190ef0023b77bcc6338362e94abd140fd5073dbbd5217fc06",
+      "sha256": "5182d9e4ebcb0db4110e170b649234050da0646eae1478d56493620f69842d83",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "9bcbcc4cd1263fbdada34c110b31c103acb089a29e9f75128da3791c214158fb",
+      "sha256": "5959f6abdbb7ca9b80bd12a1c050ce487286c950ffe1a9469491ed275095d982",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -149,53 +149,53 @@
       ]
     }
   ],
-  "scan_cursor": 212,
+  "scan_cursor": 220,
   "market_attention_queries": [
     {
-      "query": "bernard tomic",
-      "published": "Thu, 12 Nov 2026 22:00:00 -0800"
+      "query": "putin news",
+      "published": "Fri, 13 Nov 2026 04:00:00 -0800"
     },
     {
-      "query": "camp flog gnaw",
-      "published": "Thu, 12 Nov 2026 22:00:00 -0800"
+      "query": "ilhan omar news",
+      "published": "Fri, 13 Nov 2026 04:00:00 -0800"
     },
     {
-      "query": "kristina bogic",
-      "published": "Thu, 12 Nov 2026 22:00:00 -0800"
+      "query": "ashley graham",
+      "published": "Fri, 13 Nov 2026 04:00:00 -0800"
     },
     {
-      "query": "weather san diego",
-      "published": "Thu, 12 Nov 2026 22:00:00 -0800"
+      "query": "beach hazards statement",
+      "published": "Fri, 13 Nov 2026 03:40:00 -0800"
     },
     {
-      "query": "mcu",
-      "published": "Thu, 12 Nov 2026 21:50:00 -0800"
+      "query": "stephen miller white house lobbyist rules",
+      "published": "Fri, 13 Nov 2026 03:40:00 -0800"
     },
     {
-      "query": "mcu films",
-      "published": "Thu, 12 Nov 2026 21:50:00 -0800"
+      "query": "weather chicago",
+      "published": "Fri, 13 Nov 2026 03:30:00 -0800"
     },
     {
-      "query": "afg vs zim",
-      "published": "Thu, 12 Nov 2026 21:40:00 -0800"
+      "query": "samoa",
+      "published": "Fri, 13 Nov 2026 03:20:00 -0800"
     },
     {
-      "query": "icc",
-      "published": "Thu, 12 Nov 2026 21:40:00 -0800"
+      "query": "joshua link jason link conviction",
+      "published": "Fri, 13 Nov 2026 03:20:00 -0800"
     },
     {
-      "query": "noah gragson",
-      "published": "Thu, 12 Nov 2026 21:30:00 -0800"
+      "query": "wktv",
+      "published": "Fri, 13 Nov 2026 03:20:00 -0800"
     },
     {
-      "query": "san francisco weather",
-      "published": "Thu, 12 Nov 2026 21:30:00 -0800"
+      "query": "espncricinfo",
+      "published": "Fri, 13 Nov 2026 03:10:00 -0800"
     }
   ],
   "market_references": [
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-      "observed_at": "2026-11-13T06:30:43.312339+00:00",
+      "observed_at": "2026-11-13T12:27:20.652076+00:00",
       "page_status": "fetched",
       "products": [
         {
@@ -2143,7 +2143,7 @@
       "market_price_comparison": {
         "status": "posted_price_comparison_only",
         "reference_url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-        "observed_at": "2026-11-13T06:30:43.312339+00:00",
+        "observed_at": "2026-11-13T12:27:20.652076+00:00",
         "reference_minimum_price_cents": 1400,
         "contribution_ceiling_if_buyer_pays_shipping_cents": 364,
         "contribution_ceiling_if_seller_pays_shipping_cents": -305,
@@ -2722,9 +2722,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "ef864cb6f0dfc1c4a44c23a45cc3d82751767caa4ac9af7d9ef1f040781e2352",
       "public_product_data": [
         {
           "name": "Cotton Heritage Men's Premium Heavyweight Tee",
@@ -2824,6 +2821,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "ef864cb6f0dfc1c4a44c23a45cc3d82751767caa4ac9af7d9ef1f040781e2352",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2942,9 +2941,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "c3b68e63993664c87ed673a2dde987d84c88ee594f4f24deca9c5c6201be0599",
       "public_product_data": [
         {
           "name": "Cotton Heritage Unisex Premium Hoodie",
@@ -3044,6 +3040,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "c3b68e63993664c87ed673a2dde987d84c88ee594f4f24deca9c5c6201be0599",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3162,9 +3160,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "76e0a8f034af70bad6077f4ecc8cfbfa9f12b912e88d0d58103cc028fcb16899",
       "public_product_data": [
         {
           "name": "Cotton Heritage Unisex Premium Hoodie",
@@ -3264,6 +3259,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "76e0a8f034af70bad6077f4ecc8cfbfa9f12b912e88d0d58103cc028fcb16899",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3382,9 +3379,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "90bfcc7d8d2e52b8ffb452132e9e8251f93696717c27751dfdf34c5994c4e749",
       "public_product_data": [
         {
           "name": "Custom Plushie",
@@ -3402,6 +3396,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "90bfcc7d8d2e52b8ffb452132e9e8251f93696717c27751dfdf34c5994c4e749",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3437,9 +3433,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "d00cc9938b1f668af47cfbe04dba1b73cab64330a217f1f61f19d00106e5d3d0",
       "public_product_data": [
         {
           "name": "Enhanced Matte Paper Poster",
@@ -3479,6 +3472,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "d00cc9938b1f668af47cfbe04dba1b73cab64330a217f1f61f19d00106e5d3d0",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3551,9 +3546,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "45735d64658debcdf1e08c75867b4058c797bcee5feeaef46ef03644c562ddb6",
       "public_product_data": [
         {
           "name": "Framed High-Quality Matte Poster",
@@ -3653,6 +3645,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "45735d64658debcdf1e08c75867b4058c797bcee5feeaef46ef03644c562ddb6",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3771,9 +3765,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "0d285c486cf20e78d4ceb5856094e12a5dbdb0bbdc7fb0f60d581ed71c9b8271",
       "public_product_data": [
         {
           "name": "Gildan Heavyweight T-Shirt",
@@ -3873,6 +3864,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "0d285c486cf20e78d4ceb5856094e12a5dbdb0bbdc7fb0f60d581ed71c9b8271",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4026,7 +4019,6 @@
       ],
       "page_sha256": "dfe9595ceef04c13395f284b357189b5bfd2957cb3f6fa9dee6e62208bda45e4",
       "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4062,6 +4054,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "f014d5433b32046cd25ab57dd01f247ff784e8b3b69263454c89527e788cfc96",
       "public_product_data": [
         {
           "name": "Kiss Cut Stickers",
@@ -4081,7 +4076,7 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
+                      "minValue": 6,
                       "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
@@ -4101,8 +4096,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "dde18d20c82af9a4dd7ea5f986a1778e09418dbefbc31ea4ad38b459d0cf3ac1",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4139,7 +4132,7 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
+                "minValue": 6,
                 "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
@@ -4175,6 +4168,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "d6a094bf290376f847b0079e4cb9a7213ade366d74c3e1455f3c953e1c4a8c22",
       "public_product_data": [
         {
           "name": "Knitted Cardigan Without Pocket",
@@ -4192,8 +4188,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "8b1738e990baa2d570924d564a87a7ea0451567f2c04e3fa6d7b95413d9e6f96",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4229,6 +4223,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "cc73a56a701df41f9262e29b6ed7f9b00724b7bae88ee0396564132755f029a4",
       "public_product_data": [
         {
           "name": "Knitted Unisex Hoodie",
@@ -4246,8 +4243,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "ebfc2f97672b73ac35d1241cfd33f0fd11d5eef873060e4754f0458a04804e69",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4283,6 +4278,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "acbb144da1f823e0f7692d6eca245006b5a1f00b3a582fbfc9bfd3a797babfed",
       "public_product_data": [
         {
           "name": "Knitted Unisex Plus Size Crewneck Sweater",
@@ -4300,8 +4298,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "9bae12c2ef29955b8b5f1c7b931c9989f6a0c908d26f797a6d03e7bed8cb2178",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4337,6 +4333,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "c938f7d39a33adc123bf7a27921e8daad87a8b2fcf8367ab4ad4bca0fcdb51fe",
       "public_product_data": [
         {
           "name": "Knitted Unisex Quarter Zip Sweater",
@@ -4354,8 +4353,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "5278fb29ec037dab9b201acc77e5412bb941d2d9e688ea0cefe815862a39f8fd",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4391,6 +4388,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "9c8fa18d2ac9405f90d2519f5713cd2542b53c9dff820296988ed38212c31fbd",
       "public_product_data": [
         {
           "name": "Knitted V-Neck Vest",
@@ -4408,8 +4408,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "115f9fa31e1b2273c570d0ccbd6d357444ff540060194c3d88d1ac4603ed971c",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4445,6 +4443,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "6b4d50f559dad5d4f58163105f09b52a8d9f33e21fbe09edf2ace6f6e1660924",
       "public_product_data": [
         {
           "name": "LA Apparel Womens Ribbed Baby Tee Crop Top",
@@ -4478,8 +4479,6 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "eb18eb01e39fd7cca4d05313f5fe48418171f5c98067ae4c955d0254b087549b",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4534,8 +4533,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 11,
+                      "minValue": 7,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -4564,8 +4563,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 11,
+                      "minValue": 7,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -4594,8 +4593,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 8,
-                      "maxValue": 11,
+                      "minValue": 7,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -4614,8 +4613,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "f57954cd3433cbad500e8852924fb4c98a35306dbd012cb370c950b6d218bbab",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "page_sha256": "4b84b617d6c33750185b57913a2bb405bd12c089c660f41a49931ef840807ed0",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4652,8 +4652,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 8,
-                "maxValue": 11,
+                "minValue": 7,
+                "maxValue": 10,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -4675,8 +4675,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 8,
-                "maxValue": 11,
+                "minValue": 7,
+                "maxValue": 10,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -4698,8 +4698,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 8,
-                "maxValue": 11,
+                "minValue": 7,
+                "maxValue": 10,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -7468,7 +7468,6 @@
       ],
       "page_sha256": "24e14731ab086f96b455d4c4e15a067c9b7f8c2e82fad0a99075e8605e864d50",
       "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7522,7 +7521,6 @@
       ],
       "page_sha256": "53fdeca5037a92e0254e907c5ad3547b7cf53102f23373784e9a303268bcf462",
       "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7558,6 +7556,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "a3e38c4ed4923da050e62168e962a3991e04a9a72fe1d46c7655439045519e0d",
       "public_product_data": [
         {
           "name": "Cheese Board XXL with Cutlery Set",
@@ -7574,8 +7575,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "e63bc2fa18975922cc2c8bf0dc83e9812acb4b85cd7dc80119b24d7b522c01e1",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7611,6 +7610,9 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_sha256": "fdb454c29d861aa20136c69706352e67bc2f3261a43690f009890bb843202561",
       "public_product_data": [
         {
           "name": "Cutting Board L, 15\u201dx10\u201d",
@@ -7627,8 +7629,6 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "d8ddc28ea25e46c0c08c968ca16ee7c84cd24999eb2d439b4bf02d0dba00f63b",
-      "source_observed_at": "2026-11-11T06:33:15.001430+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7680,8 +7680,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "801456875abf94deb0d78602f5a96e59430a1003b750ca8857ab19596cdea8c9",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "page_sha256": "9eebaf2554002d1b413547db97e875ccfd9239ebf8ff207afde2267752c940d2",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7733,8 +7734,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "d2cdba47e8f5f208f0f06c585195722489f592f6681b7bd6fc9d3efed5f35150",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "page_sha256": "3e2f799bb18c2e896ca0ee5dbad0f0b0c5850b5a35f16e5ccf1b34dc4d49e13a",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7786,8 +7788,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "c8b75c0bc4eaafeaae53d4d1aa602e60d85fd8796995457d725f267ee24f0f0b",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "page_sha256": "8522ac7da8c06eadef68441c9c93ae966ebd5fa55823f4d66d7d7e284068caff",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7839,8 +7842,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "5282f799f5db67cf6f91bc231a64f027837f48550784efd191dfe35e68c1f0c3",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "page_sha256": "52b9138c9db3c48eb37bf229f61194779e72c302caafa8644ac1eb3a60df3ebc",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7892,8 +7896,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "7977455aa22ddfc926b12b5ffe544e2bc076063765df50f13a6199638b0581a2",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "page_sha256": "a427c1a786c9ca1721304afad23f6e2b443555468872b240b580d4e6b04a3d71",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7945,8 +7950,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "81400b29fe7d6ae72484e6c6cb7233861c6eec80b99f96e71ace28709f3456a5",
-      "source_observed_at": "2026-11-11T19:39:30.287621+00:00",
+      "page_sha256": "9ef69adae885526d3a4f411f3bd6e837520f0dcc2e6a9e67af1ca64fd38024af",
+      "source_observed_at": "2026-11-13T12:27:20.652076+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9360,9 +9366,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "003650f597b86dc68435e4bc56e37f18e3c7927a1d0f3b96fd7c44ada5186640",
       "public_product_data": [
         {
           "name": "Basic Silverware Drawer Organizer, Natural",
@@ -9379,6 +9382,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "003650f597b86dc68435e4bc56e37f18e3c7927a1d0f3b96fd7c44ada5186640",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9414,9 +9419,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_sha256": "d863da3ae11ba515b84585bd454ccdeae226446222e8da2cc2af72b8a23a1a42",
       "public_product_data": [
         {
           "name": "Storage Box Set of 5, Brown",
@@ -9433,6 +9435,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "d863da3ae11ba515b84585bd454ccdeae226446222e8da2cc2af72b8a23a1a42",
+      "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9486,7 +9490,6 @@
       ],
       "page_sha256": "070628f7aebc8ff094123d40d3d849375b690fb73bde293f08558ecd98d6aa9b",
       "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9540,7 +9543,6 @@
       ],
       "page_sha256": "2ecd4f0099ec3cd90a7dfa1a59c826fc44555a7fcb3a880d741e92f6feb641ca",
       "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9594,7 +9596,6 @@
       ],
       "page_sha256": "f482c5aced9ad8e43dd1749420d49484f154200407031dc2472311302be46084",
       "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9648,7 +9649,6 @@
       ],
       "page_sha256": "15de9d9f18167e90c8d56fee2b47a0ac17f88f14a629306b04c359a2304a595d",
       "source_observed_at": "2026-11-13T06:30:43.312339+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9677,7 +9677,7 @@
     {
       "url": "https://products.fourthwall.com/kiss-cut-stickers-1",
       "required_buyer_payment_for_25_contribution_floor_cents": 3486,
-      "observed_at": "2026-11-11T06:33:15.001430+00:00"
+      "observed_at": "2026-11-13T12:27:20.652076+00:00"
     },
     {
       "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed",
@@ -9817,7 +9817,7 @@
     {
       "url": "https://products.fourthwall.com/matte-paper-framed-poster-with-mat-uv",
       "required_buyer_payment_for_25_contribution_floor_cents": 7808,
-      "observed_at": "2026-11-11T19:39:30.287621+00:00"
+      "observed_at": "2026-11-13T12:27:20.652076+00:00"
     },
     {
       "url": "https://products.fourthwall.com/as-colour-unisex-premium-relaxed-hoodie-dtfx",
