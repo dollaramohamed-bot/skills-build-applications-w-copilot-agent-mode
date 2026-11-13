@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-12T19:59:08.719070+00:00",
-  "run_id": "43295685495",
+  "observed_at": "2026-11-13T00:41:16.321208+00:00",
+  "run_id": "43339018024",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "f3af5d2c07dbe1c471caea2600406ab05f6b55f06d3634b3c198ebf045b163e8",
+      "sha256": "268e812a0bdc0b69c8c0d5fb0d5dcc1f34fe00257a3fd3a014c87e58c5e4abae",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "300efe4ea9403af130016055cbac0c065e7bb659102666021b67ee80ad0efcdd",
+      "sha256": "de6417ed1e6cb11986df870ff68c04b3b678c8039ba41817854d4944e6c01f55",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "9c14b6adb734c21204a30f9cffde7852527a1da02d2dffc7d343dc5b86b6d640",
+      "sha256": "9ea9702ede7fb61a7f02f276145d96b5f35061d9711d1b63bcff6a349db5ab77",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -149,53 +149,53 @@
       ]
     }
   ],
-  "scan_cursor": 196,
+  "scan_cursor": 204,
   "market_attention_queries": [
     {
-      "query": "flash flood warning",
-      "published": "Thu, 12 Nov 2026 11:30:00 -0800"
+      "query": "yordan alvarez",
+      "published": "Thu, 12 Nov 2026 16:20:00 -0800"
     },
     {
-      "query": "france",
-      "published": "Thu, 12 Nov 2026 11:30:00 -0800"
+      "query": "south carolina women's basketball",
+      "published": "Thu, 12 Nov 2026 16:20:00 -0800"
     },
     {
-      "query": "outlook cyber attack",
-      "published": "Thu, 12 Nov 2026 11:20:00 -0800"
+      "query": "is jj mccarthy playing tonight",
+      "published": "Thu, 12 Nov 2026 16:20:00 -0800"
     },
     {
-      "query": "england national football team",
-      "published": "Thu, 12 Nov 2026 11:10:00 -0800"
+      "query": "mavericks vs timberwolves",
+      "published": "Thu, 12 Nov 2026 16:10:00 -0800"
     },
     {
-      "query": "spain",
-      "published": "Thu, 12 Nov 2026 11:10:00 -0800"
+      "query": "memphis vs south florida",
+      "published": "Thu, 12 Nov 2026 16:10:00 -0800"
     },
     {
-      "query": "cyber attacks today",
-      "published": "Thu, 12 Nov 2026 11:10:00 -0800"
+      "query": "sabres vs blackhawks",
+      "published": "Thu, 12 Nov 2026 16:10:00 -0800"
     },
     {
-      "query": "microsoft cyber attack",
-      "published": "Thu, 12 Nov 2026 11:10:00 -0800"
+      "query": "jets vs stars",
+      "published": "Thu, 12 Nov 2026 16:10:00 -0800"
     },
     {
-      "query": "inglaterra - croacia",
-      "published": "Thu, 12 Nov 2026 11:00:00 -0800"
+      "query": "mercer vs west virginia",
+      "published": "Thu, 12 Nov 2026 16:10:00 -0800"
     },
     {
-      "query": "albania vs finland",
-      "published": "Thu, 12 Nov 2026 11:00:00 -0800"
+      "query": "jim cramer",
+      "published": "Thu, 12 Nov 2026 16:10:00 -0800"
     },
     {
-      "query": "spain national football team",
-      "published": "Thu, 12 Nov 2026 11:00:00 -0800"
+      "query": "devin singletary",
+      "published": "Thu, 12 Nov 2026 16:10:00 -0800"
     }
   ],
   "market_references": [
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-      "observed_at": "2026-11-12T19:59:08.719070+00:00",
+      "observed_at": "2026-11-13T00:41:16.321208+00:00",
       "page_status": "fetched",
       "products": [
         {
@@ -240,9 +240,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "b5561837cab8c65623680b6d7c66fed4558161adfab5a87a5a4f51ecc1961266",
       "public_product_data": [
         {
           "name": "All-Over Print Basic Pillow Case",
@@ -282,6 +279,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "b5561837cab8c65623680b6d7c66fed4558161adfab5a87a5a4f51ecc1961266",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -354,9 +353,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "cd1be80d0d38f0f7a9bdb70dd92bc8fe9068ae63324197aca81b5247bef13e0f",
       "public_product_data": [
         {
           "name": "All-Over Print Men's Leggings",
@@ -396,6 +392,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "cd1be80d0d38f0f7a9bdb70dd92bc8fe9068ae63324197aca81b5247bef13e0f",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -468,9 +466,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "6041d502829c6e79bcabbce930cb83598135983ab812d73794968bb10f8645b7",
       "public_product_data": [
         {
           "name": "All-Over Print Premium Pillow Case",
@@ -510,6 +505,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "6041d502829c6e79bcabbce930cb83598135983ab812d73794968bb10f8645b7",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -582,9 +579,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "799e186c5e0d6d2d8729925167a8ef1ba73dc6bf7827c9bee8c643fffd6a60fb",
       "public_product_data": [
         {
           "name": "All-Over Print Skater Dress",
@@ -624,6 +618,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "799e186c5e0d6d2d8729925167a8ef1ba73dc6bf7827c9bee8c643fffd6a60fb",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -696,9 +692,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "b3e06cebf775c081bfd05a619def9d9caac9b2d22ae6e1d337ba1a768123e483",
       "public_product_data": [
         {
           "name": "All-Over Print Unisex Cotton Hoodie",
@@ -738,6 +731,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "b3e06cebf775c081bfd05a619def9d9caac9b2d22ae6e1d337ba1a768123e483",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -810,9 +805,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "85a07cea71e3a4e34dd39e7a19e242d851a174e9216237f91e82e0f51c4f5ac5",
       "public_product_data": [
         {
           "name": "AS Colour Box Minus Hood",
@@ -846,6 +838,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "85a07cea71e3a4e34dd39e7a19e242d851a174e9216237f91e82e0f51c4f5ac5",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -881,9 +875,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "b2b61e255a1de2882c40faa8fb2f9022538227acd611b70650ed4b16044bb676",
       "public_product_data": [
         {
           "name": "AS Colour Fisherman Beanie",
@@ -983,6 +974,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "b2b61e255a1de2882c40faa8fb2f9022538227acd611b70650ed4b16044bb676",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1101,9 +1094,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "a816ad58b0aa25ff5ae58cb4583d7886e2415d4005b4ace1319b1e456ce61c00",
       "public_product_data": [
         {
           "name": "AS Colour Heavy T-shirt",
@@ -1137,6 +1127,8 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
+      "page_sha256": "a816ad58b0aa25ff5ae58cb4583d7886e2415d4005b4ace1319b1e456ce61c00",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1172,6 +1164,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "b56179ded0d2f91ae755b7248eaa023a02d72baa0f7ff81e5f120a3f9338e148",
+      "public_product_data": [
+        {
+          "name": "AS Colour Premium Oversized Faded T-Shirt",
+          "sku": "pro_jdRtdbSURmauaeahssYxeQ",
+          "catalog_offers": [
+            {
+              "name": "AS Colour Premium Oversized Faded T-Shirt (Faded Black)",
+              "url": "https://products.fourthwall.com/as-colour-premium-oversized-faded-t-shirt-dtfx?selectedColor=Faded+Black",
+              "priceCurrency": "USD",
+              "price": 24.17,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "AS Colour Premium Oversized Faded T-Shirt (Faded Coal)",
+              "url": "https://products.fourthwall.com/as-colour-premium-oversized-faded-t-shirt-dtfx?selectedColor=Faded+Coal",
+              "priceCurrency": "USD",
+              "price": 24.17,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "AS Colour Premium Oversized Faded T-Shirt (Faded Indigo)",
+              "url": "https://products.fourthwall.com/as-colour-premium-oversized-faded-t-shirt-dtfx?selectedColor=Faded+Indigo",
+              "priceCurrency": "USD",
+              "price": 24.17,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1192,7 +1286,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_jdRtdbSURmauaeahssYxeQ",
+            "name": "AS Colour Premium Oversized Faded T-Shirt",
+            "offer_name": "AS Colour Premium Oversized Faded T-Shirt (Faded Black)",
+            "catalog_base_floor_cents": 2417,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2846,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 4754,
+              "2500": 5840,
+              "4000": 7468
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_jdRtdbSURmauaeahssYxeQ",
+            "name": "AS Colour Premium Oversized Faded T-Shirt",
+            "offer_name": "AS Colour Premium Oversized Faded T-Shirt (Faded Coal)",
+            "catalog_base_floor_cents": 2417,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2846,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 4754,
+              "2500": 5840,
+              "4000": 7468
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_jdRtdbSURmauaeahssYxeQ",
+            "name": "AS Colour Premium Oversized Faded T-Shirt",
+            "offer_name": "AS Colour Premium Oversized Faded T-Shirt (Faded Indigo)",
+            "catalog_base_floor_cents": 2417,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2846,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 4754,
+              "2500": 5840,
+              "4000": 7468
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -1207,6 +1384,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "0deb83f16e8426e545c56a9c08d131b72576dda3903d2c58b43bd33c3146ca6d",
+      "public_product_data": [
+        {
+          "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt",
+          "sku": "pro_Gke2BSS5Tc2pABL9Pfk4gg",
+          "catalog_offers": [
+            {
+              "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt (Black)",
+              "url": "https://products.fourthwall.com/as-colour-unisex-premium-heavyweight-long-sleeve-shirt-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 25.31,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt (Midnight Blue)",
+              "url": "https://products.fourthwall.com/as-colour-unisex-premium-heavyweight-long-sleeve-shirt-dtg?selectedColor=Midnight+Blue",
+              "priceCurrency": "USD",
+              "price": 25.31,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt (Cypress)",
+              "url": "https://products.fourthwall.com/as-colour-unisex-premium-heavyweight-long-sleeve-shirt-dtg?selectedColor=Cypress",
+              "priceCurrency": "USD",
+              "price": 25.31,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1227,7 +1506,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_Gke2BSS5Tc2pABL9Pfk4gg",
+            "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt",
+            "offer_name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt (Black)",
+            "catalog_base_floor_cents": 2531,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2960,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 4878,
+              "2500": 5964,
+              "4000": 7592
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_Gke2BSS5Tc2pABL9Pfk4gg",
+            "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt",
+            "offer_name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt (Midnight Blue)",
+            "catalog_base_floor_cents": 2531,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2960,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 4878,
+              "2500": 5964,
+              "4000": 7592
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_Gke2BSS5Tc2pABL9Pfk4gg",
+            "name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt",
+            "offer_name": "AS Colour Unisex Premium Heavyweight Long Sleeve Shirt (Cypress)",
+            "catalog_base_floor_cents": 2531,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 2960,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 4878,
+              "2500": 5964,
+              "4000": 7592
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -1242,6 +1604,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "deed74320c2b57fcacbbdf58bfc4a5ab8d5b12b995ed338f503c3167ee98bb5d",
+      "public_product_data": [
+        {
+          "name": "AS Colour Unisex Premium Relaxed Hoodie",
+          "sku": "pro_aFuN8XE0Q4WKIhqY1-KbxA",
+          "catalog_offers": [
+            {
+              "name": "AS Colour Unisex Premium Relaxed Hoodie (Black)",
+              "url": "https://products.fourthwall.com/as-colour-unisex-premium-relaxed-hoodie-dtfx?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 38.46,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "AS Colour Unisex Premium Relaxed Hoodie (Pine Green)",
+              "url": "https://products.fourthwall.com/as-colour-unisex-premium-relaxed-hoodie-dtfx?selectedColor=Pine+Green",
+              "priceCurrency": "USD",
+              "price": 38.46,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "AS Colour Unisex Premium Relaxed Hoodie (Cobalt)",
+              "url": "https://products.fourthwall.com/as-colour-unisex-premium-relaxed-hoodie-dtfx?selectedColor=Cobalt",
+              "priceCurrency": "USD",
+              "price": 38.46,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 8.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1262,7 +1726,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_aFuN8XE0Q4WKIhqY1-KbxA",
+            "name": "AS Colour Unisex Premium Relaxed Hoodie",
+            "offer_name": "AS Colour Unisex Premium Relaxed Hoodie (Black)",
+            "catalog_base_floor_cents": 3846,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4675,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6740,
+              "2500": 7826,
+              "4000": 9454
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_aFuN8XE0Q4WKIhqY1-KbxA",
+            "name": "AS Colour Unisex Premium Relaxed Hoodie",
+            "offer_name": "AS Colour Unisex Premium Relaxed Hoodie (Pine Green)",
+            "catalog_base_floor_cents": 3846,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4675,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6740,
+              "2500": 7826,
+              "4000": 9454
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_aFuN8XE0Q4WKIhqY1-KbxA",
+            "name": "AS Colour Unisex Premium Relaxed Hoodie",
+            "offer_name": "AS Colour Unisex Premium Relaxed Hoodie (Cobalt)",
+            "catalog_base_floor_cents": 3846,
+            "us_shipping_floor_cents": 829,
+            "landed_floor_cents": 4675,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 6740,
+              "2500": 7826,
+              "4000": 9454
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -1277,6 +1824,108 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "6a809a03f81b164d26729a2c6f084e57e273ff714d3428766f8f05d036396fc5",
+      "public_product_data": [
+        {
+          "name": "Bella+Canvas Unisex Supersoft T-Shirt",
+          "sku": "pro_k66ZW4fsRm6c2def3itltA",
+          "catalog_offers": [
+            {
+              "name": "Bella+Canvas Unisex Supersoft T-Shirt (Black)",
+              "url": "https://products.fourthwall.com/bella-canvas-unisex-supersoft-t-shirt-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 11.75,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Bella+Canvas Unisex Supersoft T-Shirt (Team Purple)",
+              "url": "https://products.fourthwall.com/bella-canvas-unisex-supersoft-t-shirt-dtg?selectedColor=Team+Purple",
+              "priceCurrency": "USD",
+              "price": 11.75,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Bella+Canvas Unisex Supersoft T-Shirt (Oxblood Black)",
+              "url": "https://products.fourthwall.com/bella-canvas-unisex-supersoft-t-shirt-dtg?selectedColor=Oxblood+Black",
+              "priceCurrency": "USD",
+              "price": 11.75,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1297,7 +1946,90 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_k66ZW4fsRm6c2def3itltA",
+            "name": "Bella+Canvas Unisex Supersoft T-Shirt",
+            "offer_name": "Bella+Canvas Unisex Supersoft T-Shirt (Black)",
+            "catalog_base_floor_cents": 1175,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1604,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3405,
+              "2500": 4491,
+              "4000": 6120
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_k66ZW4fsRm6c2def3itltA",
+            "name": "Bella+Canvas Unisex Supersoft T-Shirt",
+            "offer_name": "Bella+Canvas Unisex Supersoft T-Shirt (Team Purple)",
+            "catalog_base_floor_cents": 1175,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1604,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3405,
+              "2500": 4491,
+              "4000": 6120
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_k66ZW4fsRm6c2def3itltA",
+            "name": "Bella+Canvas Unisex Supersoft T-Shirt",
+            "offer_name": "Bella+Canvas Unisex Supersoft T-Shirt (Oxblood Black)",
+            "catalog_base_floor_cents": 1175,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1604,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3405,
+              "2500": 4491,
+              "4000": 6120
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -1312,6 +2044,48 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "2deab85781949399693f9a979e2817eb88e2fa0c53113db54f7c4323e2a38791",
+      "public_product_data": [
+        {
+          "name": "Black Glossy Mug",
+          "sku": "pro_dWMJDO04TgWcXKGQohVnHw",
+          "catalog_offers": [
+            {
+              "name": "Black Glossy Mug (Black)",
+              "url": "https://products.fourthwall.com/black-glossy-mug?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 8.95,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1332,10 +2106,62 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_dWMJDO04TgWcXKGQohVnHw",
+            "name": "Black Glossy Mug",
+            "offer_name": "Black Glossy Mug (Black)",
+            "catalog_base_floor_cents": 895,
+            "us_shipping_floor_cents": 669,
+            "landed_floor_cents": 1564,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3362,
+              "2500": 4448,
+              "4000": 6077
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       },
       "market_price_comparison": {
-        "status": "insufficient_current_evidence"
+        "status": "posted_price_comparison_only",
+        "reference_url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
+        "observed_at": "2026-11-13T00:41:16.321208+00:00",
+        "reference_minimum_price_cents": 1400,
+        "contribution_ceiling_if_buyer_pays_shipping_cents": 364,
+        "contribution_ceiling_if_seller_pays_shipping_cents": -305,
+        "minimum_orders_for_10000_before_overhead_if_buyer_pays_shipping": 2748,
+        "free_shipping_at_reference_price": "nonpositive_even_at_catalog_floor",
+        "limits": [
+          "Independent seller art and audience differ",
+          "Reference minimum price and supplier minimum cost may represent different variants",
+          "Buyer-paid shipping case excludes processing charged on freight and tax",
+          "Catalog cost is a floor, so contribution is an upper bound",
+          "No demand, conversion rate or realized profit is established"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -1350,6 +2176,48 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "6c2cc82c6e6ee13c7501b049a9d52a31efe5d35c4962d004d46b3f6fb7e25a98",
+      "public_product_data": [
+        {
+          "name": "Canvas (in)",
+          "sku": "pro_f0b3df34ce6144fb86",
+          "catalog_offers": [
+            {
+              "name": "Canvas (in) (All-Over Print)",
+              "url": "https://products.fourthwall.com/canvas-in-printed?selectedColor=All-Over+Print",
+              "priceCurrency": "USD",
+              "price": 13.72,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 5,
+                      "maxValue": 8,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.79,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1370,7 +2238,44 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_f0b3df34ce6144fb86",
+            "name": "Canvas (in)",
+            "offer_name": "Canvas (in) (All-Over Print)",
+            "catalog_base_floor_cents": 1372,
+            "us_shipping_floor_cents": 679,
+            "landed_floor_cents": 2051,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3891,
+              "2500": 4977,
+              "4000": 6605
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 5,
+                "maxValue": 8,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -1385,40 +2290,107 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "profit_gate": {
-        "decision": "hold",
-        "missing": [
-          "price_cents",
-          "supplier_cost_cents",
-          "seller_shipping_cents",
-          "payment_fee_cents",
-          "return_reserve_cents",
-          "ad_cost_cents",
-          "other_cost_cents",
-          "cash_required_cents",
-          "quote_source",
-          "quote_expires_at",
-          "demand_source",
-          "fulfillment_source",
-          "media_rights_source"
-        ],
-        "profit_per_order_cents": null
-      },
-      "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
-      }
-    },
-    {
-      "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg",
-      "decision": "hold",
-      "missing": [
-        "exact SKU quote",
-        "US inventory",
-        "delivery commitment",
-        "returns terms",
-        "authorized media",
-        "purchase-intent evidence",
-        "funding before payout"
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "3636871388ea922bf4b3deae0777a66e61d24c32e44c7ca3e487f42ccbfa4d74",
+      "public_product_data": [
+        {
+          "name": "Ceramic Mug with Color Inside",
+          "sku": "pro_7eff6f9b20aa4edb83",
+          "catalog_offers": [
+            {
+              "name": "Ceramic Mug with Color Inside (Black)",
+              "url": "https://products.fourthwall.com/ceramic-mug-with-color-inside-1?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 8.95,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Ceramic Mug with Color Inside (Dark Blue)",
+              "url": "https://products.fourthwall.com/ceramic-mug-with-color-inside-1?selectedColor=Dark+Blue",
+              "priceCurrency": "USD",
+              "price": 8.95,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Ceramic Mug with Color Inside (Dark Green)",
+              "url": "https://products.fourthwall.com/ceramic-mug-with-color-inside-1?selectedColor=Dark+Green",
+              "priceCurrency": "USD",
+              "price": 8.95,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 7,
+                      "maxValue": 10,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 6.69,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -1440,7 +2412,310 @@
         "profit_per_order_cents": null
       },
       "cost_screen": {
-        "status": "missing_us_cost_or_shipping"
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_7eff6f9b20aa4edb83",
+            "name": "Ceramic Mug with Color Inside",
+            "offer_name": "Ceramic Mug with Color Inside (Black)",
+            "catalog_base_floor_cents": 895,
+            "us_shipping_floor_cents": 669,
+            "landed_floor_cents": 1564,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3362,
+              "2500": 4448,
+              "4000": 6077
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_7eff6f9b20aa4edb83",
+            "name": "Ceramic Mug with Color Inside",
+            "offer_name": "Ceramic Mug with Color Inside (Dark Blue)",
+            "catalog_base_floor_cents": 895,
+            "us_shipping_floor_cents": 669,
+            "landed_floor_cents": 1564,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3362,
+              "2500": 4448,
+              "4000": 6077
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_7eff6f9b20aa4edb83",
+            "name": "Ceramic Mug with Color Inside",
+            "offer_name": "Ceramic Mug with Color Inside (Dark Green)",
+            "catalog_base_floor_cents": 895,
+            "us_shipping_floor_cents": 669,
+            "landed_floor_cents": 1564,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3362,
+              "2500": 4448,
+              "4000": 6077
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 7,
+                "maxValue": 10,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
+      }
+    },
+    {
+      "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg",
+      "decision": "hold",
+      "missing": [
+        "exact SKU quote",
+        "US inventory",
+        "delivery commitment",
+        "returns terms",
+        "authorized media",
+        "purchase-intent evidence",
+        "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "b444bd552bf413666767279ca32e707f9376d3d8318190ac19be583065e13243",
+      "public_product_data": [
+        {
+          "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+          "sku": "pro_8be1acca2fe7403f89",
+          "catalog_offers": [
+            {
+              "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Black)",
+              "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg?selectedColor=Black",
+              "priceCurrency": "USD",
+              "price": 15.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (True Navy)",
+              "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg?selectedColor=True+Navy",
+              "priceCurrency": "USD",
+              "price": 15.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            },
+            {
+              "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Graphite)",
+              "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg?selectedColor=Graphite",
+              "priceCurrency": "USD",
+              "price": 15.45,
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": [
+                {
+                  "shippingDestination": {
+                    "addressCountry": "US",
+                    "@type": "DefinedRegion"
+                  },
+                  "deliveryTime": {
+                    "transitTime": {
+                      "minValue": 6,
+                      "maxValue": 9,
+                      "unitCode": "d",
+                      "@type": "QuantitativeValue"
+                    },
+                    "@type": "ShippingDeliveryTime"
+                  },
+                  "shippingRate": {
+                    "value": 4.29,
+                    "currency": "USD",
+                    "@type": "MonetaryAmount"
+                  },
+                  "@type": "OfferShippingDetails"
+                }
+              ]
+            }
+          ],
+          "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
+        }
+      ],
+      "profit_gate": {
+        "decision": "hold",
+        "missing": [
+          "price_cents",
+          "supplier_cost_cents",
+          "seller_shipping_cents",
+          "payment_fee_cents",
+          "return_reserve_cents",
+          "ad_cost_cents",
+          "other_cost_cents",
+          "cash_required_cents",
+          "quote_source",
+          "quote_expires_at",
+          "demand_source",
+          "fulfillment_source",
+          "media_rights_source"
+        ],
+        "profit_per_order_cents": null
+      },
+      "cost_screen": {
+        "status": "catalog_floor_only",
+        "offers": [
+          {
+            "sku": "pro_8be1acca2fe7403f89",
+            "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+            "offer_name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Black)",
+            "catalog_base_floor_cents": 1545,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1974,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3807,
+              "2500": 4893,
+              "4000": 6522
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_8be1acca2fe7403f89",
+            "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+            "offer_name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (True Navy)",
+            "catalog_base_floor_cents": 1545,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1974,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3807,
+              "2500": 4893,
+              "4000": 6522
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "sku": "pro_8be1acca2fe7403f89",
+            "name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt",
+            "offer_name": "Comfort Colors Garment-Dyed Heavyweight T-Shirt (Graphite)",
+            "catalog_base_floor_cents": 1545,
+            "us_shipping_floor_cents": 429,
+            "landed_floor_cents": 1974,
+            "required_buyer_payment_for_contribution_cents": {
+              "1500": 3807,
+              "2500": 4893,
+              "4000": 6522
+            },
+            "transit_time": {
+              "transitTime": {
+                "minValue": 6,
+                "maxValue": 9,
+                "unitCode": "d",
+                "@type": "QuantitativeValue"
+              },
+              "@type": "ShippingDeliveryTime"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "assumptions": {
+          "us_card_rate": "0.029",
+          "fixed_fee_cents": 30,
+          "planning_reserve_rate": "0.05",
+          "ads_cents": 0
+        },
+        "limits": [
+          "Not an exact size, decoration or address quote",
+          "Required selling price has no validated conversion evidence",
+          "Taxes, fixed overhead and exceptional returns may change contribution"
+        ],
+        "eligible_for_checkout": false
       }
     },
     {
@@ -6218,9 +7493,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "d68b214a9c0d2b246a3ac4e7acbb822ec7d8ebc6113d0070990ecc153b517929",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, Gray (9 Slots)",
@@ -6237,6 +7509,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "d68b214a9c0d2b246a3ac4e7acbb822ec7d8ebc6113d0070990ecc153b517929",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6272,9 +7546,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "e371f159bb706e78c2ae033af2944f5d3409bbb080ca4609a3413bac5f64ee8e",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, Natural (9 Slots)",
@@ -6291,6 +7562,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "e371f159bb706e78c2ae033af2944f5d3409bbb080ca4609a3413bac5f64ee8e",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6326,9 +7599,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "7bcf30cc959883ef816b7f91309d14ef0f78dec14a6ab739ece88900560f1bfa",
       "public_product_data": [
         {
           "name": "Silverware Drawer Organizer, White (9 Slots)",
@@ -6345,6 +7615,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "7bcf30cc959883ef816b7f91309d14ef0f78dec14a6ab739ece88900560f1bfa",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6380,9 +7652,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "ed06e02d5979ab0886acc69f7dcb627307c5c8568289e415bf543381fa7862c0",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Black (5 Slots)",
@@ -6399,6 +7668,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "ed06e02d5979ab0886acc69f7dcb627307c5c8568289e415bf543381fa7862c0",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6434,9 +7705,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "68d132144caa9119c58b2f3c9ed723dfe69b577afd6b111e64ea29b764d8ba01",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Gray (5 Slots)",
@@ -6453,6 +7721,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "68d132144caa9119c58b2f3c9ed723dfe69b577afd6b111e64ea29b764d8ba01",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6488,9 +7758,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "1eb5d3aedf7d64d577afc65850578037eefe9ec02541d9a976f3d77e08c18ffd",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, Natural (5 Slots)",
@@ -6507,6 +7774,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "1eb5d3aedf7d64d577afc65850578037eefe9ec02541d9a976f3d77e08c18ffd",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6542,9 +7811,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "d5f8b9a5e7555775e2154a1db51f48b100067ccca8576fb607465ea4254c8256",
       "public_product_data": [
         {
           "name": "Utensil Drawer Organizer, White (5 Slots)",
@@ -6561,6 +7827,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "d5f8b9a5e7555775e2154a1db51f48b100067ccca8576fb607465ea4254c8256",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6596,9 +7864,6 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
-      "page_status": "fetched",
-      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
-      "page_sha256": "6d88893c1b98cd57c9f159cf788547131c2fa8799488986ed23a8a7a2e244c3a",
       "public_product_data": [
         {
           "name": "Cheese Board Set with Slate Plate",
@@ -6615,6 +7880,8 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
+      "page_sha256": "6d88893c1b98cd57c9f159cf788547131c2fa8799488986ed23a8a7a2e244c3a",
+      "source_observed_at": "2026-11-12T19:59:08.719070+00:00",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6649,6 +7916,25 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "ab26493fab6e9db46dd522cf6d7e2c95e7cdf270d4d5c3d43dde789766bb2237",
+      "public_product_data": [
+        {
+          "name": "Cheese Board with Slate Plate",
+          "sku": "RCW-CHBSLPL",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/cheese-board-set-with-slate-plate-copy?variant=44615976845520",
+              "priceCurrency": "USD",
+              "price": "44.47",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -6685,6 +7971,25 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "7f88b36a5722642dc27dbd8664451aba5e99d1f56ecd1dfea644c8672ca50454",
+      "public_product_data": [
+        {
+          "name": "Cheese Board w/knives, 16.5\"x11\"",
+          "sku": "RCW-CHSBO-KNS",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/cheese-board-w-knives-16-5x11-draft?variant=44615970128080",
+              "priceCurrency": "USD",
+              "price": "39.97",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6719,6 +8024,25 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "4e8ab2a6cf10eed21a376fdaad0a80c4ca7d74cfafd83ca57a0467dec2907b16",
+      "public_product_data": [
+        {
+          "name": "Cutting Board Stand with 3 Slots, Natural",
+          "sku": "RCW-CBST-3-BMB",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/cutting-board-organizer?variant=40132522016976",
+              "priceCurrency": "USD",
+              "price": "16.97",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -6755,6 +8079,25 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "dd3ab4b05749383f142b3ebd0de7924852eec4a0ee7a1e4a1c801ae3a88bcff7",
+      "public_product_data": [
+        {
+          "name": "Expandable Silverware Organizer (8 Slots)",
+          "sku": "RCW-EXSW-ORG-8",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/expandable-silverware-utensil-organizer?variant=44476571582672",
+              "priceCurrency": "USD",
+              "price": "30.97",
+              "availability": "http://schema.org/OutOfStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6789,6 +8132,25 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "dd294dec9341e13b2c165089d9e2b60e8f0282cae19b17a20b5fb2814aa42382",
+      "public_product_data": [
+        {
+          "name": "Cutting Board 3XL, 24\u201d x 18\u201d",
+          "sku": "RCW-CUTBO-3XL",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/extra-large-cutting-board?variant=39646302208208",
+              "priceCurrency": "USD",
+              "price": "48.09",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -6825,6 +8187,25 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "b64279789a9036c10ecd39f0cae3aded75c34f862d3fcef8e9ca4729f23122c2",
+      "public_product_data": [
+        {
+          "name": "Storage Box Set of 5, Natural",
+          "sku": "RCW-STBOX-DR-MB",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/jewelry-box-organizer?variant=39646302142672",
+              "priceCurrency": "USD",
+              "price": "55.97",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6860,6 +8241,25 @@
         "purchase-intent evidence",
         "funding before payout"
       ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "d564c4c4e7ac8257fc8018544e23d85f4884a5362172aec2a1e76442450d05dc",
+      "public_product_data": [
+        {
+          "name": "Cheese Board Set, Round",
+          "sku": "RCW-CUTBO-CPTS",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/rotating-cheese-board-with-knives?variant=42075985412304",
+              "priceCurrency": "USD",
+              "price": "42.96",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
+      ],
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6894,6 +8294,25 @@
         "authorized media",
         "purchase-intent evidence",
         "funding before payout"
+      ],
+      "page_status": "fetched",
+      "source_observed_at": "2026-11-13T00:41:16.321208+00:00",
+      "page_sha256": "e4040608704305dafdad6849b43b02b53f7b79eccb5409bdb67f9930ea3e8437",
+      "public_product_data": [
+        {
+          "name": "Cheese Board, Round",
+          "sku": "RCW-RCHSBO",
+          "catalog_offers": [
+            {
+              "url": "https://royalcraftwood.com/products/round-cheese-board?variant=42075236073680",
+              "priceCurrency": "USD",
+              "price": "33.27",
+              "availability": "http://schema.org/InStock",
+              "shippingDetails": []
+            }
+          ],
+          "cost_basis": "Retail page only; wholesale and freight unverified"
+        }
       ],
       "profit_gate": {
         "decision": "hold",
@@ -7213,6 +8632,21 @@
       "observed_at": "2026-11-12T07:18:27.220852+00:00"
     },
     {
+      "url": "https://products.fourthwall.com/black-glossy-mug",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4448,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/ceramic-mug-with-color-inside-1",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4448,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/bella-canvas-unisex-supersoft-t-shirt-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4491,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/all-over-print-basic-pillow-case",
       "required_buyer_payment_for_25_contribution_floor_cents": 4693,
       "observed_at": "2026-11-12T19:59:08.719070+00:00"
@@ -7233,9 +8667,19 @@
       "observed_at": "2026-11-11T19:39:30.287621+00:00"
     },
     {
+      "url": "https://products.fourthwall.com/comfort-colors-garment-dyed-heavyweight-t-shirt-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4893,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
+    },
+    {
       "url": "https://products.fourthwall.com/yupoong-classic-dad-hat",
       "required_buyer_payment_for_25_contribution_floor_cents": 4958,
       "observed_at": "2026-11-12T07:18:27.220852+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/canvas-in-printed",
+      "required_buyer_payment_for_25_contribution_floor_cents": 4977,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
     },
     {
       "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery",
@@ -7251,6 +8695,16 @@
       "url": "https://products.fourthwall.com/richardson-trucker-hat-embroidery",
       "required_buyer_payment_for_25_contribution_floor_cents": 5310,
       "observed_at": "2026-11-11T19:39:30.287621+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/as-colour-premium-oversized-faded-t-shirt-dtfx",
+      "required_buyer_payment_for_25_contribution_floor_cents": 5840,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/as-colour-unisex-premium-heavyweight-long-sleeve-shirt-dtg",
+      "required_buyer_payment_for_25_contribution_floor_cents": 5964,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
     },
     {
       "url": "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -7281,6 +8735,11 @@
       "url": "https://products.fourthwall.com/matte-paper-framed-poster-with-mat-uv",
       "required_buyer_payment_for_25_contribution_floor_cents": 7808,
       "observed_at": "2026-11-11T19:39:30.287621+00:00"
+    },
+    {
+      "url": "https://products.fourthwall.com/as-colour-unisex-premium-relaxed-hoodie-dtfx",
+      "required_buyer_payment_for_25_contribution_floor_cents": 7826,
+      "observed_at": "2026-11-13T00:41:16.321208+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg",
