@@ -226,5 +226,11 @@
     "observed_at": "2026-11-14T00:38:48.384784+00:00",
     "fetched_sources": 4,
     "candidate_count": 89
+  },
+  {
+    "id": "43566479397",
+    "observed_at": "2026-11-14T06:28:19.212990+00:00",
+    "fetched_sources": 4,
+    "candidate_count": 89
   }
 ]
