@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-17T00:41:45.746667+00:00",
-  "run_id": "43989674642",
+  "observed_at": "2026-11-17T06:31:30.919130+00:00",
+  "run_id": "44031839252",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "4ecb475e29361fbe0ca4f3314e85c8ad40bfb2365ba4a0133cdbe74f0948df2c",
+      "sha256": "24bd197f80597648a30eef3782178963d8bd49ca2c871b7d4cf9c862ab94068c",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "b4dcb60ed49f16fa905e27d7f8cf19a5ec898c67c94e1545e6efdd10d5de9dfe",
+      "sha256": "976844c9950c9fec3e90d21b9135d9506a957301a919ed84f6d002a650afbb03",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "c8f785458db665975189bbbe4b770c5b96015f762c63e2dfcc3ee1029b014013",
+      "sha256": "de79e1ed19876a6a3cb65b20080d998757b2bb5e259dc75ea78565ca0c89b7dc",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -120,7 +120,7 @@
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
       "status": "fetched",
-      "sha256": "452fdbaf567f139002805dfda0e93d594ef8b806e391fb22d7a6a1f8676fe943",
+      "sha256": "bd9932327de58468b13f764b5d7b15540c32ed34f1149413ad45b6309f72c3fc",
       "product_urls": [
         "https://deverror101-shop.fourthwall.com/admin/dashboard/products/all/38f7c748-9e87-4782-9697-324ae52d9f53",
         "https://deverror101-shop.fourthwall.com/en-aud/products/black-glossy-mug",
@@ -149,53 +149,53 @@
       ]
     }
   ],
-  "scan_cursor": 332,
+  "scan_cursor": 340,
   "market_attention_queries": [
     {
-      "query": "pep guardiola",
-      "published": "Mon, 16 Nov 2026 16:20:00 -0800"
+      "query": "tahiti vs cook islands soccer",
+      "published": "Mon, 16 Nov 2026 22:10:00 -0800"
     },
     {
-      "query": "heidi gardner",
-      "published": "Mon, 16 Nov 2026 16:20:00 -0800"
+      "query": "magic johnson",
+      "published": "Mon, 16 Nov 2026 22:00:00 -0800"
     },
     {
-      "query": "warriors vs pelicans",
-      "published": "Mon, 16 Nov 2026 16:10:00 -0800"
+      "query": "las vegas weather",
+      "published": "Mon, 16 Nov 2026 21:50:00 -0800"
     },
     {
-      "query": "canad\u00e1 - guatemala",
-      "published": "Mon, 16 Nov 2026 16:10:00 -0800"
+      "query": "elizabeth debicki",
+      "published": "Mon, 16 Nov 2026 21:50:00 -0800"
     },
     {
-      "query": "celtics schedule",
-      "published": "Mon, 16 Nov 2026 16:10:00 -0800"
+      "query": "aldo de nigris",
+      "published": "Mon, 16 Nov 2026 21:40:00 -0800"
     },
     {
-      "query": "kerch bridge",
-      "published": "Mon, 16 Nov 2026 16:10:00 -0800"
+      "query": "nintendo zelda ocarina",
+      "published": "Mon, 16 Nov 2026 21:40:00 -0800"
     },
     {
-      "query": "jason kelce",
-      "published": "Mon, 16 Nov 2026 16:10:00 -0800"
+      "query": "august holmgren",
+      "published": "Mon, 16 Nov 2026 21:40:00 -0800"
     },
     {
-      "query": "trail blazers vs timberwolves",
-      "published": "Mon, 16 Nov 2026 16:00:00 -0800"
+      "query": "ps4",
+      "published": "Mon, 16 Nov 2026 21:30:00 -0800"
     },
     {
-      "query": "grambling st vs kentucky",
-      "published": "Mon, 16 Nov 2026 16:00:00 -0800"
+      "query": "nick saban college football commentary",
+      "published": "Mon, 16 Nov 2026 21:10:00 -0800"
     },
     {
-      "query": "trinidad and tobago vs antigua and barbuda",
-      "published": "Mon, 16 Nov 2026 16:00:00 -0800"
+      "query": "gta 6 new zealand release time",
+      "published": "Mon, 16 Nov 2026 21:10:00 -0800"
     }
   ],
   "market_references": [
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-      "observed_at": "2026-11-17T00:41:45.746667+00:00",
+      "observed_at": "2026-11-17T06:31:30.919130+00:00",
       "page_status": "fetched",
       "products": [
         {
@@ -281,7 +281,6 @@
       ],
       "page_sha256": "da5df1f3f140fb936b9b0bb7a658217908bcc232e45fc2907e5359c38a8dc42a",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -395,7 +394,6 @@
       ],
       "page_sha256": "6c4783a0a8aef1f8a6ffda64af4e09d16bad61f7c641cae6ec81c2c3a18a396b",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -509,7 +507,6 @@
       ],
       "page_sha256": "61a3520795406a2021c51b49e64e95a8a401968b7ab13e008dc5194f1e36c98c",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -601,8 +598,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 10,
-                      "maxValue": 13,
+                      "minValue": 9,
+                      "maxValue": 12,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -621,8 +618,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "77e9b952cb45151b23315a2d5c21982d21875f4195419bb929fd5b771ce33fe3",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "8dd27b558985c5bf6477bed179a9ee51293a8ee9f29987bcc475d263e476e931",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -659,8 +657,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 10,
-                "maxValue": 13,
+                "minValue": 9,
+                "maxValue": 12,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -714,8 +712,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 10,
-                      "maxValue": 12,
+                      "minValue": 8,
+                      "maxValue": 11,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -734,8 +732,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "8bd5d3d8436f7ddffc3bf6cc385d28b385bc92e9b578284ceeb55e2c94388f71",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "897fc0ec0443114f9fff4db2362f95519177ddf23db02e78e3c140ddc347d1f1",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -772,8 +771,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 10,
-                "maxValue": 12,
+                "minValue": 8,
+                "maxValue": 11,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -841,8 +840,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "c478dd78004f74c657446a2979abe2e56836d9ee251c3d0207df63c0871cca8e",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "af4e5427afbc3444ffc02818abdcb634d0bbb5446ee28ae8ad750659dffb0293",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -977,8 +977,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "e0465a412a1f0e625caed97f7758efb8ffb414ccd5aceef9ee469429a81dd69d",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "9cf802ef185e4a587482267e7784e63fd1f88867b74119edc5f9b5fb161aa782",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1130,8 +1131,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "af30a981283ce5483608ef02049f560e7140991df5e6c451d085fa199836388c",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "78798ff293d6fa30c59b7faf8b67b3a9a720eb3138f7be7beccd60fde6da7443",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1186,8 +1188,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 11,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1216,8 +1218,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 11,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1246,8 +1248,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 11,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1266,8 +1268,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "9297e616ae283157131fba1bfd8a587e8e4137b1852cebc4b70325facba182a1",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "df2a87332ba38f4e443041a28c2d533d131254201cba944eac89ea5bef01b805",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1304,8 +1307,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 11,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1327,8 +1330,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 11,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1350,8 +1353,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 11,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1405,8 +1408,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 11,
+                      "minValue": 8,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1435,8 +1438,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 11,
+                      "minValue": 8,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1465,8 +1468,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 11,
+                      "minValue": 8,
+                      "maxValue": 10,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1485,8 +1488,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "6c6b5511e0725c148600d92588f75eee487436b5f2c1b953992c7af80f87c1f1",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "23b8e8819c451481832ef5e31f8df9b2d90e80e9ee4649caa16ab738c506854d",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1523,8 +1527,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 11,
+                "minValue": 8,
+                "maxValue": 10,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1546,8 +1550,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 11,
+                "minValue": 8,
+                "maxValue": 10,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1569,8 +1573,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 11,
+                "minValue": 8,
+                "maxValue": 10,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1624,8 +1628,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1654,8 +1658,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1684,8 +1688,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 7,
-                      "maxValue": 10,
+                      "minValue": 6,
+                      "maxValue": 9,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -1704,8 +1708,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "8a55b260ca37d61015c7f796cbd2b9f8925691a0d9113b55a8db0526717bc014",
-      "source_observed_at": "2026-11-16T00:47:16.571981+00:00",
+      "page_sha256": "6cff31f10348510f001018e937803afc9577b43687f805be8fdd0f6ea7f5c133",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -1742,8 +1747,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1765,8 +1770,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -1788,8 +1793,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 7,
-                "maxValue": 10,
+                "minValue": 6,
+                "maxValue": 9,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -2146,7 +2151,7 @@
       "market_price_comparison": {
         "status": "posted_price_comparison_only",
         "reference_url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-        "observed_at": "2026-11-17T00:41:45.746667+00:00",
+        "observed_at": "2026-11-17T06:31:30.919130+00:00",
         "reference_minimum_price_cents": 1400,
         "contribution_ceiling_if_buyer_pays_shipping_cents": 364,
         "contribution_ceiling_if_seller_pays_shipping_cents": -305,
@@ -6789,7 +6794,6 @@
       ],
       "page_sha256": "8867c36c802201321060439857a94b904292c034c9acfaae3bd003e27b4a8276",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6860,7 +6864,6 @@
       ],
       "page_sha256": "9edb855415c06138aecb9ca4d5d8a22cce2cfd919f1ddaf3c67a49267435e611",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -6937,7 +6940,6 @@
       ],
       "page_sha256": "c4532a3122a0e14e7fac694ee5b8134ecd04f62cefefc8222a6047ed4d1c9336",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7111,7 +7113,6 @@
       ],
       "page_sha256": "cca1b58bcb6167697fe36095b55183e8a33fa8f86b58d23b8a2ee42994111c4c",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7331,7 +7332,6 @@
       ],
       "page_sha256": "d3ae54e1f40a44f2245bb72c5d51dbeadd13e3e168b96ca1acb6335d00ae1013",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7466,8 +7466,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "6e7856c10882eb07414c5f5488fd71a68700527093d85b8e1a04ee97c28ef2cc",
-      "source_observed_at": "2026-11-16T00:47:16.571981+00:00",
+      "page_sha256": "e92c1ff22a9572a659c80a59f5ec78e9385702b994028d1f5791e09dd996f718",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7519,8 +7520,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "8d441cf4e04b8344231ec77f6bcf40926ad2a91577aa3ac2353d63245049815e",
-      "source_observed_at": "2026-11-16T00:47:16.571981+00:00",
+      "page_sha256": "781d51a2469023d1e5a8d4e63daf8204b3b8c018719eba02292e473cb6fca7aa",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7572,8 +7574,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "4d4d27e609d07b1c2e6028f9c0ced91ac4ce3d315490ac2d9a8e49453a0c068a",
-      "source_observed_at": "2026-11-16T00:47:16.571981+00:00",
+      "page_sha256": "59b0e9a940e7ec061dfc53a4f1f33e483e26b30ba209eb205fcb37f2e3706243",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -7625,8 +7628,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "cf08c4b78fc96e8e614e6048afa8db21a27c4cbfce49db2bbe00478950186cea",
-      "source_observed_at": "2026-11-16T00:47:16.571981+00:00",
+      "page_sha256": "9098a80900c53d7993ce1abdbbcdd3743ab0ee30ca7c8dcdcf7a68e21f50c09c",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9058,7 +9062,6 @@
       ],
       "page_sha256": "786e53cc57e1f63675e0e9e8975e9a10e4f05fdb3601729b2c9c2d71e546f5ab",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9112,7 +9115,6 @@
       ],
       "page_sha256": "e1d1d668d58fb2ae60e5a83e3e6462f28997929ef2ab0755adda387e0b3d52b5",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9166,7 +9168,6 @@
       ],
       "page_sha256": "1a3c17f2c6b6e317b69a810379748bbb6181b7cfdab24d69748ff645ab7d18e9",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9220,7 +9221,6 @@
       ],
       "page_sha256": "b8fbb951a18953852d807675318c085e4530e4b97ad639fa747380f8a5e3d864",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9274,7 +9274,6 @@
       ],
       "page_sha256": "02ab184f573ad4c3a18291f842022087be76d87c131a5b5e0bef2eee7ccaa691",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9328,7 +9327,6 @@
       ],
       "page_sha256": "5091acb01b757280961cd41bdef85a8b208830983c0ef3d1807aa0819ea79eac",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9382,7 +9380,6 @@
       ],
       "page_sha256": "abb1258cbd86fbcbdf5673be3e038479538b36088d79978035dc45ea9bb194a2",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9436,7 +9433,6 @@
       ],
       "page_sha256": "d85715e97f9247ca035ee8e1c7c273e95bc0e3e3c2683ae4f714d222a154591d",
       "source_observed_at": "2026-11-17T00:41:45.746667+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9488,8 +9484,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "57cbc5f829b4993aa39ea9cca1178944d272694ba717fabd043a3c0db6a969a0",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "a53d14879063a5867bec6f3b281e2370f27f11ec062620ee2218c809b03603c5",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9541,8 +9538,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "d67e3cf466bd28029ddbcb286b2664c207b9faf57078ce592e584972f595da60",
-      "source_observed_at": "2026-11-15T18:21:55.247899+00:00",
+      "page_sha256": "3bcd40b4a615a40a318f9a300556964a57d042ea9dc3dbf025e66890d3246ce0",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9594,8 +9592,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "adf7630d0b8e26a0c72040ac7d4774394f3e67dab14804c3e1132b28396cfa56",
-      "source_observed_at": "2026-11-16T00:47:16.571981+00:00",
+      "page_sha256": "f350faf822c3c5b5bc1983eea20c14f643d46fd9e351c7d4894673bb83ccd43e",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9647,8 +9646,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "1f8487ec54ba3bfc5c1e761dd361241b5250ec75f8ce883015071c0a73e6e6fa",
-      "source_observed_at": "2026-11-16T00:47:16.571981+00:00",
+      "page_sha256": "e61741c6da0ef8591acd0f8a362851dbe692cf0e40cdde3d067aed5ddf55c480",
+      "source_observed_at": "2026-11-17T06:31:30.919130+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9752,7 +9752,7 @@
     {
       "url": "https://products.fourthwall.com/as-colour-fisherman-beanie-embroidery",
       "required_buyer_payment_for_25_contribution_floor_cents": 5052,
-      "observed_at": "2026-11-15T18:21:55.247899+00:00"
+      "observed_at": "2026-11-17T06:31:30.919130+00:00"
     },
     {
       "url": "https://products.fourthwall.com/otto-vintage-wash-dad-hat",
@@ -9767,12 +9767,12 @@
     {
       "url": "https://products.fourthwall.com/as-colour-premium-oversized-faded-t-shirt-dtfx",
       "required_buyer_payment_for_25_contribution_floor_cents": 5840,
-      "observed_at": "2026-11-15T18:21:55.247899+00:00"
+      "observed_at": "2026-11-17T06:31:30.919130+00:00"
     },
     {
       "url": "https://products.fourthwall.com/as-colour-unisex-premium-heavyweight-long-sleeve-shirt-dtg",
       "required_buyer_payment_for_25_contribution_floor_cents": 5964,
-      "observed_at": "2026-11-15T18:21:55.247899+00:00"
+      "observed_at": "2026-11-17T06:31:30.919130+00:00"
     },
     {
       "url": "https://products.fourthwall.com/framed-high-quality-matte-poster-printed",
@@ -9802,7 +9802,7 @@
     {
       "url": "https://products.fourthwall.com/all-over-print-skater-dress",
       "required_buyer_payment_for_25_contribution_floor_cents": 7113,
-      "observed_at": "2026-11-15T18:21:55.247899+00:00"
+      "observed_at": "2026-11-17T06:31:30.919130+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanleystella-unisex-essential-eco-hoodie",
@@ -9822,7 +9822,7 @@
     {
       "url": "https://products.fourthwall.com/as-colour-unisex-premium-relaxed-hoodie-dtfx",
       "required_buyer_payment_for_25_contribution_floor_cents": 7826,
-      "observed_at": "2026-11-16T00:47:16.571981+00:00"
+      "observed_at": "2026-11-17T06:31:30.919130+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-organic-side-pocket-hoodie-dtg",
@@ -9837,7 +9837,7 @@
     {
       "url": "https://products.fourthwall.com/all-over-print-unisex-cotton-hoodie-sublimation",
       "required_buyer_payment_for_25_contribution_floor_cents": 8589,
-      "observed_at": "2026-11-15T18:21:55.247899+00:00"
+      "observed_at": "2026-11-17T06:31:30.919130+00:00"
     },
     {
       "url": "https://products.fourthwall.com/stanley-stella-unisex-garment-dyed-chaser-vintage-hoodie-dtfx",
