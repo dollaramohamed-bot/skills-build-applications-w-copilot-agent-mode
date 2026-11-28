@@ -4,14 +4,14 @@
     "product_categories": "unrestricted",
     "available_spend_cents": 0
   },
-  "observed_at": "2026-11-28T06:30:06.043116+00:00",
-  "run_id": "46116873496",
+  "observed_at": "2026-11-28T12:25:57.040073+00:00",
+  "run_id": "46144616892",
   "mode": "live_public_research",
   "sources": [
     {
       "url": "https://royalcraftwood.com/collections/storage-organization",
       "status": "fetched",
-      "sha256": "928f0c72c35ef4cbcd29dd71eec764f98de0888022df9bdb6af6ee1ee92a70d7",
+      "sha256": "2517e52e42bf201a6b56b2dca3dd8c580334fa53ce8f0456f115479c12b9fd6b",
       "product_urls": [
         "https://royalcraftwood.com/products/bamboo-bathroom-organizer",
         "https://royalcraftwood.com/products/bamboo-cheese-board-16x10",
@@ -60,13 +60,13 @@
     {
       "url": "https://trends.google.com/trending/rss?geo=US",
       "status": "fetched",
-      "sha256": "eea9ff6ce994539a7a56462c753bafa15afd192b61f5f3fbfa2394dc812de1c0",
+      "sha256": "009974afc9f1f88754fbc80b3959be0d99039d47d11f3d80743e3c568ff1f29b",
       "product_urls": []
     },
     {
       "url": "https://products.fourthwall.com/",
       "status": "fetched",
-      "sha256": "08ed508f29cf6b5edbeee72c7d2cdaee35f5f15d5e3709af89f4f47979024b8c",
+      "sha256": "97559a2969d68703daf4ca78c09687c0966af5496269521bdd47b3549cbc5f5c",
       "product_urls": [
         "https://products.fourthwall.com/all-over-print-basic-pillow-case",
         "https://products.fourthwall.com/all-over-print-mens-leggings",
@@ -150,53 +150,53 @@
       ]
     }
   ],
-  "scan_cursor": 692,
+  "scan_cursor": 700,
   "market_attention_queries": [
     {
-      "query": "jodie foster",
-      "published": "Fri, 27 Nov 2026 22:00:00 -0800"
+      "query": "lincoln city vs wolves",
+      "published": "Sat, 28 Nov 2026 04:10:00 -0800"
     },
     {
-      "query": "wlfi",
-      "published": "Fri, 27 Nov 2026 22:00:00 -0800"
+      "query": "donald trump",
+      "published": "Sat, 28 Nov 2026 04:10:00 -0800"
     },
     {
-      "query": "dustin hoffman",
-      "published": "Fri, 27 Nov 2026 21:50:00 -0800"
+      "query": "taiwan local elections",
+      "published": "Sat, 28 Nov 2026 04:00:00 -0800"
     },
     {
-      "query": "wes enis",
-      "published": "Fri, 27 Nov 2026 21:50:00 -0800"
+      "query": "cuba",
+      "published": "Sat, 28 Nov 2026 04:00:00 -0800"
     },
     {
-      "query": "robin givens",
-      "published": "Fri, 27 Nov 2026 21:40:00 -0800"
+      "query": "target hours today",
+      "published": "Sat, 28 Nov 2026 03:50:00 -0800"
     },
     {
-      "query": "gta 6 chapter 3 mission list",
-      "published": "Fri, 27 Nov 2026 21:30:00 -0800"
+      "query": "al-hazem vs al-nassr",
+      "published": "Sat, 28 Nov 2026 03:40:00 -0800"
     },
     {
-      "query": "texas tech basketball",
-      "published": "Fri, 27 Nov 2026 21:20:00 -0800"
+      "query": "college football scores",
+      "published": "Sat, 28 Nov 2026 03:40:00 -0800"
     },
     {
-      "query": "mega millions winning numbers",
-      "published": "Fri, 27 Nov 2026 21:10:00 -0800"
+      "query": "patch",
+      "published": "Sat, 28 Nov 2026 03:40:00 -0800"
     },
     {
-      "query": "jim caviezel",
-      "published": "Fri, 27 Nov 2026 21:10:00 -0800"
+      "query": "connections today",
+      "published": "Sat, 28 Nov 2026 03:40:00 -0800"
     },
     {
-      "query": "lakers game today",
-      "published": "Fri, 27 Nov 2026 21:10:00 -0800"
+      "query": "real betis",
+      "published": "Sat, 28 Nov 2026 03:40:00 -0800"
     }
   ],
   "market_references": [
     {
       "url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-      "observed_at": "2026-11-28T06:30:06.043116+00:00",
+      "observed_at": "2026-11-28T12:25:57.040073+00:00",
       "page_status": "fetched",
       "products": [
         {
@@ -2074,7 +2074,7 @@
       "market_price_comparison": {
         "status": "posted_price_comparison_only",
         "reference_url": "https://deverror101-shop.fourthwall.com/products/black-glossy-mug",
-        "observed_at": "2026-11-28T06:30:06.043116+00:00",
+        "observed_at": "2026-11-28T12:25:57.040073+00:00",
         "reference_minimum_price_cents": 1400,
         "contribution_ceiling_if_buyer_pays_shipping_cents": 364,
         "contribution_ceiling_if_seller_pays_shipping_cents": -305,
@@ -2203,7 +2203,6 @@
       ],
       "page_sha256": "841917edf6274eafb430e2d0f000e75ba75172d527437d6ce941c05c9227d391",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2423,7 +2422,6 @@
       ],
       "page_sha256": "dc442cc603b91729fed4e5dfceee370e0b3a999a48ef9f4d31c1708b02af35b1",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2643,7 +2641,6 @@
       ],
       "page_sha256": "6dc189366aab5bab40e439297804cf6bb7757d23ac43a826e1330a6b8d826f06",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -2863,7 +2860,6 @@
       ],
       "page_sha256": "7f38b8da69efcbf37a23ce4996cd0ba62ddb934d3e97e563c1c158ef2c4f6dce",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3083,7 +3079,6 @@
       ],
       "page_sha256": "434515a7e47ef55a480f99841712e1306f72da51ef5b402aa7a8606f1fa7d9ac",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3221,7 +3216,6 @@
       ],
       "page_sha256": "64fc6af12c6aa76604b55e4858d2e507b603c223eb5d09936d84e3dbec8d2268",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3298,7 +3292,6 @@
       ],
       "page_sha256": "4dcf601a8e4a53253342c02e5106a82196a779231c778e4e1c8cbf5bf1b469fb",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3472,7 +3465,6 @@
       ],
       "page_sha256": "d2cf3b237b2a44ef020447bbb02756eb6fc37390825a48688c6c017ab4536545",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3690,8 +3682,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "8100bf95826fa31e251dc8c0e1907771925a6af94288b71378cae5b14e949a27",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "9eb71d81eff5112cdc79d716f661da7c2bb05036f29b563326c4b08341d7f7ed",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3843,8 +3836,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "9ffb5b28280ad274179a43a18183b7c18c15c8d6edaddd9f66952febb5987f1e",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "75e2b9415e5442122a061ffa223bbaf39588793075a4808769da4f64af10db58",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3897,8 +3891,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "848b6a45b708f61f16dc15aef1f5d21ccee3001c6be3856e628a5f246829bd60",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "f2c2726ee1f5d7ca376ff2d3fa27ba3784a382273650ac8b5b1ddf4b47546734",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -3953,8 +3948,8 @@
                   },
                   "deliveryTime": {
                     "transitTime": {
-                      "minValue": 6,
-                      "maxValue": 11,
+                      "minValue": 9,
+                      "maxValue": 12,
                       "unitCode": "d",
                       "@type": "QuantitativeValue"
                     },
@@ -3973,8 +3968,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "7b442a8a8070ab26380c7df67a808a074d50d6900065f5cc0937e06ea9aec1c4",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "e704247146935c4d035470f36113fbfd4ba44e10e4cd869483c6024e7da008fa",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4011,8 +4007,8 @@
             },
             "transit_time": {
               "transitTime": {
-                "minValue": 6,
-                "maxValue": 11,
+                "minValue": 9,
+                "maxValue": 12,
                 "unitCode": "d",
                 "@type": "QuantitativeValue"
               },
@@ -4064,8 +4060,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "5ac6891d0cc60b0e3b9e5f556147d2869770c6b4a78d218231be7653b49882ff",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "ea0c6820f99f2a92bc21e6927137fbc53407f90cc631f1a4f13874789dc9451c",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4118,8 +4115,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "3aef0b2d1388896f9628abdb19ea4164dbe25c6d240d9d1ea10ca60fca4dbdea",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "fbfa59803e639921f712c2f31b9353bf015b4d887304b9a69860b937e22e5ad7",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4172,8 +4170,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "115ae771128f19e1c6f43a6a05e0e167190834af116c3fea7fdb18e0b800f385",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "7fa1e1c48083ee84b212902f2f2805aae91b92344ef5449b04c08a26ef38fa31",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -4226,8 +4225,9 @@
           "cost_basis": "Supplier catalog starting costs; exact variant quote unverified"
         }
       ],
-      "page_sha256": "18574db8603eeedf5b31839dd6f7b5924620b027e017297dd6bc353e2d2e85ad",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "7ce1eab65245dfad3da0bdb38be0b7affdf02dc6b2de1e2b41dbd7892c6f1a5f",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8100,7 +8100,6 @@
       ],
       "page_sha256": "fd9a89a71eae45d5ecd252fb1ac704eef94613e134d91f900190de7b268b4488",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8154,7 +8153,6 @@
       ],
       "page_sha256": "dee978c12c0af081b96dcb4c5d96eb67e5784bd66d5efc1e29610949040020f8",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8208,7 +8206,6 @@
       ],
       "page_sha256": "7b74030e58dd7b99b9f8a9cbb317fe915d87ddf65237ee9c53ac83db97386791",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8262,7 +8259,6 @@
       ],
       "page_sha256": "4a6454e382b310c725bf7a2c928e15c9e2c32302fa9cf7d1bbdcc26d52ceb825",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8316,7 +8312,6 @@
       ],
       "page_sha256": "88c0f8db9a871310cecf94553fa590636f50e4844da15caffc37f17367f0eb7b",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8370,7 +8365,6 @@
       ],
       "page_sha256": "f98561edb88b9bfb589958be330392884b51f56db16a4fdb0b722517ce5ad8ff",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8424,7 +8418,6 @@
       ],
       "page_sha256": "99d4c0f00020ff3089b5ff7770951a5f73b5a631ade49b8bb918d594d579a64b",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8478,7 +8471,6 @@
       ],
       "page_sha256": "0bd18bc66294d445db4f315193341df65a7f446f9965bc9e442c6d28a681f28a",
       "source_observed_at": "2026-11-28T06:30:06.043116+00:00",
-      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8530,8 +8522,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "0fc64a37ed664f7c5c44b3fa77f79dedaef3c6300c0b57ce898a04876ae6bf42",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "457af25ae8f6fbe5e4d78adc138e550287fa86f7f316ea20356a3adddcda9226",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8583,8 +8576,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "66cbcae23e37c4b1dedc6b14e5493b2f25bab0eaf64fadf5f014bb98f2756a30",
-      "source_observed_at": "2026-11-27T00:41:37.740013+00:00",
+      "page_sha256": "01e5bb261505acbace4ebc23500e6e0f7a828b9ad46de42abdae02b9803e0482",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8636,8 +8630,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "0ffd12a4732d25ecb21dcdd05f3f16292082b1dd40b3f7359e644825d9ea3f18",
-      "source_observed_at": "2026-11-27T06:33:02.408594+00:00",
+      "page_sha256": "4728323695048d1ce27cacdf0252b2ccdcdc24cd655185e79ac440e41b0e1fd9",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8689,8 +8684,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "19aad572e1bd387453e13890fdec55b589b45f4fc05ff71d09d7b3594cb48d50",
-      "source_observed_at": "2026-11-27T06:33:02.408594+00:00",
+      "page_sha256": "154b9d230bcff6f04a255d5709f3de067706388731a892b489bf5081a83ad5e8",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8742,8 +8738,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "acb95a588c9d0ad6d7523b0d7c4326c156f038a4c3e8928df7771fd5cf7f96f3",
-      "source_observed_at": "2026-11-27T06:33:02.408594+00:00",
+      "page_sha256": "008648e6822cea2d60595aeee9978493ddd9c50e3cc91372eda1c4ce73a40054",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8795,8 +8792,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "7c870bdd4d925ecba69c858900322bad398d03b0a5029f9dc8051869a0c59cdf",
-      "source_observed_at": "2026-11-27T06:33:02.408594+00:00",
+      "page_sha256": "a5c8cb24a536519cc2ac76dfdc88da5105f63dd8694b48253075d987105434cd",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8848,8 +8846,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "180919b54eb2256419858f30f01de2596dead0ed593b0cc71eb95c6ccd4d6aa1",
-      "source_observed_at": "2026-11-27T06:33:02.408594+00:00",
+      "page_sha256": "ec782df8364117877c5ab5b7e58818993c28f3057e61a587eaa6f5be09a944fd",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -8901,8 +8900,9 @@
           "cost_basis": "Retail page only; wholesale and freight unverified"
         }
       ],
-      "page_sha256": "2c568c107a8426a54e5ab845918f9f429024a08c13dc982b6385aaac6b17c818",
-      "source_observed_at": "2026-11-27T06:33:02.408594+00:00",
+      "page_sha256": "9554c61e4a80f930d635e73852a66d4862c7f5744dab23c2efc4b3938119420c",
+      "source_observed_at": "2026-11-28T12:25:57.040073+00:00",
+      "page_status": "fetched",
       "profit_gate": {
         "decision": "hold",
         "missing": [
@@ -9673,7 +9673,7 @@
     {
       "url": "https://products.fourthwall.com/kiss-cut-stickers-1",
       "required_buyer_payment_for_25_contribution_floor_cents": 3486,
-      "observed_at": "2026-11-27T00:41:37.740013+00:00"
+      "observed_at": "2026-11-28T12:25:57.040073+00:00"
     },
     {
       "url": "https://products.fourthwall.com/enhanced-matte-paper-poster-printed",
@@ -9688,7 +9688,7 @@
     {
       "url": "https://products.fourthwall.com/gildan-heavyweight-t-shirt-dtfx-1",
       "required_buyer_payment_for_25_contribution_floor_cents": 4247,
-      "observed_at": "2026-11-27T00:41:37.740013+00:00"
+      "observed_at": "2026-11-28T12:25:57.040073+00:00"
     },
     {
       "url": "https://products.fourthwall.com/black-glossy-mug",
